@@ -4,7 +4,7 @@ date: 2025-12-01
 meetup_number: 24
 type: transcript
 venue: "H.R. MacMillan Space Centre (contract signed through 2026)"
-speakers: ["Andrea Mills", "Carol Anne Hilton", "Gokhan Basaran", "Gordon Hamilton", "Kate Armstrong", "Lorraine Lowe", "Marc Busse", "Matthew Schwartzman", "Michael Tippett", "Philippe Pasquier"]
+speakers: ["Andrea Mills", "Carol Anne Hilton", "Gokhan Basaran", "Gordon Hamilton", "Kate Armstrong", "Lorraine Lowe", "Mark Busse", "Matthew Schwartzman", "Michael Tippett", "Philippe Pasquier"]
 attendance: 150
 tags: ["meetup", "transcript", "vancouver-ai"]
 ---

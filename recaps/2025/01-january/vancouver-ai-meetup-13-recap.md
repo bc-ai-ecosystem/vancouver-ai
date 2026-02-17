@@ -1,6 +1,6 @@
 ---
 title: "Vancouver AI Community Meetup #13 - Recap"
-date: 2024-03-11
+date: 2025-01-01
 meetup_number: 13
 type: recap
 venue: "MacMillan Space Centre, Vancouver"

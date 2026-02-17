@@ -4,7 +4,7 @@ date: 2024-02-01
 meetup_number: 14
 type: transcript
 venue: "McMillan Space Centre (Planetarium), Vancouver"
-speakers: ["Dean Shev", "Jackson Wu Shyang", "Kate Armstrong", "Kevin Friel", "Matthew Schwartzman", "Michael Tippett", "jonny williams"]
+speakers: ["Dean Shev", "Jackson Wu Shyang", "Jonny Williams", "Kate Armstrong", "Kevin Friel", "Matthew Schwartzman", "Michael Tippett"]
 attendance: 500
 tags: ["meetup", "transcript", "vancouver-ai"]
 ---

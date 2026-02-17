@@ -4,7 +4,7 @@ date: 2025-10-29
 meetup_number: 22
 type: transcript
 venue: "HR MacMillan Space Centre (Planetarium), Vancouver, BC"
-speakers: ["Darby Yule", "Kevin Friel", "Kris Kr\u00fcg", "Matthew Schwartzman", "Michael Tippett", "Philippe Pasquier", "jonny williams"]
+speakers: ["Darby Yule", "Jonny Williams", "Kevin Friel", "Kris Kr\u00fcg", "Matthew Schwartzman", "Michael Tippett", "Philippe Pasquier"]
 attendance: 250
 tags: ["meetup", "transcript", "vancouver-ai"]
 ---

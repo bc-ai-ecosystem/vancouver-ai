@@ -4,7 +4,7 @@ date: 2024-04-01
 meetup_number: 16
 type: transcript
 venue: "McMillan Space Centre (Planetarium), Vancouver"
-speakers: ["Dean Shev", "Kevin Friel", "Kris Kr\u00fcg", "Matthew Schwartzman", "Steven Jones", "jonny williams"]
+speakers: ["Dean Shev", "Jonny Williams", "Kevin Friel", "Kris Kr\u00fcg", "Matthew Schwartzman", "Steven Jones"]
 attendance: 30
 tags: ["meetup", "transcript", "vancouver-ai"]
 ---

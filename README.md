@@ -2,7 +2,7 @@
 
 **A community-maintained open data resource for AI practitioners, researchers, and tinkerers.**
 
-Welcome to the public archive of the [Vancouver AI Community](https://vancouver.bcai.net) monthly meetups. This repository contains verbatim transcripts, analytical recaps, and machine-readable indexes from 22+ monthly gatherings of Vancouver's AI community.
+Welcome to the public archive of the [Vancouver AI Community](https://vancouver.bcai.net) monthly meetups. This repository contains verbatim transcripts, analytical recaps, and machine-readable indexes from 20+ monthly gatherings of Vancouver's AI community.
 
 ## What's Inside
 
@@ -16,10 +16,10 @@ Welcome to the public archive of the [Vancouver AI Community](https://vancouver.
 
 ## Quick Stats
 
-- **22** events indexed (2024, 2025, 2026)
+- **20** events indexed (2024, 2025, 2026)
 - **37** documents (20 transcripts, 17 recaps)
-- **47** speakers referenced
-- **Thousands** of community insights
+- **45** speakers referenced
+- **~250k words** of community discourse
 
 ## Use Cases
 

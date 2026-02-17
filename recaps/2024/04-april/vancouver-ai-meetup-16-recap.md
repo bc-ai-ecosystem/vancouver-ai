@@ -4,7 +4,7 @@ date: 2024-04-01
 meetup_number: 16
 type: recap
 venue: "MacMillan Space Centre, Vancouver"
-speakers: ["Dimitri Schwartzman", "Kevin Friel", "Kris Kr\u00fcg", "Matthew Schwartzman", "\u267e\ufe0f sev geraskin"]
+speakers: ["Dimitri Schwartzman", "Kevin Friel", "Kris Kr\u00fcg", "Matthew Schwartzman", "Sev Geraskin"]
 attendance: 200
 tags: ["meetup", "recap", "vancouver-ai"]
 ---

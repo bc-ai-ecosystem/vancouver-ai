@@ -4,7 +4,7 @@ date: 2024-06-01
 meetup_number: 18
 type: recap
 venue: "MacMillan Space Centre, Vancouver"
-speakers: ["Carol Ann Hilton", "Lorraine Lowe", "Matt Sinclair", "Morten Rand-Hendriksen", "Noah Brunn"]
+speakers: ["Carol Anne Hilton", "Lorraine Lowe", "Matt Sinclair", "Morten Rand-Hendriksen", "Noah Brunn"]
 attendance: 225
 tags: ["meetup", "recap", "vancouver-ai"]
 ---

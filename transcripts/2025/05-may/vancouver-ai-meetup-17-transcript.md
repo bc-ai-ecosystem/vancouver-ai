@@ -4,7 +4,7 @@ date: 2025-05-01
 meetup_number: 17
 type: transcript
 venue: "McMillan Space Centre (Planetarium), Vancouver"
-speakers: ["Carol Ann Hilton", "Carol Anne Hilton", "David Monteyne", "Dean Shev", "Dimitri Schwartzman", "Kevin Friel", "Kris Kr\u00fcg", "Mark Busse", "Matthew Schwartzman", "Ron Segev"]
+speakers: ["Carol Anne Hilton", "David Monteyne", "Dean Shev", "Dimitri Schwartzman", "Kevin Friel", "Kris Kr\u00fcg", "Mark Busse", "Matthew Schwartzman", "Ron Segev"]
 attendance: 200
 tags: ["meetup", "transcript", "vancouver-ai"]
 ---

@@ -11,13 +11,13 @@
       "Dean Shev",
       "Dimitri Schwartzman",
       "Jackson Wu Shyang",
+      "Jonny Williams",
       "Kate Armstrong",
       "Kevin Friel",
       "Kris Krüg",
       "Loki Jorgenson",
       "Matthew Schwartzman",
-      "Michael Tippett",
-      "jonny williams"
+      "Michael Tippett"
     ],
     "attendance": 200,
     "themes": [],
@@ -34,7 +34,7 @@
     "month": "03-march",
     "meetup_number": 15,
     "title": "Vancouver AI Community Meetup #15 - Recap",
-    "date": "2023-12-07",
+    "date": "2024-03-01",
     "venue": "MacMillan Space Centre, Vancouver",
     "speakers": [
       "Alex Tapscott",
@@ -65,12 +65,12 @@
     "speakers": [
       "Dean Shev",
       "Dimitri Schwartzman",
+      "Jonny Williams",
       "Kevin Friel",
       "Kris Krüg",
       "Matthew Schwartzman",
-      "Steven Jones",
-      "jonny williams",
-      "♾️ sev geraskin"
+      "Sev Geraskin",
+      "Steven Jones"
     ],
     "attendance": 200,
     "themes": [],
@@ -91,7 +91,7 @@
     "venue": "MacMillan Space Centre, Vancouver",
     "speakers": [
       "Aliza Schwartzman",
-      "Carol Ann Hilton",
+      "Carol Anne Hilton",
       "Dimitri Schwartzman",
       "Kemp Edmonds",
       "Kris Krüg",
@@ -100,7 +100,7 @@
       "Matthew Schwartzman",
       "Morten Rand-Hendriksen",
       "Noah Brunn",
-      "♾️ sev geraskin"
+      "Sev Geraskin"
     ],
     "attendance": 225,
     "themes": [],
@@ -161,7 +161,7 @@
       "Dean Shev",
       "Kevin Friel",
       "Prajwal Prashanth",
-      "♾️ sev geraskin"
+      "Sev Geraskin"
     ],
     "attendance": 572,
     "themes": [],
@@ -234,7 +234,7 @@
     "year": "2024",
     "month": "12-december",
     "meetup_number": 24,
-    "title": "Vancouver AI Community Meetup #24 - December 2024 Recap",
+    "title": "Indigenous AI & Data Sovereignty - Peter Lucas Jones Keynote Recap",
     "date": "2024-12-01",
     "venue": "Space Center, Vancouver, BC",
     "speakers": [
@@ -248,43 +248,13 @@
     "attendance": null,
     "themes": [],
     "transcript_paths": [
+      "transcripts/2024/12-december/peter-lucas-jones-indigenous-ai-keynote-transcript.md",
       "transcripts/2024/12-december/vancouver-ai-meetup-24-transcript.md"
     ],
     "recap_paths": [
+      "recaps/2024/12-december/peter-lucas-jones-indigenous-ai-keynote-recap.md",
       "recaps/2024/12-december/vancouver-ai-meetup-24-recap.md"
     ]
-  },
-  {
-    "event_id": "2024-12-december-peter-lucas-jones-indigenous-ai-keynote-recap",
-    "year": "2024",
-    "month": "12-december",
-    "meetup_number": null,
-    "title": "Indigenous AI & Data Sovereignty - Peter Lucas Jones Keynote Recap",
-    "date": "2024-12-01",
-    "venue": null,
-    "speakers": [],
-    "attendance": null,
-    "themes": [],
-    "transcript_paths": [],
-    "recap_paths": [
-      "recaps/2024/12-december/peter-lucas-jones-indigenous-ai-keynote-recap.md"
-    ]
-  },
-  {
-    "event_id": "2024-12-december-peter-lucas-jones-indigenous-ai-keynote-transcript",
-    "year": "2024",
-    "month": "12-december",
-    "meetup_number": null,
-    "title": "Peter Lucas Jones - Indigenous AI & Language Sovereignty Keynote",
-    "date": "2024-12-01",
-    "venue": null,
-    "speakers": [],
-    "attendance": null,
-    "themes": [],
-    "transcript_paths": [
-      "transcripts/2024/12-december/peter-lucas-jones-indigenous-ai-keynote-transcript.md"
-    ],
-    "recap_paths": []
   },
   {
     "event_id": "2025-01-january-meetup-13",
@@ -292,7 +262,7 @@
     "month": "01-january",
     "meetup_number": 13,
     "title": "Vancouver AI Community Meetup #13 - Recap",
-    "date": "2024-03-11",
+    "date": "2025-01-01",
     "venue": "MacMillan Space Centre, Vancouver",
     "speakers": [
       "Brittney Smaila",
@@ -327,7 +297,6 @@
     "date": "2025-05-01",
     "venue": "MacMillan Space Centre, Vancouver",
     "speakers": [
-      "Carol Ann Hilton",
       "Carol Anne Hilton",
       "David Monteyne",
       "Dean Shev",
@@ -357,14 +326,14 @@
     "date": "2025-07-01",
     "venue": "MacMillan Space Centre, Vancouver",
     "speakers": [
-      "Carol Ann Hilton",
+      "Carol Anne Hilton",
       "Dimitri Schwartzman",
+      "Jonny Williams",
       "Kris Krüg",
       "Lorraine Lowe",
       "Matt Sinclair",
       "Noah Brunn",
-      "Peter Bowles",
-      "jonny williams"
+      "Peter Bowles"
     ],
     "attendance": 225,
     "themes": [],
@@ -385,7 +354,6 @@
     "venue": "MacMillan Space Centre, Vancouver",
     "speakers": [
       "Brett Henderson",
-      "Carol Ann Hilton",
       "Carol Anne Hilton",
       "Darren Nicholls",
       "Dean Shev",
@@ -396,7 +364,7 @@
       "Lorraine Lowe",
       "Mark Busse",
       "Matthew Schwartzman",
-      "♾️ sev geraskin"
+      "Sev Geraskin"
     ],
     "attendance": 250,
     "themes": [],
@@ -417,15 +385,15 @@
     "date": "2025-09-24",
     "venue": "HR MacMillan Space Centre (Planetarium), Vancouver, BC",
     "speakers": [
-      "Carol Ann Hilton",
+      "Carol Anne Hilton",
       "Dean Shev",
       "Dimitri Schwartzman",
       "Gabriel Zaro",
+      "Jonny Williams",
       "Kris Krüg",
       "Loki Jorgenson",
       "Matt Sinclair",
-      "Matthew Schwartzman",
-      "jonny williams"
+      "Matthew Schwartzman"
     ],
     "attendance": 250,
     "themes": [
@@ -452,12 +420,12 @@
     "venue": "HR MacMillan Space Centre (Planetarium), Vancouver, BC",
     "speakers": [
       "Darby Yule",
+      "Jonny Williams",
       "Kevin Friel",
       "Kris Krüg",
       "Matthew Schwartzman",
       "Michael Tippett",
-      "Philippe Pasquier",
-      "jonny williams"
+      "Philippe Pasquier"
     ],
     "attendance": 250,
     "themes": [
@@ -512,7 +480,7 @@
       "Gordon Hamilton",
       "Kate Armstrong",
       "Lorraine Lowe",
-      "Marc Busse",
+      "Mark Busse",
       "Matthew Schwartzman",
       "Michael Tippett",
       "Philippe Pasquier",

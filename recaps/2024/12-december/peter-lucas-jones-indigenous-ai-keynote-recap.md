@@ -1,6 +1,7 @@
 ---
 title: "Indigenous AI & Data Sovereignty - Peter Lucas Jones Keynote Recap"
 date: 2024-12-01
+meetup_number: 24
 type: recap
 tags: ["meetup", "recap", "vancouver-ai"]
 ---

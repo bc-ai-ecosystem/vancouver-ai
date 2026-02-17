@@ -4,7 +4,7 @@ date: 2024-06-01
 meetup_number: 18
 type: transcript
 venue: "McMillan Space Centre (Planetarium), Vancouver"
-speakers: ["Aliza Schwartzman", "Carol Ann Hilton", "Dimitri Schwartzman", "Kemp Edmonds", "Kris Kr\u00fcg", "Lorraine Lowe", "Matt Sinclair", "Matthew Schwartzman", "Morten Rand-Hendriksen", "Noah Brunn"]
+speakers: ["Aliza Schwartzman", "Carol Anne Hilton", "Dimitri Schwartzman", "Kemp Edmonds", "Kris Kr\u00fcg", "Lorraine Lowe", "Matt Sinclair", "Matthew Schwartzman", "Morten Rand-Hendriksen", "Noah Brunn"]
 attendance: 225
 tags: ["meetup", "transcript", "vancouver-ai"]
 ---

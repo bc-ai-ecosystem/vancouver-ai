@@ -4,7 +4,7 @@ date: 2025-07-28
 meetup_number: 19
 type: transcript
 venue: "McMillan Space Centre (Planetarium), Vancouver"
-speakers: ["Carol Ann Hilton", "Dimitri Schwartzman", "Kris Kr\u00fcg", "Lorraine Lowe", "Matt Sinclair", "Peter Bowles", "jonny williams"]
+speakers: ["Carol Anne Hilton", "Dimitri Schwartzman", "Jonny Williams", "Kris Kr\u00fcg", "Lorraine Lowe", "Matt Sinclair", "Peter Bowles"]
 attendance: 225
 tags: ["meetup", "transcript", "vancouver-ai"]
 ---

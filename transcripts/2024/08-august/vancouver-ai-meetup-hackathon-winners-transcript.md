@@ -3,7 +3,7 @@ title: "Vancouver AI Meetup - August 2024 - Hackathon Winners Presentation"
 date: 2024-08-01
 type: transcript
 venue: "HR MacMillan Space Centre, Vancouver"
-speakers: ["Brett Henderson", "Carol Anne Hilton", "Dean Shev", "Kevin Friel", "Prajwal Prashanth", "\u267e\ufe0f sev geraskin"]
+speakers: ["Brett Henderson", "Carol Anne Hilton", "Dean Shev", "Kevin Friel", "Prajwal Prashanth", "Sev Geraskin"]
 attendance: 572
 tags: ["meetup", "transcript", "vancouver-ai"]
 ---

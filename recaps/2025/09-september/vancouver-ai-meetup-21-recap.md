@@ -4,7 +4,7 @@ date: 2025-09-24
 meetup_number: 21
 type: recap
 venue: "HR MacMillan Space Centre (Planetarium), Vancouver, BC"
-speakers: ["Dean Shev", "Dimitri Schwartzman", "Gabriel Zaro", "Kris Kr\u00fcg", "Loki Jorgenson", "Matt Sinclair", "jonny williams"]
+speakers: ["Dean Shev", "Dimitri Schwartzman", "Gabriel Zaro", "Jonny Williams", "Kris Kr\u00fcg", "Loki Jorgenson", "Matt Sinclair"]
 attendance: 250
 themes: ["Indigenous AI:", "Plant Communication:", "Language Preservation:", "Community Infrastructure:", "Ethical AI:"]
 tags: ["meetup", "recap", "vancouver-ai"]

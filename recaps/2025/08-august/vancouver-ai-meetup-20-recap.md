@@ -4,7 +4,7 @@ date: 2025-08-01
 meetup_number: 20
 type: recap
 venue: "MacMillan Space Centre, Vancouver"
-speakers: ["Carol Ann Hilton", "Dean Shev", "Dimitri Schwartzman", "Kevin Friel", "Kris Kr\u00fcg", "Lorraine Lowe", "\u267e\ufe0f sev geraskin"]
+speakers: ["Carol Anne Hilton", "Dean Shev", "Dimitri Schwartzman", "Kevin Friel", "Kris Kr\u00fcg", "Lorraine Lowe", "Sev Geraskin"]
 attendance: 250
 tags: ["meetup", "recap", "vancouver-ai"]
 ---

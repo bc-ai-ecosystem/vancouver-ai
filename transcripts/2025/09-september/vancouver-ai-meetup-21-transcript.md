@@ -4,7 +4,7 @@ date: 2025-09-24
 meetup_number: 21
 type: transcript
 venue: "HR MacMillan Space Centre (Planetarium), Vancouver, BC"
-speakers: ["Carol Ann Hilton", "Dean Shev", "Dimitri Schwartzman", "Gabriel Zaro", "Kris Kr\u00fcg", "Loki Jorgenson", "Matt Sinclair", "Matthew Schwartzman", "jonny williams"]
+speakers: ["Carol Anne Hilton", "Dean Shev", "Dimitri Schwartzman", "Gabriel Zaro", "Jonny Williams", "Kris Kr\u00fcg", "Loki Jorgenson", "Matt Sinclair", "Matthew Schwartzman"]
 attendance: 125
 tags: ["meetup", "transcript", "vancouver-ai"]
 ---

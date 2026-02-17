@@ -48,6 +48,18 @@
     "mention_count": 15
   },
   {
+    "name": "Carol Anne Hilton",
+    "meetups": [
+      17,
+      18,
+      19,
+      20,
+      21,
+      24
+    ],
+    "mention_count": 12
+  },
+  {
     "name": "Dimitri Schwartzman",
     "meetups": [
       13,
@@ -94,17 +106,6 @@
     "mention_count": 9
   },
   {
-    "name": "Carol Ann Hilton",
-    "meetups": [
-      17,
-      18,
-      19,
-      20,
-      21
-    ],
-    "mention_count": 8
-  },
-  {
     "name": "Lorraine Lowe",
     "meetups": [
       13,
@@ -114,6 +115,17 @@
       24
     ],
     "mention_count": 8
+  },
+  {
+    "name": "Jonny Williams",
+    "meetups": [
+      14,
+      16,
+      19,
+      21,
+      22
+    ],
+    "mention_count": 7
   },
   {
     "name": "Michael Tippett",
@@ -126,26 +138,6 @@
     "mention_count": 7
   },
   {
-    "name": "jonny williams",
-    "meetups": [
-      14,
-      16,
-      19,
-      21,
-      22
-    ],
-    "mention_count": 7
-  },
-  {
-    "name": "Carol Anne Hilton",
-    "meetups": [
-      17,
-      20,
-      24
-    ],
-    "mention_count": 6
-  },
-  {
     "name": "Matt Sinclair",
     "meetups": [
       18,
@@ -155,7 +147,7 @@
     "mention_count": 5
   },
   {
-    "name": "♾️ sev geraskin",
+    "name": "Sev Geraskin",
     "meetups": [
       16,
       18,
@@ -171,6 +163,15 @@
       19
     ],
     "mention_count": 4
+  },
+  {
+    "name": "Mark Busse",
+    "meetups": [
+      17,
+      20,
+      24
+    ],
+    "mention_count": 3
   },
   {
     "name": "Ron Segev",
@@ -220,14 +221,6 @@
     "meetups": [
       14,
       24
-    ],
-    "mention_count": 2
-  },
-  {
-    "name": "Mark Busse",
-    "meetups": [
-      17,
-      20
     ],
     "mention_count": 2
   },
@@ -338,13 +331,6 @@
     "name": "Kemp Edmonds",
     "meetups": [
       18
-    ],
-    "mention_count": 1
-  },
-  {
-    "name": "Marc Busse",
-    "meetups": [
-      24
     ],
     "mention_count": 1
   },

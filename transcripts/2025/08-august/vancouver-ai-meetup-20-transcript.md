@@ -4,7 +4,7 @@ date: 2025-08-26
 meetup_number: 20
 type: transcript
 venue: "McMillan Space Centre (Planetarium), Vancouver"
-speakers: ["Brett Henderson", "Carol Ann Hilton", "Carol Anne Hilton", "Darren Nicholls", "Dean Shev", "Dimitri Schwartzman", "Jos Duncan As\u00e9", "Kevin Friel", "Lorraine Lowe", "Mark Busse"]
+speakers: ["Brett Henderson", "Carol Anne Hilton", "Darren Nicholls", "Dean Shev", "Dimitri Schwartzman", "Jos Duncan As\u00e9", "Kevin Friel", "Lorraine Lowe", "Mark Busse", "Matthew Schwartzman"]
 attendance: 250
 tags: ["meetup", "transcript", "vancouver-ai"]
 ---

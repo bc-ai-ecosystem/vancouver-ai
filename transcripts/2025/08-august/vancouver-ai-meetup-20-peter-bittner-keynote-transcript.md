@@ -1,6 +1,6 @@
 ---
 title: "Vancouver AI Meetup #20 - Peter Bittner Keynote: The Future of Work"
-date: 2024-08-26
+date: 2025-08-01
 meetup_number: 20
 type: transcript
 venue: "HR MacMillan Space Centre, Vancouver"

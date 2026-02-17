@@ -4,7 +4,7 @@ date: 2025-05-01
 meetup_number: 17
 type: recap
 venue: "MacMillan Space Centre, Vancouver"
-speakers: ["Carol Ann Hilton", "Dean Shev", "Kevin Friel", "Noah Brunn"]
+speakers: ["Carol Anne Hilton", "Dean Shev", "Kevin Friel", "Noah Brunn"]
 tags: ["meetup", "recap", "vancouver-ai"]
 ---
 # Vancouver AI Community Meetup #17 - Recap
