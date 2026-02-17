@@ -1,0 +1,273 @@
+[
+  {
+    "event_id": "2024-02-february-meetup-14",
+    "year": "2024",
+    "month": "02-february",
+    "meetup_number": 14,
+    "title_hint": "Vancouver AI Community Meetup #14 - Recap",
+    "transcript_paths": [
+      "transcripts/2024/02-february/vancouver-ai-meetup-14-transcript.md"
+    ],
+    "recap_paths": [
+      "recaps/2024/02-february/vancouver-ai-meetup-14-recap.md"
+    ]
+  },
+  {
+    "event_id": "2024-03-march-meetup-15",
+    "year": "2024",
+    "month": "03-march",
+    "meetup_number": 15,
+    "title_hint": "Vancouver AI Community Meetup #15 - Recap",
+    "transcript_paths": [
+      "transcripts/2024/03-march/vancouver-ai-meetup-15-transcript.md"
+    ],
+    "recap_paths": [
+      "recaps/2024/03-march/vancouver-ai-meetup-15-recap.md"
+    ]
+  },
+  {
+    "event_id": "2024-04-april-meetup-16",
+    "year": "2024",
+    "month": "04-april",
+    "meetup_number": 16,
+    "title_hint": "Vancouver AI Community Meetup #16 - Recap",
+    "transcript_paths": [
+      "transcripts/2024/04-april/vancouver-ai-meetup-16-transcript.md"
+    ],
+    "recap_paths": [
+      "recaps/2024/04-april/vancouver-ai-meetup-16-recap.md"
+    ]
+  },
+  {
+    "event_id": "2024-06-june-meetup-18",
+    "year": "2024",
+    "month": "06-june",
+    "meetup_number": 18,
+    "title_hint": "Vancouver AI Community Meetup #18 - Recap",
+    "transcript_paths": [
+      "transcripts/2024/06-june/vancouver-ai-meetup-18-transcript.md"
+    ],
+    "recap_paths": [
+      "recaps/2024/06-june/vancouver-ai-meetup-18-recap.md"
+    ]
+  },
+  {
+    "event_id": "2024-08-august-metacreation-lab-ai-music-residency-showcase-recap",
+    "year": "2024",
+    "month": "08-august",
+    "meetup_number": null,
+    "title_hint": "METACREATION Lab AI Music Residency Showcase - Recap",
+    "transcript_paths": [],
+    "recap_paths": [
+      "recaps/2024/08-august/metacreation-lab-ai-music-residency-showcase-recap.md"
+    ]
+  },
+  {
+    "event_id": "2024-08-august-metacreation-lab-ai-music-residency-showcase-transcript",
+    "year": "2024",
+    "month": "08-august",
+    "meetup_number": null,
+    "title_hint": "METACREATION Lab AI Music Residency Showcase",
+    "transcript_paths": [
+      "transcripts/2024/08-august/metacreation-lab-ai-music-residency-showcase-transcript.md"
+    ],
+    "recap_paths": []
+  },
+  {
+    "event_id": "2024-08-august-vancouver-ai-meetup-hackathon-winners-transcript",
+    "year": "2024",
+    "month": "08-august",
+    "meetup_number": null,
+    "title_hint": "Vancouver AI Meetup - August 2024 - Hackathon Winners Presentation",
+    "transcript_paths": [
+      "transcripts/2024/08-august/vancouver-ai-meetup-hackathon-winners-transcript.md"
+    ],
+    "recap_paths": []
+  },
+  {
+    "event_id": "2024-09-september-meetup-21",
+    "year": "2024",
+    "month": "09-september",
+    "meetup_number": 21,
+    "title_hint": "Vancouver AI Community Meetup #21 - September 2024 Recap",
+    "transcript_paths": [
+      "transcripts/2024/09-september/vancouver-ai-meetup-21-transcript.md"
+    ],
+    "recap_paths": [
+      "recaps/2024/09-september/vancouver-ai-meetup-21-recap.md"
+    ]
+  },
+  {
+    "event_id": "2024-10-october-vancouver-ai-thinking-game-screening-recap",
+    "year": "2024",
+    "month": "10-october",
+    "meetup_number": null,
+    "title_hint": "Vancouver AI Community Special Event - \"The Thinking Game\" Film Screening Recap",
+    "transcript_paths": [],
+    "recap_paths": [
+      "recaps/2024/10-october/vancouver-ai-thinking-game-screening-recap.md"
+    ]
+  },
+  {
+    "event_id": "2024-10-october-vancouver-ai-thinking-game-screening-transcript",
+    "year": "2024",
+    "month": "10-october",
+    "meetup_number": null,
+    "title_hint": "Vancouver AI Community Special Event - \"The Thinking Game\" Film Screening & Panel",
+    "transcript_paths": [
+      "transcripts/2024/10-october/vancouver-ai-thinking-game-screening-transcript.md"
+    ],
+    "recap_paths": []
+  },
+  {
+    "event_id": "2024-12-december-meetup-24",
+    "year": "2024",
+    "month": "12-december",
+    "meetup_number": 24,
+    "title_hint": "Vancouver AI Community Meetup #24 - December 2024 Recap",
+    "transcript_paths": [
+      "transcripts/2024/12-december/vancouver-ai-meetup-24-transcript.md"
+    ],
+    "recap_paths": [
+      "recaps/2024/12-december/vancouver-ai-meetup-24-recap.md"
+    ]
+  },
+  {
+    "event_id": "2024-12-december-peter-lucas-jones-indigenous-ai-keynote-recap",
+    "year": "2024",
+    "month": "12-december",
+    "meetup_number": null,
+    "title_hint": "Indigenous AI & Data Sovereignty - Peter Lucas Jones Keynote Recap",
+    "transcript_paths": [],
+    "recap_paths": [
+      "recaps/2024/12-december/peter-lucas-jones-indigenous-ai-keynote-recap.md"
+    ]
+  },
+  {
+    "event_id": "2024-12-december-peter-lucas-jones-indigenous-ai-keynote-transcript",
+    "year": "2024",
+    "month": "12-december",
+    "meetup_number": null,
+    "title_hint": "Peter Lucas Jones - Indigenous AI & Language Sovereignty Keynote",
+    "transcript_paths": [
+      "transcripts/2024/12-december/peter-lucas-jones-indigenous-ai-keynote-transcript.md"
+    ],
+    "recap_paths": []
+  },
+  {
+    "event_id": "2025-01-january-meetup-13",
+    "year": "2025",
+    "month": "01-january",
+    "meetup_number": 13,
+    "title_hint": "Vancouver AI Community Meetup #13 - Recap",
+    "transcript_paths": [
+      "transcripts/2025/01-january/vancouver-ai-meetup-13-transcript.md"
+    ],
+    "recap_paths": [
+      "recaps/2025/01-january/vancouver-ai-meetup-13-recap.md"
+    ]
+  },
+  {
+    "event_id": "2025-05-may-meetup-17",
+    "year": "2025",
+    "month": "05-may",
+    "meetup_number": 17,
+    "title_hint": "Vancouver AI Community Meetup #17 - Recap",
+    "transcript_paths": [
+      "transcripts/2025/05-may/vancouver-ai-meetup-17-transcript.md"
+    ],
+    "recap_paths": [
+      "recaps/2025/05-may/vancouver-ai-meetup-17-recap.md"
+    ]
+  },
+  {
+    "event_id": "2025-07-july-meetup-19",
+    "year": "2025",
+    "month": "07-july",
+    "meetup_number": 19,
+    "title_hint": "Vancouver AI Community Meetup #19 - Recap",
+    "transcript_paths": [
+      "transcripts/2025/07-july/vancouver-ai-meetup-19-transcript.md"
+    ],
+    "recap_paths": [
+      "recaps/2025/07-july/vancouver-ai-meetup-19-recap.md"
+    ]
+  },
+  {
+    "event_id": "2025-08-august-meetup-20",
+    "year": "2025",
+    "month": "08-august",
+    "meetup_number": 20,
+    "title_hint": "Vancouver AI Community Meetup #20 - Recap",
+    "transcript_paths": [
+      "transcripts/2025/08-august/vancouver-ai-meetup-20-peter-bittner-keynote-transcript.md",
+      "transcripts/2025/08-august/vancouver-ai-meetup-20-transcript.md"
+    ],
+    "recap_paths": [
+      "recaps/2025/08-august/vancouver-ai-meetup-20-recap.md"
+    ]
+  },
+  {
+    "event_id": "2025-09-september-meetup-21",
+    "year": "2025",
+    "month": "09-september",
+    "meetup_number": 21,
+    "title_hint": "Vancouver AI Community Meetup #21 - Recap",
+    "transcript_paths": [
+      "transcripts/2025/09-september/vancouver-ai-meetup-21-transcript.md"
+    ],
+    "recap_paths": [
+      "recaps/2025/09-september/vancouver-ai-meetup-21-recap.md"
+    ]
+  },
+  {
+    "event_id": "2025-10-october-meetup-22",
+    "year": "2025",
+    "month": "10-october",
+    "meetup_number": 22,
+    "title_hint": "Vancouver AI Community Meetup #22 - Recap",
+    "transcript_paths": [
+      "transcripts/2025/10-october/vancouver-ai-meetup-22-transcript.md"
+    ],
+    "recap_paths": [
+      "recaps/2025/10-october/vancouver-ai-meetup-22-recap.md"
+    ]
+  },
+  {
+    "event_id": "2025-11-november-meetup-23",
+    "year": "2025",
+    "month": "11-november",
+    "meetup_number": 23,
+    "title_hint": "Vancouver AI Community Meetup #23 - Comprehensive Recap",
+    "transcript_paths": [
+      "transcripts/2025/11-november/vancouver-ai-meetup-23-transcript.md"
+    ],
+    "recap_paths": [
+      "recaps/2025/11-november/vancouver-ai-meetup-23-recap.md"
+    ]
+  },
+  {
+    "event_id": "2025-12-december-meetup-24",
+    "year": "2025",
+    "month": "12-december",
+    "meetup_number": 24,
+    "title_hint": "Vancouver AI Community Meetup #24 — Squatchie Awards 2025",
+    "transcript_paths": [
+      "transcripts/2025/12-december/VanAI-Meetup-24-Squatchie-Awards-Transcript.md"
+    ],
+    "recap_paths": []
+  },
+  {
+    "event_id": "2026-01-january-meetup-25",
+    "year": "2026",
+    "month": "01-january",
+    "meetup_number": 25,
+    "title_hint": "Vancouver AI Meetup #25 — January 28, 2026 Recap",
+    "transcript_paths": [
+      "transcripts/2026/01-january/vancouver-ai-meetup-25-transcript.md"
+    ],
+    "recap_paths": [
+      "recaps/2026/01-january/vancouver-ai-meetup-25-recap.md"
+    ]
+  }
+]
