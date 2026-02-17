@@ -1,3 +1,9 @@
+---
+title: "Indigenous AI & Data Sovereignty - Peter Lucas Jones Keynote Recap"
+date: 2024-12-01
+type: recap
+tags: ["meetup", "recap", "vancouver-ai"]
+---
 # Indigenous AI & Data Sovereignty - Peter Lucas Jones Keynote Recap
 **Vancouver AI Community | December 2024**
 **Speaker:** Peter Lucas Jones (Time's 100 Most Influential in AI 2024)

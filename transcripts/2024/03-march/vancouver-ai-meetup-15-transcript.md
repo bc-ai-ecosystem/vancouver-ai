@@ -1,3 +1,13 @@
+---
+title: "Vancouver AI Community Meetup #15 - Verbatim Transcript"
+date: 2024-03-01
+meetup_number: 15
+type: transcript
+venue: "McMillan Space Centre (Planetarium), Vancouver"
+speakers: ["Alex Tapscott", "Julia Morton", "Loki Jorgenson", "Michael Tippett", "Philippe Pasquier"]
+attendance: 65
+tags: ["meetup", "transcript", "vancouver-ai"]
+---
 # Vancouver AI Community Meetup #15 - Verbatim Transcript
 **Date:** March 2024  
 **Location:** McMillan Space Centre (Planetarium), Vancouver  
@@ -62,7 +72,7 @@ Damien. We could do this without you, but it would not be the same man We are he
 
 And I, you bless us by being here. Thank you so much. Yeah.
 
-The next part's community announcements. If you've been here, I'll talk more in a sec, but I gotta get Loki up here 'cause you've gotta leave. [[Loki Jorgenson]], now the time is yours. Hello everyone. Low key. Good to see you. Privileged to be up here. Thank you, Kris Krüg. Course this wouldn't be possible without you and what is possible?
+The next part's community announcements. If you've been here, I'll talk more in a sec, but I gotta get Loki up here 'cause you've gotta leave. Loki Jorgenson, now the time is yours. Hello everyone. Low key. Good to see you. Privileged to be up here. Thank you, Kris Krüg. Course this wouldn't be possible without you and what is possible?
 
 First, let me ask a question. Have you ever wondered if the red is the same as the red? I see. Have you wondered if your cat or dog were conscious? Have you wondered if AI is conscious? Interesting questions inspired by a group of people out of this community. We have formed the Mind AI and Consciousness working group.
 
@@ -76,7 +86,7 @@ I'm noticing my propensity to get a little bit sentimental tonight 'cause I got 
 
 On one hand there's been like, themes of these meetups that have been emerging. Last year we were doing like some language revitalization, indigenous stuff with Peter Lucas Jones from New Zealand and the Running Wolves and Gabriel George and the and the Williams from Squamish Nation. And then there was the period of time where Philippe brought over his Parisians and we did like the music stuff for a while, and that was like the emergent theme.
 
-And tonight you're gonna notice that like this, they've been dropping video and visual tools on us like every single day. And so there's a lot of interesting stuff coming out. So you're gonna see [[Michael Tippett]], Mr. Canada project tonight. You're gonna see sebs making music videos for emotional health project tonight.
+And tonight you're gonna notice that like this, they've been dropping video and visual tools on us like every single day. And so there's a lot of interesting stuff coming out. So you're gonna see Michael Tippett, Mr. Canada project tonight. You're gonna see sebs making music videos for emotional health project tonight.
 
 There's another video related one that's on the tip of my tongue. I can't remember right now. But it's been really watching these emergent themes come out and then. Another thing that's been emerging is like sub communities, like he's just talking about. So 30 of y'all, including myself, I got together last week and started like this Mind AI and consciousness subgroup, Michelle, who came to a recent event, who's gonna come up here in a stack, started a women AI event.
 
@@ -128,7 +138,7 @@ subtle art of not giving a fuck co intelligence with ai. Think Remarkable. Web3.
 
 I'm gonna leave these on the table. Take it home. Yeah, bring it back, bring back two. Let's make it like a community resource here with a bunch of cool books that we think really influence and affected us that we wanna share with other people. Great. What you got? What do I got girl? I just read my left Think Remarkable by Guy Kawasaki Web3.
 
-[[Alex Tapscott]], son of Dawn Tapscott. Sam Goodman's, wear East Meets West. The Subtle Art of Not Giving a Fuck and Co Intelligence by Ethan Mollusk, depending on what you think about the guy. Thanks. That question was from Fergus. Fergus works at the WASC Center for Dialogue and held a BCAI symposium in December.
+Alex Tapscott, son of Dawn Tapscott. Sam Goodman's, wear East Meets West. The Subtle Art of Not Giving a Fuck and Co Intelligence by Ethan Mollusk, depending on what you think about the guy. Thanks. That question was from Fergus. Fergus works at the WASC Center for Dialogue and held a BCAI symposium in December.
 
 They just published the report last week. It is 150 of the most influential power brokers in our province getting together, talking about AI, and all of their discourse was recorded and shared as a report. Talk to Fergus Download if you wanna know what's going on in BC with ai. Talk to Fergus. Okay. Penn father, did you get the call?
 
@@ -198,7 +208,7 @@ So go check in with Darby. I appreciate it. What's next? Kevin? Philippe, you st
 
 Perfect timing.
 
-[[Philippe Pasquier]] is one of the earliest guys to figure out what was going on around here and start to support this community. He is the guy that gave us the six sound system. We're working on all sorts of things together, but this workshop series he has going on is super sweet and it's a great, you guys should pay attention.
+Philippe Pasquier is one of the earliest guys to figure out what was going on around here and start to support this community. He is the guy that gave us the six sound system. We're working on all sorts of things together, but this workshop series he has going on is super sweet and it's a great, you guys should pay attention.
 
 If you're not listening, pay attention for the next little while. If you want to build ais trained on your own data set, he's about to offer you an opportunity in two weeks to do and also mention Microcredentials. Thank you Kris Krüg. Yes, everyone. So I talked to artists. I'm a faculty, I'm a prophet, SFU.
 
@@ -270,7 +280,7 @@ Thank you. Thank you. Mills told you I was gonna get emotional tonight. Thank yo
 
 Respect a lot of respect. Okay. Mr. Pixel Wizard, who's the only man I can trust, came over to me over there and he is Kris Krüg, it's 8 0 5. I'm like, what am I supposed to do with that information? Kevin, am I behind schedule? Is your battery gonna die? So if you're speaking tonight and we've committed to a time together, stick to your time.
 
-It'll make everything else awesome. We still got a little bit of ground to cover. [[Michael Tippett]] known this guy for a million years. He's switched on right now about the political stuff that's going on in Canada, and he offers you, Mr. Canada.
+It'll make everything else awesome. We still got a little bit of ground to cover. Michael Tippett known this guy for a million years. He's switched on right now about the political stuff that's going on in Canada, and he offers you, Mr. Canada.
 
 He joins the Prime Minister on a high stakes trip across the pond in London. He steps into the halls of power for a royal meeting like no other. But this isn't just tea and diplomacy. The king has intel that could change history. It seems I've stumbled upon and love interesting password. Actually, it's more like a button one that turns off every F 35 in the
 
@@ -478,7 +488,7 @@ Let me tell you the sentiment analysis in that data. People did not like this qu
 
 The data has been out for a few weeks now. The first round of submissions is due April 16th and the winner will be announced at next month's meetup. And with that base information given, I am going to hand this over to either Dale or Julia, depending on whose slide appears behind me. Julia?
 
-Julia, you are the winner. Hi everyone. Hi. So I am [[Julia Morton]]. I'm VP of Customer Success at Rival Tech. We are a local, I think we can still call ourselves a startup. We've been around about eight years now. We are a market research technology company, so what that means is we help brands.
+Julia, you are the winner. Hi everyone. Hi. So I am Julia Morton. I'm VP of Customer Success at Rival Tech. We are a local, I think we can still call ourselves a startup. We've been around about eight years now. We are a market research technology company, so what that means is we help brands.
 
 Connect with their customers, connect with their communities. We work with some pretty cool brands, some pretty huge brands that you've heard of. People like Warner Brothers, Pepsi Ora Ring, we were just talking about them earlier tonight. And lots of others. And every brand in the world does research, does surveys, talks to their customers to understand them better, to understand how to sell them things better essentially.
 

@@ -1,3 +1,13 @@
+---
+title: "Vancouver AI Community Meetup #14 - Verbatim Transcript"
+date: 2024-02-01
+meetup_number: 14
+type: transcript
+venue: "McMillan Space Centre (Planetarium), Vancouver"
+speakers: ["Dean Shev", "Jackson Wu Shyang", "Kate Armstrong", "Kevin Friel", "Matthew Schwartzman", "Michael Tippett", "jonny williams"]
+attendance: 500
+tags: ["meetup", "transcript", "vancouver-ai"]
+---
 # Vancouver AI Community Meetup #14 - Verbatim Transcript
 **Date:** February 2024  
 **Location:** McMillan Space Centre (Planetarium), Vancouver  
@@ -96,7 +106,7 @@ And technology has a role to play, and so we're building a project that will Cre
 
 So that's one of the things, and Erwin is a first order source of knowledge when it comes to a lot of things, reconciliation, especially from an ally and settler perspective. I encourage you, if you're interested in that kind of stuff, reach out to him. He's always got a strong, challenging voice yeah. 
 
-Appreciate you being here, bud. I think now is probably the right time for me to say to you guys who come here on the regular, know that we often have someone sing and do a welcome. We've had Gabriel George come in recently, but he couldn't make it tonight. We've had [[jonny williams]] in the past.
+Appreciate you being here, bud. I think now is probably the right time for me to say to you guys who come here on the regular, know that we often have someone sing and do a welcome. We've had Gabriel George come in recently, but he couldn't make it tonight. We've had jonny williams in the past.
 
 Erwin works with the Tsleil Waututh Nation. I know Reuben George and some other people there and stuff, and so Catherine, thanks for making an acknowledgement and Erwin, thanks for representing as well. That is a, those buildings that are being built right outside of here, are Squamish Nation high rises, right?
 
@@ -168,7 +178,7 @@ And it just pieces it all together and empathizes with you. And then says, Oh ye
 
 guides, essentially perspectives that analyze my dream journal or my fears, my anxieties or whatever. And this is the type of shit this guy's hip to. He's and he's built a whole app around it. And there's other people in this room I know who are interested. Who's the person who told me their wife works for Fraser Valley Health Authority and is trying to figure out some mental health stuff.
 
-Darren over there should talk to Sean, talk to [[Dean Shev]]. I'm interested in that stuff. I know there's some other people in the room that are up to the very, very similar things. And If you haven't done it Brittany just hit the token limit for her favorite chat with one of her guides that she's built.
+Darren over there should talk to Sean, talk to Dean Shev. I'm interested in that stuff. I know there's some other people in the room that are up to the very, very similar things. And If you haven't done it Brittany just hit the token limit for her favorite chat with one of her guides that she's built.
 
 And she's trying to figure out how to take the next step or where maybe we could bring her into your world or something. Brittany's a special guide or whatever. But if you haven't done self reflection. Talking to AI, talking it out into your phone, transcribing it and analyzing it from a whole variety of different perspectives.
 
@@ -220,7 +230,7 @@ I think she might be coming for you, you know,  where are we at, Kevin? All righ
 
 These guys have been putting their money where their mouth is behind backing this community.  You ain't here to give an ad, but what you been up to since I seen you last? Not much interesting, just going out at events. I like IP, it's my third or fourth one, I think. And it's always growing every single time.
 
-There's always people talking about cool stuff. Yeah, happy to support and happy to be involved. Thanks a lot, man.  Thank you. This is [[Matthew Schwartzman]] father, by the way.  Thank you, Kris Krüg. I wanted to share one experience I've had last week.  I've made a pretty cool video using AI with myself and NotebookLM  and I've sent it out to three and a half thousand Realtors.
+There's always people talking about cool stuff. Yeah, happy to support and happy to be involved. Thanks a lot, man.  Thank you. This is Matthew Schwartzman father, by the way.  Thank you, Kris Krüg. I wanted to share one experience I've had last week.  I've made a pretty cool video using AI with myself and NotebookLM  and I've sent it out to three and a half thousand Realtors.
 
 And I said, if anybody wants to do something similar,  let me know and I'll explain to you how it's done free of charge.  The problem was not a single Realtor contacted me and said, I'd like to use it. So I'm sharing this because if anybody has an idea how to get people. to do things even free of charge.
 
@@ -228,7 +238,7 @@ I'll be willing to listen because I want to  improve the real estate community. 
 
 He's got a really funny real estate Instagram channel that's hilarious where he's like cutting up and essentially being a stand up comedian as a way to get farm engagement. And now he's learned about AI and trying to figure out and I know that that's what a lot of you here are doing is trying to be on the forefront of this for your industry, take back the lessons from the frontier and take them back, integrate them in your organizations.
 
-And so thanks for supporting this man. And thanks for bringing him out. He's the guy that lined up the old infamous [[Matthew Schwartzman]] podcast interview that brought us into connection and friendship. So I'm really grateful for that. All right.  We're almost through the introductions.  What's up next, brother. 
+And so thanks for supporting this man. And thanks for bringing him out. He's the guy that lined up the old infamous Matthew Schwartzman podcast interview that brought us into connection and friendship. So I'm really grateful for that. All right.  We're almost through the introductions.  What's up next, brother. 
 
 All right. Some of you guys may know Anthony. He runs a really cool AI mastery series here in town. He brings pretty much the most badass infosec security analyst type speakers who are dealing with AI into town. I, him and I have been doing, how many people have messed with the deep seek models or the deep research models or the kind of reasoning models and stuff like that?
 
@@ -368,11 +378,11 @@ Yeah thank you for I, so I have this bold idea, okay? So right now, our world is
 
 Yes, you live close to your people So you couldn't work in El Salvador, but you have a local community and the all digital nomads But that's exactly the point of a conjunction a future of work and a future of living Because in the past, they all isolate, and now you can merge in those two areas together.
 
-So you no longer just design which company belongs to, now you can engineer your life in where you wanted to live with your family. So you can literally hit two birds with one stone.  Yeah.  Cici. My summary is turns out you don't need to get all your meaning from work. Just to give you guys a little roadmap where we're headed, [[Michael Tippett]] gonna come up and talk a little bit about AI filmmaking.
+So you no longer just design which company belongs to, now you can engineer your life in where you wanted to live with your family. So you can literally hit two birds with one stone.  Yeah.  Cici. My summary is turns out you don't need to get all your meaning from work. Just to give you guys a little roadmap where we're headed, Michael Tippett gonna come up and talk a little bit about AI filmmaking.
 
 Shang's gonna give a little beatboxing performance, then we've got our keynote speaker Judy up, and then we're gonna go have wedding cake. So that's where we're going from here. Oh, and we're gonna announce our little 10, 000 hackathon as well. Kevin? So do you wanna do Michael or Shang first?
 
-I wanna do Michael first, then Shang, then Judy.  Okay, guys. Some of you guys might know this face. He's been around for 20 years ran a company called now public that sold back in the day. Entrepreneur, creative technologist, friend partners with [[Kate Armstrong]], who spoke here with [[Kevin Friel]], who's a art curator, AI art curator. 
+I wanna do Michael first, then Shang, then Judy.  Okay, guys. Some of you guys might know this face. He's been around for 20 years ran a company called now public that sold back in the day. Entrepreneur, creative technologist, friend partners with Kate Armstrong, who spoke here with Kevin Friel, who's a art curator, AI art curator. 
 
 I love people. This is a very unique moment, y'all. If you're not out there planting your flag in the ground like Simon is with the biosciences here in BC or like Michael is with Filmmaking and AI I think you're more like Quanna was with prompt engineering and running his own machines And there's you're missing the boat You got to find your little space and fucking own it and Michael's done the best job of almost anybody I've ever met in the last like year and a half of wrapping his head around a space that intrigues him putting his flag in the ground and then rolling out the infrastructure to support that.
 
@@ -398,13 +408,13 @@ Wow.
 
 A month ago, I went up to Whistler and I got to give a talk at the Whistler Institute about the future of the creative industries in British Columbia and A. I. And it was a really interesting chance to showcase a lot of your guys work and talk about what you're all are up to, as well as articulate a vision for how people can support.
 
-What we're up to,  like Allah the incubator and accelerator for BC that we're talking about. During that time I met Judy. She was sitting in the front row and asking the best questions. And she's actually not speaking next. Next is [[Jackson Wu Shyang]], our my beatboxing artist friend who also is like a public speaking coach.
+What we're up to,  like Allah the incubator and accelerator for BC that we're talking about. During that time I met Judy. She was sitting in the front row and asking the best questions. And she's actually not speaking next. Next is Jackson Wu Shyang, our my beatboxing artist friend who also is like a public speaking coach.
 
 But I just wanted you to be able to come do your thing and then I wanted you to come be able to do your thing and just like without an introduction or whatever, right? She's an amazing, accomplished woman. She ask me the best questions about intuition and empathy as it relates to AI. And she really stumped me in front of a room full of 200 people.
 
 And I was like, I want to hear you talk more. And that's why I invited her here. Also, if I heard you right, you turned down a consulting gig with Neuralink because you didn't quite believe in what they were up to and stuff. And so I don't think that's maybe part of what you're talking about tonight, but I found that a very intriguing part of your story.
 
-Neuralink is Elon Musk's company that wants to do brain implants. Judy teaches neuroscience at UBC. So anyway, I'm very excited to have her share with us tonight, but before that, I just want to offer you a little palate cleanser in the form of [[Jackson Wu Shyang]], my beatboxing homie. Him and I are up to all sorts of interesting explorations and experiments as it relates to AI with the human voice and visuals and performance and stuff.
+Neuralink is Elon Musk's company that wants to do brain implants. Judy teaches neuroscience at UBC. So anyway, I'm very excited to have her share with us tonight, but before that, I just want to offer you a little palate cleanser in the form of Jackson Wu Shyang, my beatboxing homie. Him and I are up to all sorts of interesting explorations and experiments as it relates to AI with the human voice and visuals and performance and stuff.
 
 But yeah, Jackson, come do your thing, bro.  And then Judy, please come up after that.  Testing, one, two, three, hello everybody, how are we doing?  Woo!  Nice to see everybody again. I'm dressed wildly differently than this photo of me right now, but that is in fact me. This photo was taken by, I'm not sure if she's out here today, but Michelle Diamond's an incredible photographer.
 

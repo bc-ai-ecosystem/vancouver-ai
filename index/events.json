@@ -4,7 +4,23 @@
     "year": "2024",
     "month": "02-february",
     "meetup_number": 14,
-    "title_hint": "Vancouver AI Community Meetup #14 - Recap",
+    "title": "Vancouver AI Community Meetup #14 - Recap",
+    "date": "2024-02-01",
+    "venue": "MacMillan Space Centre, Vancouver",
+    "speakers": [
+      "Dean Shev",
+      "Dimitri Schwartzman",
+      "Jackson Wu Shyang",
+      "Kate Armstrong",
+      "Kevin Friel",
+      "Kris Krüg",
+      "Loki Jorgenson",
+      "Matthew Schwartzman",
+      "Michael Tippett",
+      "jonny williams"
+    ],
+    "attendance": 200,
+    "themes": [],
     "transcript_paths": [
       "transcripts/2024/02-february/vancouver-ai-meetup-14-transcript.md"
     ],
@@ -17,7 +33,20 @@
     "year": "2024",
     "month": "03-march",
     "meetup_number": 15,
-    "title_hint": "Vancouver AI Community Meetup #15 - Recap",
+    "title": "Vancouver AI Community Meetup #15 - Recap",
+    "date": "2023-12-07",
+    "venue": "MacMillan Space Centre, Vancouver",
+    "speakers": [
+      "Alex Tapscott",
+      "Julia Morton",
+      "Kris Krüg",
+      "Loki Jorgenson",
+      "Matthew Schwartzman",
+      "Michael Tippett",
+      "Philippe Pasquier"
+    ],
+    "attendance": 200,
+    "themes": [],
     "transcript_paths": [
       "transcripts/2024/03-march/vancouver-ai-meetup-15-transcript.md"
     ],
@@ -30,7 +59,21 @@
     "year": "2024",
     "month": "04-april",
     "meetup_number": 16,
-    "title_hint": "Vancouver AI Community Meetup #16 - Recap",
+    "title": "Vancouver AI Community Meetup #16 - Recap",
+    "date": "2024-04-01",
+    "venue": "MacMillan Space Centre, Vancouver",
+    "speakers": [
+      "Dean Shev",
+      "Dimitri Schwartzman",
+      "Kevin Friel",
+      "Kris Krüg",
+      "Matthew Schwartzman",
+      "Steven Jones",
+      "jonny williams",
+      "♾️ sev geraskin"
+    ],
+    "attendance": 200,
+    "themes": [],
     "transcript_paths": [
       "transcripts/2024/04-april/vancouver-ai-meetup-16-transcript.md"
     ],
@@ -43,7 +86,24 @@
     "year": "2024",
     "month": "06-june",
     "meetup_number": 18,
-    "title_hint": "Vancouver AI Community Meetup #18 - Recap",
+    "title": "Vancouver AI Community Meetup #18 - Recap",
+    "date": "2024-06-01",
+    "venue": "MacMillan Space Centre, Vancouver",
+    "speakers": [
+      "Aliza Schwartzman",
+      "Carol Ann Hilton",
+      "Dimitri Schwartzman",
+      "Kemp Edmonds",
+      "Kris Krüg",
+      "Lorraine Lowe",
+      "Matt Sinclair",
+      "Matthew Schwartzman",
+      "Morten Rand-Hendriksen",
+      "Noah Brunn",
+      "♾️ sev geraskin"
+    ],
+    "attendance": 225,
+    "themes": [],
     "transcript_paths": [
       "transcripts/2024/06-june/vancouver-ai-meetup-18-transcript.md"
     ],
@@ -56,7 +116,14 @@
     "year": "2024",
     "month": "08-august",
     "meetup_number": null,
-    "title_hint": "METACREATION Lab AI Music Residency Showcase - Recap",
+    "title": "METACREATION Lab AI Music Residency Showcase - Recap",
+    "date": "2024-08-01",
+    "venue": null,
+    "speakers": [
+      "Philippe Pasquier"
+    ],
+    "attendance": null,
+    "themes": [],
     "transcript_paths": [],
     "recap_paths": [
       "recaps/2024/08-august/metacreation-lab-ai-music-residency-showcase-recap.md"
@@ -67,7 +134,14 @@
     "year": "2024",
     "month": "08-august",
     "meetup_number": null,
-    "title_hint": "METACREATION Lab AI Music Residency Showcase",
+    "title": "METACREATION Lab AI Music Residency Showcase",
+    "date": "2024-08-01",
+    "venue": "SFU Surrey",
+    "speakers": [
+      "Philippe Pasquier"
+    ],
+    "attendance": null,
+    "themes": [],
     "transcript_paths": [
       "transcripts/2024/08-august/metacreation-lab-ai-music-residency-showcase-transcript.md"
     ],
@@ -78,7 +152,19 @@
     "year": "2024",
     "month": "08-august",
     "meetup_number": null,
-    "title_hint": "Vancouver AI Meetup - August 2024 - Hackathon Winners Presentation",
+    "title": "Vancouver AI Meetup - August 2024 - Hackathon Winners Presentation",
+    "date": "2024-08-01",
+    "venue": "HR MacMillan Space Centre, Vancouver",
+    "speakers": [
+      "Brett Henderson",
+      "Carol Anne Hilton",
+      "Dean Shev",
+      "Kevin Friel",
+      "Prajwal Prashanth",
+      "♾️ sev geraskin"
+    ],
+    "attendance": 572,
+    "themes": [],
     "transcript_paths": [
       "transcripts/2024/08-august/vancouver-ai-meetup-hackathon-winners-transcript.md"
     ],
@@ -89,7 +175,15 @@
     "year": "2024",
     "month": "09-september",
     "meetup_number": 21,
-    "title_hint": "Vancouver AI Community Meetup #21 - September 2024 Recap",
+    "title": "Vancouver AI Community Meetup #21 - September 2024 Recap",
+    "date": "2024-09-01",
+    "venue": "Vancouver, BC",
+    "speakers": [
+      "Kris Krüg",
+      "Taylor Shift"
+    ],
+    "attendance": null,
+    "themes": [],
     "transcript_paths": [
       "transcripts/2024/09-september/vancouver-ai-meetup-21-transcript.md"
     ],
@@ -102,7 +196,15 @@
     "year": "2024",
     "month": "10-october",
     "meetup_number": null,
-    "title_hint": "Vancouver AI Community Special Event - \"The Thinking Game\" Film Screening Recap",
+    "title": "Vancouver AI Community Special Event - \"The Thinking Game\" Film Screening Recap",
+    "date": "2024-10-01",
+    "venue": "MacMillan Space Centre, Vancouver, BC",
+    "speakers": [
+      "Kris Krüg",
+      "Michael Fergusson"
+    ],
+    "attendance": null,
+    "themes": [],
     "transcript_paths": [],
     "recap_paths": [
       "recaps/2024/10-october/vancouver-ai-thinking-game-screening-recap.md"
@@ -113,7 +215,15 @@
     "year": "2024",
     "month": "10-october",
     "meetup_number": null,
-    "title_hint": "Vancouver AI Community Special Event - \"The Thinking Game\" Film Screening & Panel",
+    "title": "Vancouver AI Community Special Event - \"The Thinking Game\" Film Screening & Panel",
+    "date": "2024-10-01",
+    "venue": "MacMillan Space Centre, Vancouver, BC",
+    "speakers": [
+      "Kris Krüg",
+      "Michael Fergusson"
+    ],
+    "attendance": null,
+    "themes": [],
     "transcript_paths": [
       "transcripts/2024/10-october/vancouver-ai-thinking-game-screening-transcript.md"
     ],
@@ -124,7 +234,19 @@
     "year": "2024",
     "month": "12-december",
     "meetup_number": 24,
-    "title_hint": "Vancouver AI Community Meetup #24 - December 2024 Recap",
+    "title": "Vancouver AI Community Meetup #24 - December 2024 Recap",
+    "date": "2024-12-01",
+    "venue": "Space Center, Vancouver, BC",
+    "speakers": [
+      "Carol Anne Hilton",
+      "Kevin Friel",
+      "Kris Krüg",
+      "Lorraine Lowe",
+      "Matthew Schwartzman",
+      "Philippe Pasquier"
+    ],
+    "attendance": null,
+    "themes": [],
     "transcript_paths": [
       "transcripts/2024/12-december/vancouver-ai-meetup-24-transcript.md"
     ],
@@ -137,7 +259,12 @@
     "year": "2024",
     "month": "12-december",
     "meetup_number": null,
-    "title_hint": "Indigenous AI & Data Sovereignty - Peter Lucas Jones Keynote Recap",
+    "title": "Indigenous AI & Data Sovereignty - Peter Lucas Jones Keynote Recap",
+    "date": "2024-12-01",
+    "venue": null,
+    "speakers": [],
+    "attendance": null,
+    "themes": [],
     "transcript_paths": [],
     "recap_paths": [
       "recaps/2024/12-december/peter-lucas-jones-indigenous-ai-keynote-recap.md"
@@ -148,7 +275,12 @@
     "year": "2024",
     "month": "12-december",
     "meetup_number": null,
-    "title_hint": "Peter Lucas Jones - Indigenous AI & Language Sovereignty Keynote",
+    "title": "Peter Lucas Jones - Indigenous AI & Language Sovereignty Keynote",
+    "date": "2024-12-01",
+    "venue": null,
+    "speakers": [],
+    "attendance": null,
+    "themes": [],
     "transcript_paths": [
       "transcripts/2024/12-december/peter-lucas-jones-indigenous-ai-keynote-transcript.md"
     ],
@@ -159,7 +291,26 @@
     "year": "2025",
     "month": "01-january",
     "meetup_number": 13,
-    "title_hint": "Vancouver AI Community Meetup #13 - Recap",
+    "title": "Vancouver AI Community Meetup #13 - Recap",
+    "date": "2024-03-11",
+    "venue": "MacMillan Space Centre, Vancouver",
+    "speakers": [
+      "Brittney Smaila",
+      "Dimitri Schwartzman",
+      "Jeff Clark",
+      "Kevin Friel",
+      "Kris Krüg",
+      "Loki Jorgenson",
+      "Lorraine Lowe",
+      "Matthew Schwartzman",
+      "Michael Unger",
+      "Mirjana Prpa",
+      "Nicole Donnelly",
+      "Philippe Pasquier",
+      "Ron Segev"
+    ],
+    "attendance": 200,
+    "themes": [],
     "transcript_paths": [
       "transcripts/2025/01-january/vancouver-ai-meetup-13-transcript.md"
     ],
@@ -172,7 +323,24 @@
     "year": "2025",
     "month": "05-may",
     "meetup_number": 17,
-    "title_hint": "Vancouver AI Community Meetup #17 - Recap",
+    "title": "Vancouver AI Community Meetup #17 - Recap",
+    "date": "2025-05-01",
+    "venue": "MacMillan Space Centre, Vancouver",
+    "speakers": [
+      "Carol Ann Hilton",
+      "Carol Anne Hilton",
+      "David Monteyne",
+      "Dean Shev",
+      "Dimitri Schwartzman",
+      "Kevin Friel",
+      "Kris Krüg",
+      "Mark Busse",
+      "Matthew Schwartzman",
+      "Noah Brunn",
+      "Ron Segev"
+    ],
+    "attendance": 200,
+    "themes": [],
     "transcript_paths": [
       "transcripts/2025/05-may/vancouver-ai-meetup-17-transcript.md"
     ],
@@ -185,7 +353,21 @@
     "year": "2025",
     "month": "07-july",
     "meetup_number": 19,
-    "title_hint": "Vancouver AI Community Meetup #19 - Recap",
+    "title": "Vancouver AI Community Meetup #19 - Recap",
+    "date": "2025-07-01",
+    "venue": "MacMillan Space Centre, Vancouver",
+    "speakers": [
+      "Carol Ann Hilton",
+      "Dimitri Schwartzman",
+      "Kris Krüg",
+      "Lorraine Lowe",
+      "Matt Sinclair",
+      "Noah Brunn",
+      "Peter Bowles",
+      "jonny williams"
+    ],
+    "attendance": 225,
+    "themes": [],
     "transcript_paths": [
       "transcripts/2025/07-july/vancouver-ai-meetup-19-transcript.md"
     ],
@@ -198,7 +380,26 @@
     "year": "2025",
     "month": "08-august",
     "meetup_number": 20,
-    "title_hint": "Vancouver AI Community Meetup #20 - Recap",
+    "title": "Vancouver AI Community Meetup #20 - Recap",
+    "date": "2025-08-01",
+    "venue": "MacMillan Space Centre, Vancouver",
+    "speakers": [
+      "Brett Henderson",
+      "Carol Ann Hilton",
+      "Carol Anne Hilton",
+      "Darren Nicholls",
+      "Dean Shev",
+      "Dimitri Schwartzman",
+      "Jos Duncan Asé",
+      "Kevin Friel",
+      "Kris Krüg",
+      "Lorraine Lowe",
+      "Mark Busse",
+      "Matthew Schwartzman",
+      "♾️ sev geraskin"
+    ],
+    "attendance": 250,
+    "themes": [],
     "transcript_paths": [
       "transcripts/2025/08-august/vancouver-ai-meetup-20-peter-bittner-keynote-transcript.md",
       "transcripts/2025/08-august/vancouver-ai-meetup-20-transcript.md"
@@ -212,7 +413,28 @@
     "year": "2025",
     "month": "09-september",
     "meetup_number": 21,
-    "title_hint": "Vancouver AI Community Meetup #21 - Recap",
+    "title": "Vancouver AI Community Meetup #21 - Recap",
+    "date": "2025-09-24",
+    "venue": "HR MacMillan Space Centre (Planetarium), Vancouver, BC",
+    "speakers": [
+      "Carol Ann Hilton",
+      "Dean Shev",
+      "Dimitri Schwartzman",
+      "Gabriel Zaro",
+      "Kris Krüg",
+      "Loki Jorgenson",
+      "Matt Sinclair",
+      "Matthew Schwartzman",
+      "jonny williams"
+    ],
+    "attendance": 250,
+    "themes": [
+      "Indigenous AI:",
+      "Plant Communication:",
+      "Language Preservation:",
+      "Community Infrastructure:",
+      "Ethical AI:"
+    ],
     "transcript_paths": [
       "transcripts/2025/09-september/vancouver-ai-meetup-21-transcript.md"
     ],
@@ -225,7 +447,26 @@
     "year": "2025",
     "month": "10-october",
     "meetup_number": 22,
-    "title_hint": "Vancouver AI Community Meetup #22 - Recap",
+    "title": "Vancouver AI Community Meetup #22 - Recap",
+    "date": "2025-10-29",
+    "venue": "HR MacMillan Space Centre (Planetarium), Vancouver, BC",
+    "speakers": [
+      "Darby Yule",
+      "Kevin Friel",
+      "Kris Krüg",
+      "Matthew Schwartzman",
+      "Michael Tippett",
+      "Philippe Pasquier",
+      "jonny williams"
+    ],
+    "attendance": 250,
+    "themes": [
+      "AI Film Production Reality:",
+      "Industry Transformation:",
+      "Ethical AI Debates:",
+      "Community Maturity:",
+      "Creative Democratization:"
+    ],
     "transcript_paths": [
       "transcripts/2025/10-october/vancouver-ai-meetup-22-transcript.md"
     ],
@@ -238,7 +479,17 @@
     "year": "2025",
     "month": "11-november",
     "meetup_number": 23,
-    "title_hint": "Vancouver AI Community Meetup #23 - Comprehensive Recap",
+    "title": "Vancouver AI Community Meetup #23 - Comprehensive Recap",
+    "date": "2025-11-26",
+    "venue": "HR MacMillan Space Centre (Planetarium), Vancouver, BC",
+    "speakers": [
+      "David Weng",
+      "Kevin Friel",
+      "Kris Krüg",
+      "Loki Jorgenson"
+    ],
+    "attendance": 20,
+    "themes": [],
     "transcript_paths": [
       "transcripts/2025/11-november/vancouver-ai-meetup-23-transcript.md"
     ],
@@ -251,9 +502,27 @@
     "year": "2025",
     "month": "12-december",
     "meetup_number": 24,
-    "title_hint": "Vancouver AI Community Meetup #24 — Squatchie Awards 2025",
+    "title": "Vancouver AI Community Meetup #24 — Squatchie Awards 2025",
+    "date": "2025-12-01",
+    "venue": "H.R. MacMillan Space Centre (contract signed through 2026)",
+    "speakers": [
+      "Andrea Mills",
+      "Carol Anne Hilton",
+      "Gokhan Basaran",
+      "Gordon Hamilton",
+      "Kate Armstrong",
+      "Lorraine Lowe",
+      "Marc Busse",
+      "Matthew Schwartzman",
+      "Michael Tippett",
+      "Philippe Pasquier",
+      "Simon Haworth",
+      "Udbhav Kansal"
+    ],
+    "attendance": 150,
+    "themes": [],
     "transcript_paths": [
-      "transcripts/2025/12-december/VanAI-Meetup-24-Squatchie-Awards-Transcript.md"
+      "transcripts/2025/12-december/van-ai-meetup-24-squatchie-awards-transcript.md"
     ],
     "recap_paths": []
   },
@@ -262,7 +531,12 @@
     "year": "2026",
     "month": "01-january",
     "meetup_number": 25,
-    "title_hint": "Vancouver AI Meetup #25 — January 28, 2026 Recap",
+    "title": "Vancouver AI Meetup #25 — January 28, 2026 Recap",
+    "date": "2026-01-28",
+    "venue": "H.R. MacMillan Space Centre, Vancouver, BC",
+    "speakers": [],
+    "attendance": 250,
+    "themes": [],
     "transcript_paths": [
       "transcripts/2026/01-january/vancouver-ai-meetup-25-transcript.md"
     ],

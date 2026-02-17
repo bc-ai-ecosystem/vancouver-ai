@@ -1,3 +1,13 @@
+---
+title: "Vancouver AI Community Meetup #19 - Recap"
+date: 2025-07-01
+meetup_number: 19
+type: recap
+venue: "MacMillan Space Centre, Vancouver"
+speakers: ["Noah Brunn", "Peter Bowles"]
+attendance: 225
+tags: ["meetup", "recap", "vancouver-ai"]
+---
 # Vancouver AI Community Meetup #19 - Recap
 **Date:** July 2024  
 **Location:** MacMillan Space Centre, Vancouver  
@@ -15,7 +25,7 @@ The 19th Vancouver AI Community meetup showcased the community's growing technic
 ## Key Highlights
 
 ### 🧘‍♂️ First Community Meditation Experience
-[[Peter Bowles]] led an immersive group meditation focusing on collective consciousness and envisioning a positive AI future, marking a unique integration of wellness practices into the technical community.
+Peter Bowles led an immersive group meditation focusing on collective consciousness and envisioning a positive AI future, marking a unique integration of wellness practices into the technical community.
 
 ### ⚡ AI Energy Crisis Awareness
 Lionel Ring presented WhatsApp project - the first comprehensive tool for measuring AI energy consumption, revealing shocking statistics about AI's environmental impact and the urgent need for energy transparency.
@@ -109,13 +119,13 @@ Jonathan Williams (Squamish Nation) demonstrated practical AI usage for cultural
 - UBC venue with secret green screen studio access
 
 ### Corporate Integration Success
-[[Noah Brunn]] (Arturs Technology Leadership) implementing comprehensive AI change management across architectural firm, creating "Responsible AI Handbook" encouraging safe experimentation while avoiding "shadow AI" usage.
+Noah Brunn (Arturs Technology Leadership) implementing comprehensive AI change management across architectural firm, creating "Responsible AI Handbook" encouraging safe experimentation while avoiding "shadow AI" usage.
 
 ---
 
 ## Meditation Experience Analysis
 
-[[Peter Bowles]] guided community through extended meditation focusing on:
+Peter Bowles guided community through extended meditation focusing on:
 - **Individual grounding:** Golden light visualization and body awareness
 - **Collective consciousness:** Sensing shared community vibration  
 - **Future visioning:** AI serving human flourishing and environmental healing
@@ -208,7 +218,7 @@ The July meetup exemplified the community's unique ability to hold technical adv
 
 **Gabriel George:** "We need to be connected to one another and the importance of that and not to be siloed... using these tools, these new tools, these modern tools, and using this beautiful community."
 
-**[[Peter Bowles]] (Meditation):** "You are living proof that consciousness and technology can dance together beautifully."
+**Peter Bowles (Meditation):** "You are living proof that consciousness and technology can dance together beautifully."
 
 ---
 

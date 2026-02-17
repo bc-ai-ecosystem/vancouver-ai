@@ -1,44 +1,12 @@
 ---
-title: "Vancouver AI Meetup #25 - Transcript"
-date: 2026-01-28
+title: "Vancouver AI Meetup #25"
+date: 2026-01-01
+meetup_number: 25
 type: transcript
-meeting_type: community-meetup
-event_number: 25
-location: "H.R. MacMillan Space Centre, Vancouver, BC"
-participants:
-  - name: "Kris Krug"
-    role: "Host, BC AI Events"
-  - name: "Alexandra Samuel"
-    role: "Keynote Speaker, Host of Me + Viv Podcast"
-  - name: "Maya Bruck"
-    role: "Product Designer, Speaker"
-  - name: "Erica Lapadat-Janzen"
-    role: "Artist, Speaker"
-  - name: "Anthony Joseph"
-    role: "Squamish Nation Counselor, Ceremonial Opening"
-  - name: "Philippe Pasquier"
-    role: "SFU Meta Creation Lab"
-  - name: "Kevin Friel"
-    role: "AI Film Club Organizer"
-  - name: "Tanya Slingsby"
-    role: "MAC Reading Group Organizer"
-  - name: "Simon Haworth"
-    role: "Life Sciences AI Organizer"
-  - name: "Peter Bitner"
-    role: "The Upgrade Co-founder"
-  - name: "Brewster Kahle"
-    role: "Internet Archive Founder"
-  - name: "Andrea Mills"
-    role: "Internet Archive Canada Executive Director"
-  - name: "Kate Armstrong"
-    role: "Artist, Squashy Award Winner"
-  - name: "Kush"
-    role: "Open Source AI Advocate"
-  - name: "Rob"
-    role: "Alexandra Samuel's Husband"
-tags: [meetup, transcript, vancouver-ai-community, meetup-25, ai-relationships, human-centered-design, ai-ethics, indigenous-ceremony]
+venue: ""H.R. MacMillan Space Centre, Vancouver, BC""
+attendance: 10
+tags: ["meetup", "transcript", "vancouver-ai"]
 ---
-
 [00:00:00] **Speaker:** Welcome everybody. You're at the Vancouver AI meetup, number 26, and you are the Vancouver AI community. Thank you very much for being here tonight. We are a unique group of people exploring the edge of AI and where we're going with optimism, curiosity, and transformation in one hand, and critical thinking, skepticism, and what the fuck, in the other hand, both hands full.
 
 [00:00:32] **Speaker:** So thank you for being here and that's what you're gonna get tonight. This is a broad cross section from Vancouver, people that identify as working in the AI industry, startup founders, people that are in charge of AI governance at big companies, nonprofits that are trying to figure it out, and a bunch of government people who are here just trying to figure out what's going on and how they can support us best.

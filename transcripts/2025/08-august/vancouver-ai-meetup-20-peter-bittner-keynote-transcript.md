@@ -1,3 +1,12 @@
+---
+title: "Vancouver AI Meetup #20 - Peter Bittner Keynote: The Future of Work"
+date: 2024-08-26
+meetup_number: 20
+type: transcript
+venue: "HR MacMillan Space Centre, Vancouver"
+speakers: ["Kris Kr\u00fcg"]
+tags: ["meetup", "transcript", "vancouver-ai"]
+---
 # Vancouver AI Meetup #20 - Peter Bittner Keynote: The Future of Work
 **Date:** August 26, 2024  
 **Location:** HR MacMillan Space Centre, Vancouver  
@@ -8,7 +17,7 @@
 
 ## Full Keynote Transcript
 
-**[[Kris Krüg]] (Introduction):** 
+**Kris Krüg (Introduction):** 
 Incoming transmission from the future Vancouver AI community meetup. Peter Bittner is up next. As I told you, I met this guy at that Google Accelerator I went to in 2023. We were the only two guys out of a cohort of 20 companies doing AI stuff and um we thought that was hilarious. uh a lot of them were starting businesses that are probably now in um industries that won't be going forward into the future which is and for me it was close. I thought I was going to be starting uh like a content type company. I didn't realize it was community that was the only path forward. I almost started a content company and that would have been a mistake. Um as the value of content continues to cruise towards zero. Okay, Peter Bittner up here to talk about the future of work.
 
 **Peter Bittner:**
@@ -58,13 +67,13 @@ And so here's the plug. Kris and I have been working together for the last few y
 
 [Applause]
 
-**[[Kris Krüg]]:**
+**Kris Krüg:**
 A so you know we've been talking we've known each other for 20 months I've been building this thing together. So imagine it from his side for a second. He's partnered with me. We're doing our courses and once a month I have an event like this that totally glitches out my system for a week where I'm like, "Hey Peter, I just need a week of uh we're gonna be doing this thing." So I'm glad you get to come experience what it is you
 
 **Peter Bittner:**
 It's an honor. Yeah, it's an honor what you've been, you know, playing uh Yes. Hookie doing this last 20 months. But no, it's a pleasure. Yeah, it's so great to be here and feel the energy and meet so many Yeah. great people and hope to chat with you guys afterwards.
 
-**[[Kris Krüg]]:**
+**Kris Krüg:**
 Yeah. And like real talk, you know, with some partnerships in this room, Loki, do you feel inspired to come hang out with us for a second? like I don't mean to put you on the spot or nothing but I saw that you maybe are still here but through some partnerships with other nonprofits like Circle Innovation we've been able to unlock funding through our program. So we got this sales course AI for sales leaders we're doing right now. If you meet the criteria of the province which is not hard you get 30% of our tuition paid for the province. So um Loki put that together. It's awesome. It's available to everyone in this room. You can talk to Peter for more info.
 
 **Peter Bittner:**
@@ -89,13 +98,13 @@ All right, we got one more rant from the back here. Yeah, thank you. Um, hi Pete
 **Peter Bittner:**
 Yeah, liberal arts, right? Those four-year degrees, those those pesky, outdated four years liberal arts degrees. Um, no, those are great questions. Uh I'll speak to yours first just a little bit as far as you know a lot of these models appearing sentient right this is a problem right this is something that uh Mustafa Sulleman you know former CEO of of deep mind and founder of you know written the literal book on the future of AI um and extremely accomplished one of the world's you know really foremost thought leaders technologists on AI is saying that we are in a moment right now where it almost doesn't even matter right to your point whether it actually is approaching sentience or AGI right it is the illusion of it that's the problem in the first place right and we're here now to your point you're exactly right we are here you know unfortunately there's a very widely covered case of you know a uh teen committing suicide after a chatbt you know uh session um just this past week as well and so we need to be talking to our kids you know as a father as well about AI and thinking about AI safety um and judgment and critical thinking right need to be first and foremost uh to your sort of second question over there um one of the things that I do with executives is actually occasionally ask them for a case study or a you know project that they want to do and I'll do an output of it for them that is complete garbage but looks on the surface incred Incredible. And this happens, right? This is not a hallucination. This is like a core feature, right, of a lot of these models, right? They're designed to to basically tell you what you want to hear, right? And uh we'll pair it back to you kind of your own BS. And this is really dangerous, right? It's really dangerous for a lot of reasons to confirm your own biases. In some cases, you know, the AI even using deep research and some of these more agentic stuff, even more dangerous because it can go further down that rabbit hole and off the rails, right? And so you need to really be thinking critically about um every point to further you know assess what did we what just happened here. In some cases the AI convinced us on the surface that it had done incredible layers of of research and analysis and then when I asked you know you said you did this over about 3 days chatbt that's interesting cuz you did it literally 20 minutes ago in front of me. Um tell me about that sampling. What did you do? And it was like, "Oh, you're right. That was completely false, right? That was entirely made up." Uh, but it was a simulation of what it could look like if I actually did this. And I was like, "You got to be me." Like, and so this is the danger, right, for all levels, right? Doesn't matter who you are in the world for whatever use case, you know? Yeah. It's uh a big problem. Yeah. Great questions.
 
-**[[Kris Krüg]]:**
+**Kris Krüg:**
 This guy's taught me a lot about AI. All the rest of you with your hands up, you should take his classes. They're also your classes, full disclosure. But Kris Krüg has taught me a lot. Way more than I think I've taught him.
 
 **Peter Bittner:**
 Thank you, Peter.
 
-**[[Kris Krüg]]:**
+**Kris Krüg:**
 Yeah.
 
 ---

@@ -1,9 +1,18 @@
+---
+title: "Vancouver AI Community Meetup #21 - September 2024 Recap"
+date: 2024-09-01
+meetup_number: 21
+type: recap
+venue: "Vancouver, BC"
+speakers: ["Kris Kr\u00fcg"]
+tags: ["meetup", "recap", "vancouver-ai"]
+---
 # Vancouver AI Community Meetup #21 - September 2024 Recap
 
 **Event:** Vancouver AI Community Meetup #21
 **Date:** September 2024
 **Location:** Vancouver, BC
-**Host:** [[Kris Krüg]] (@kriskrug)
+**Host:** Kris Krüg (@kriskrug)
 
 ---
 

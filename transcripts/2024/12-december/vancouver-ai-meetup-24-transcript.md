@@ -1,11 +1,20 @@
+---
+title: "Vancouver AI Community Meetup #24 - December 2024 Transcript"
+date: 2024-12-01
+meetup_number: 24
+type: transcript
+venue: "Space Center, Vancouver, BC"
+speakers: ["Carol Anne Hilton", "Kevin Friel", "Kris Kr\u00fcg", "Lorraine Lowe", "Matthew Schwartzman", "Philippe Pasquier"]
+tags: ["meetup", "transcript", "vancouver-ai"]
+---
 # Vancouver AI Community Meetup #24 - December 2024 Transcript
 ## NeurIPS Special Edition & KK Birthday Celebration
 
 **Date:** December 2024
 **Location:** Space Center, Vancouver, BC
 **Event:** Vancouver AI Community Meetup #24 - NeurIPS Special Edition
-**Host:** [[Kris Krüg]] (@kriskrug)
-**Special Occasion:** [[Kris Krüg]]'s Birthday Celebration
+**Host:** Kris Krüg (@kriskrug)
+**Special Occasion:** Kris Krüg's Birthday Celebration
 
 ---
 
@@ -79,11 +88,11 @@ Um, he's done a bunch of songs, he's done some call and response, and he's made 
 
 Um, and I just really appreciate your involvement, Patrick. Thanks to you guys for letting me put all the weird things I find interesting up here. Can I hear it for Patrick Penfather?
 
-Hey Pixel Wizard,  come hang out for a sec. Oh gosh.  Um, this is [[Kevin Friel]], Mr. Pixel Wizard, lots of you guys know him. Uh,  he's like my main man, I trust him completely with lots of different things and helps me make all this amazing shit happen. Um, some of the things you saw back there, they look a little pedestrian, but they're really actually super fancy.
+Hey Pixel Wizard,  come hang out for a sec. Oh gosh.  Um, this is Kevin Friel, Mr. Pixel Wizard, lots of you guys know him. Uh,  he's like my main man, I trust him completely with lots of different things and helps me make all this amazing shit happen. Um, some of the things you saw back there, they look a little pedestrian, but they're really actually super fancy.
 
 I didn't know I was supposed to talk. This was, uh, this is how Chris rolls. Actually, it's a little sick. When we first moved into the Space Center, When we first moved into the Space Center, Um,  We had to change a few things from when this used to be in my studio. You remember when it used to be in my studio?
 
-Everyone was kind of gathered around. As I saw your faces, I'd call you up. I'd ask what was on your mind. And we got moved into a little bit more formal environment. But a lot of you have been asking for feedback. [[Matthew Schwartzman]] and some other people were like, we liked it when everyone could come talk and you surprised us sometimes and stuff.
+Everyone was kind of gathered around. As I saw your faces, I'd call you up. I'd ask what was on your mind. And we got moved into a little bit more formal environment. But a lot of you have been asking for feedback. Matthew Schwartzman and some other people were like, we liked it when everyone could come talk and you surprised us sometimes and stuff.
 
 So I'm going to try to do a mix of the formal awesome speeches that we're, you know, accustomed to that where we all learn something. And putting Pixel Wizard on the spot to talk about his stable diffusion, generative AI backgrounds that he's making over there on NVIDIA 4090.  Well, that's about it. It's a, uh, stable diffusion platform running out 49 now.
 
@@ -103,7 +112,7 @@ So that's kind of the backing story of what we've got going on here. Plus it's r
 
 And the graphics behind us are changing based on the conversation he's generating locally. It's pretty amazing, actually. So, thanks for being a part of this. I just wanted a chance to show off your cool stuff. Oh, thanks man. Appreciate it. Happy birthday. Thank you, brother. Mr. Christian.  Um,  You all know I'm pretty sensitive about, like, the commercial aspect of these things and trying to keep it away.
 
-But I will give a plug for Kevin and say, if you need someone to come set up a, like, high quality, Hollywood level production environment, I'm For a day with his lights and his generative backgrounds and all this real time So he can make hundreds of thousands of dollars worth of Hollywood content for 10, 000 a day or something like that So it's like it's pretty fucking amazing shit, really, you know Like those of you who are spending money like that on these types of things, you'll know what I'm talking about  Okay up next I am proud to introduce you to [[Carol Anne Hilton]] Carolyn Hilton, I get to work with and for at the Indigenomics Institute and the Global Center for Indigenomics.
+But I will give a plug for Kevin and say, if you need someone to come set up a, like, high quality, Hollywood level production environment, I'm For a day with his lights and his generative backgrounds and all this real time So he can make hundreds of thousands of dollars worth of Hollywood content for 10, 000 a day or something like that So it's like it's pretty fucking amazing shit, really, you know Like those of you who are spending money like that on these types of things, you'll know what I'm talking about  Okay up next I am proud to introduce you to Carol Anne Hilton Carolyn Hilton, I get to work with and for at the Indigenomics Institute and the Global Center for Indigenomics.
 
 Um, she's a world leader when it comes to indigenous economic reconciliation, and she's got some really far out ideas. They sound, um, audacious at times, and then they come true. Um, she's got her second book coming out soon, and we're working together on a whole bunch of experiments. Um, related to indigenous AI and the economic reconciliation movement that she is a part of.
 
@@ -111,7 +120,7 @@ So Caroline, you want to come just say a few things about what's on your mind?
 
 And, uh, for being just so you know, I'm going to have you say one or two things about move 37 when she's done.  Thank you for being born, Chris. Woo.
 
-Good class is [[Carol Anne Hilton]] has great conversation, class walker, to escort to empty. I am new channel from the West coast of Vancouver Island. I wanted to acknowledge we are on Squamish territory and also bring attention to this moment. What a absolute powerful time to be alive. We actually are this generation that gets to be alive right now, which is like, You In any time, in any across space, across time, we get to be here right now and that's a beautiful, powerful thing.
+Good class is Carol Anne Hilton has great conversation, class walker, to escort to empty. I am new channel from the West coast of Vancouver Island. I wanted to acknowledge we are on Squamish territory and also bring attention to this moment. What a absolute powerful time to be alive. We actually are this generation that gets to be alive right now, which is like, You In any time, in any across space, across time, we get to be here right now and that's a beautiful, powerful thing.
 
 And the conversations that we have of how we focus and what our inheritance of experience of humanity has been.  I am of the belief that AI is a tool to be able to further activate our humanity. And the best of that, in terms of my heritage as a New Toronto person, our language model is literally tens of thousands of years old.
 
@@ -135,7 +144,7 @@ And to realize that the tools and structures, the advancement and alignment of t
 
 It's my birthday, so I gotta be sincere, even if I'm gonna cry. Uh, Caroline is one of the people I respect the most in this whole wide world, and I'm so lucky that she saw in me what she was looking for, and I get to contribute my gifts to the beautiful, amazing shit that she's doing. Um, it is  Meaningful to me that I can play this role as an ally out there exploring the edges of all this AI stuff and bringing The best of what I find back to you and for you to remix all those ideas with your vision  This is very important work.
 
-Thanks for the opportunity. Yeah, [[Carol Anne Hilton]] Perveen from move 37 is about to come up and myself from future proof creatives and [[Lorraine Lowe]] from the space center All right Are working on a collaboration for next April 8th, 9th, and 10th. I'll let them talk to you more about that another time. But just know that there's a indigenous AI technology event.
+Thanks for the opportunity. Yeah, Carol Anne Hilton Perveen from move 37 is about to come up and myself from future proof creatives and Lorraine Lowe from the space center All right Are working on a collaboration for next April 8th, 9th, and 10th. I'll let them talk to you more about that another time. But just know that there's a indigenous AI technology event.
 
 Come on up, Raveen. Um, with AI Meetup Vibes happening here at the Space Center next April 8th, 9th, and 10th.  I've known this guy for like 20 years.  He's got a very, very diverse background. Um, he's worked with Doctors Without Borders. He's, uh, done, uh, High level global thought leadership, um, in academia and beyond.
 
@@ -163,7 +172,7 @@ So that, along with gamification,  all those algorithms, it would be a very diff
 
 So, MOVE37XR  exists to create connectivity between  human cultures and individuals, and also between the human species and other species. Thank you.  So. I'm going to leave it there. We have some fabulous, fabulous, um, artists involved. Ruby Seng, you've probably heard of him. John. And we'll be doing something here in April with Chris involved.
 
-A three day piece with [[Carol Anne Hilton]], her book launch, next book launch. And the Impact Indigenous Conference.  So it's going to be an immersive experience of what it needs to be like to live in a regenerative economic future. We have this 10, 000 here at Verizon.
+A three day piece with Carol Anne Hilton, her book launch, next book launch. And the Impact Indigenous Conference.  So it's going to be an immersive experience of what it needs to be like to live in a regenerative economic future. We have this 10, 000 here at Verizon.
 
 Hey Praveen, thanks for coming over from Salt Spring Island for this. Kieran, are you here?  Did you make it?  Well, thank you very much for coming over. Thanks for bringing your son. And dude, I'm stoked to be doing all this stuff with you, man. It's been a great ride.  Praveen Pralay from Move37.  Okay,  okay. So, uh  We have the meat of a talk I want to give you, then we have our surprise guest over here, and then we have our AI from Montreal.
 
@@ -630,10 +639,10 @@ it's.
 **Featured Speakers & Presentations:**
 
 - **Patrick Penfather (UBC)** - Interactive "Gifts and Coal" Christmas song with AI ethics survey
-- **[[Kevin Friel]] (Pixel Wizard)** - Real-time generative AI backgrounds on NVIDIA 4090
-- **[[Carol Anne Hilton]]** - Indigenous economic reconciliation and Indigenomics AI
+- **Kevin Friel (Pixel Wizard)** - Real-time generative AI backgrounds on NVIDIA 4090
+- **Carol Anne Hilton** - Indigenous economic reconciliation and Indigenomics AI
 - **Praveen Pillay (Move37XR)** - Non-human consciousness and planetary boundaries
-- **[[Philippe Pasquier]] (SFU Meta Creation Lab)** - Creative AI, Autodoom tool, and musical composition systems
+- **Philippe Pasquier (SFU Meta Creation Lab)** - Creative AI, Autodoom tool, and musical composition systems
 - **Lionel (Yucotia)** - Generative art evolution and human-AI collaboration
 - **Brittany Smyla** - Poetry: "Ceiling Time" - metaphorical exploration of AI consciousness
 - **Caroline & Michael Running Wolf (FLAIR)** - Indigenous language revitalization AI
@@ -646,7 +655,7 @@ it's.
 - International speaker from New Zealand
 - Live AI avatar musical performance
 - Interactive art installations
-- Birthday celebration for [[Kris Krüg]]
+- Birthday celebration for Kris Krüg
 - After-party "Synthesis" event announcement
 
 **Community Themes:** Indigenous AI sovereignty, creative applications, academic-industry bridge, international collaboration, ethical AI development, artistic expression

@@ -1,3 +1,13 @@
+---
+title: "Vancouver AI Community Meetup #20 - Recap"
+date: 2025-08-01
+meetup_number: 20
+type: recap
+venue: "MacMillan Space Centre, Vancouver"
+speakers: ["Carol Ann Hilton", "Dean Shev", "Dimitri Schwartzman", "Kevin Friel", "Kris Kr\u00fcg", "Lorraine Lowe", "\u267e\ufe0f sev geraskin"]
+attendance: 250
+tags: ["meetup", "recap", "vancouver-ai"]
+---
 # Vancouver AI Community Meetup #20 - Recap
 **Date:** August 2024  
 **Location:** MacMillan Space Centre, Vancouver  
@@ -17,7 +27,7 @@ The 20th Vancouver AI Community meetup marked a historic milestone with the form
 ### 🏛️ **Nonprofit Organization Launch**
 - **BC + AI Ecosystem Association** officially registered and launched
 - **34 founding members** signed up on day one
-- **Board members announced:** [[Carol Ann Hilton]] (Indigenomics), [[Lorraine Lowe]] (Space Center), [[Kris Krüg]] (Founder)
+- **Board members announced:** Carol Ann Hilton (Indigenomics), Lorraine Lowe (Space Center), Kris Krüg (Founder)
 
 ### 🎯 **AI Justice Advocacy Focus**  
 - **Jos Duncan** flew from Philadelphia to deliver keynote on AI advocacy and social justice
@@ -25,7 +35,7 @@ The 20th Vancouver AI Community meetup marked a historic milestone with the form
 - **Community values alignment** around responsible AI development and corporate accountability
 
 ### 🏆 **Sophisticated Hackathon Projects**
-- **Winner:** [[Dean Shev]]'s AI-generated music album representing community voices
+- **Winner:** Dean Shev's AI-generated music album representing community voices
 - **Hall of Fame:** Sev's conversational data interface with gamification  
 - **Innovation:** Proj Wall's 3D semantic mapping and AI round-table discussions
 
@@ -90,7 +100,7 @@ The 20th Vancouver AI Community meetup marked a historic milestone with the form
 
 ## Hackathon Winners: "AI in Vancouver" Dataset
 
-### 🥇 **Winner: [[Dean Shev]] - AI Music Album**
+### 🥇 **Winner: Dean Shev - AI Music Album**
 **Project:** "Transforming Data into Human Connection" - 17-song album representing Vancouver AI community voices
 
 **Innovation:**
@@ -100,9 +110,9 @@ The 20th Vancouver AI Community meetup marked a historic milestone with the form
 
 **Artist Background:** Healthcare data analyst who dreamed of music since age 14, used AI to fulfill creative vision while maintaining technical expertise.
 
-**Sample Lyrics:** Created song representing Kris ("Bringing People in a Circle") and songs for community members like Professor P, [[Kevin Friel]], [[Carol Ann Hilton]], and Gabriel George.
+**Sample Lyrics:** Created song representing Kris ("Bringing People in a Circle") and songs for community members like Professor P, Kevin Friel, Carol Ann Hilton, and Gabriel George.
 
-### 🏆 **Hall of Fame: [[♾️ sev geraskin]] - Conversational Data Interface**  
+### 🏆 **Hall of Fame: ♾️ sev geraskin - Conversational Data Interface**  
 **Project:** "Artificially General Intelligent Data Interface" - Choose-your-own-adventure data exploration
 
 **Features:**
@@ -135,7 +145,7 @@ The 20th Vancouver AI Community meetup marked a historic milestone with the form
 - **Custom GPT:** Trained on all community documents, transcripts, and research
 
 **Financial Supporters:**
-- **[[Dimitri Schwartzman]]:** $500/month (realtor)
+- **Dimitri Schwartzman:** $500/month (realtor)
 - **Ron and Alon Sev:** $500/month (law firm)  
 - **Rival Technologies:** $10,000 in 2024, $20,000 committed for 2025
 - **Upgrade.ai:** 30% course discounts for members
@@ -165,10 +175,10 @@ The 20th Vancouver AI Community meetup marked a historic milestone with the form
 **Gabriel George Senior (Tsleil-Waututh Nation):** Provided ceremonial opening with Eagle song and teachings about interconnectedness, representing ongoing cultural integration rather than token acknowledgment.
 
 ### Community Ceremonial Practice
-[[Carol Ann Hilton]]'s board membership contingent on continued ceremonial openings, demonstrating authentic integration of indigenous values into organizational structure.
+Carol Ann Hilton's board membership contingent on continued ceremonial openings, demonstrating authentic integration of indigenous values into organizational structure.
 
 ### Venue Partnership Evolution
-MacMillan Space Centre relationship evolved from restrictive rules to full collaboration, with Executive Director [[Lorraine Lowe]] joining board and seeking AI integration for science education.
+MacMillan Space Centre relationship evolved from restrictive rules to full collaboration, with Executive Director Lorraine Lowe joining board and seeking AI integration for science education.
 
 ---
 

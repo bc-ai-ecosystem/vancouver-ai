@@ -1,3 +1,10 @@
+---
+title: "METACREATION Lab AI Music Residency Showcase - Recap"
+date: 2024-08-01
+type: recap
+speakers: ["Philippe Pasquier"]
+tags: ["meetup", "recap", "vancouver-ai"]
+---
 # METACREATION Lab AI Music Residency Showcase - Recap
 **Vancouver AI + BC + AI Ecosystem + SFU SIAT Special Event**
 **August 2024 | SFU Surrey**
@@ -22,7 +29,7 @@ Contrary to popular belief, AI music creation is labor-intensive. Philippe Hong 
 Quentin Nolo demonstrated converting non-musical data (dancer movements via Wii Nunchuck sensors) into music using Calliope AI, showing how AI can bridge completely different creative domains.
 
 ### 4. The Future is Personalized Models
-[[Philippe Pasquier]] predicted a shift from generic AI tools to personalized systems: "Right now you use generic AI tools that are supposed to be one size fits all, but the future is going to be personalized... If you're a poet, gather your poetry to yourself."
+Philippe Pasquier predicted a shift from generic AI tools to personalized systems: "Right now you use generic AI tools that are supposed to be one size fits all, but the future is going to be personalized... If you're a poet, gather your poetry to yourself."
 
 ### 5. Community-Engaged Design is Critical
 The residency model engages artists directly in AI tool development, ensuring tools serve real creative needs rather than theoretical capabilities.
@@ -50,7 +57,7 @@ The residency model engages artists directly in AI tool development, ensuring to
 
 ## 👥 Presenter Highlights
 
-### [[Philippe Pasquier]] (METACREATION Lab Director)
+### Philippe Pasquier (METACREATION Lab Director)
 - Leading research in creative AI at SFU SIAT
 - Published algorithms in scientific conferences
 - Industry partnerships with Steinberg, Ableton (6M users)
@@ -147,7 +154,7 @@ The residency model engages artists directly in AI tool development, ensuring to
 
 > "The problem with AI, as it relates to art, is that it's trained on everybody else's stolen shit... But there's a next level where artists train an AI model on just their own work." - Kris Krüg
 
-> "People think AI is cheating, it's less work. In fact, when you look at people working with AI, it's a lot more work." - [[Philippe Pasquier]]
+> "People think AI is cheating, it's less work. In fact, when you look at people working with AI, it's a lot more work." - Philippe Pasquier
 
 > "I don't really consider myself as a musician because I'm doing music with numbers and algorithms... It's more like I manipulate numbers, creating textures." - Quentin Nolo
 

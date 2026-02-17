@@ -1,9 +1,20 @@
+---
+title: "Vancouver AI Community Meetup #21 - Recap"
+date: 2025-09-24
+meetup_number: 21
+type: recap
+venue: "HR MacMillan Space Centre (Planetarium), Vancouver, BC"
+speakers: ["Dean Shev", "Dimitri Schwartzman", "Gabriel Zaro", "Kris Kr\u00fcg", "Loki Jorgenson", "Matt Sinclair", "jonny williams"]
+attendance: 250
+themes: ["Indigenous AI:", "Plant Communication:", "Language Preservation:", "Community Infrastructure:", "Ethical AI:"]
+tags: ["meetup", "recap", "vancouver-ai"]
+---
 # Vancouver AI Community Meetup #21 - Recap
 
 **Date:** September 24, 2025
 **Location:** HR MacMillan Space Centre (Planetarium), Vancouver, BC
 **Attendees:** ~250 people
-**Host:** [[Kris Krüg]]
+**Host:** Kris Krüg
 **Milestone:** Keynote on Indigenous Knowledge + AI by Manuel Axelstrain
 
 ---
@@ -58,7 +69,7 @@ Manny's solo show at Richmond Art Gallery uses AI to visualize medicinal compoun
 
 ### Indigenous Language Preservation Through AI
 
-**[[jonny williams]]** (Squamish Nation) opened the event with traditional welcome song and prayer, then shared his transformative AI story:
+**jonny williams** (Squamish Nation) opened the event with traditional welcome song and prayer, then shared his transformative AI story:
 
 **The Challenge:**
 - Only **5 fully fluent Squamish speakers** remain
@@ -86,7 +97,7 @@ AI doesn't replace indigenous expertise—it **amplifies** it, allowing knowledg
 
 ### Community Infrastructure Launches
 
-#### BC + AI Discord Server ([[Gabriel Zaro]])
+#### BC + AI Discord Server (Gabriel Zaro)
 
 **Gabe Zaro** (community executive, former EA/2K FIFA community manager) officially launched the BC + AI Discord with **sophisticated onboarding system**:
 
@@ -99,7 +110,7 @@ AI doesn't replace indigenous expertise—it **amplifies** it, allowing knowledg
 - Forum channels with search functionality
 
 **Philosophy:**
-> "Community is humanity's operating system" - [[Gabriel Zaro]]
+> "Community is humanity's operating system" - Gabriel Zaro
 
 **Gabe's Background:**
 - Grew up in Brazil's 2nd biggest favela (120,000 people): learned **chaos → organization → trust**
@@ -128,8 +139,8 @@ AI doesn't replace indigenous expertise—it **amplifies** it, allowing knowledg
 
 **Past Winners:**
 1. **Sev Kin:** AGI data interface (Hall of Fame) → hired by Kris for Indigenomics Institute
-2. **[[Matt Sinclair]]:** Canadian identity simulator
-3. **[[Dean Shev]]:** Music-themed album visualization
+2. **Matt Sinclair:** Canadian identity simulator
+3. **Dean Shev:** Music-themed album visualization
 
 **Accessibility:**
 > "Just download the dataset, stick it in ChatGPT, and ask 'what the fuck is in all these surveys?' Then follow it down the rabbit hole."
@@ -154,7 +165,7 @@ Hackathon wins differentiate resumes in 500+ MBA application stacks
 #### Mind, AI & Consciousness (MAC) - Deep Philosophical Inquiry
 
 **Presenter:** Danny (designer exploring consciousness)
-**Leader:** [[Loki Jorgenson]] (currently in Montreal)
+**Leader:** Loki Jorgenson (currently in Montreal)
 **Size:** ~100 members, gatherings of 20
 
 **Last Deep Dive (5th session):**
@@ -199,7 +210,7 @@ Working on paper about using **aesthetic taste** as rubric to test for AI consci
 **Date:** October 18th
 **Title:** "AI Beyond the Algorithm: Power, Psyche, and the Future of Human Agency"
 **Organizer:** Professor Isam Haddad + Elena
-**Speakers:** [[Kris Krüg]], Dr. Philip (SFU)
+**Speakers:** Kris Krüg, Dr. Philip (SFU)
 **Demo:** Running LLMs privately (privacy-focused AI)
 **Cost:** $5 (ensures attendance commitment)
 **Vision:** Building British Columbia Center of Excellence in AI
@@ -209,7 +220,7 @@ Working on paper about using **aesthetic taste** as rubric to test for AI consci
 ### Academic Achievement: Ars Electronica Award
 
 **Paper:** Generative creativity using GANs (Generative Adversarial Networks)
-**Authors:** AIA, Leonel, Moham, Philippe, [[Kris Krüg]]
+**Authors:** AIA, Leonel, Moham, Philippe, Kris Krüg
 **Institution:** Metacreation Lab (SFU Surrey - School of Interactive Art & Technology)
 **Tool:** **Autoloom** (open source)
 **Innovation:** Build small models based on artists' work **without using stolen training data**
@@ -232,7 +243,7 @@ Working on paper about using **aesthetic taste** as rubric to test for AI consci
 **AI Role:** ChatGPT as entrepreneurial assistant
 **Impact:** "ChatGPT helped me build this pilot, imagine it, and have the courage to actually do it"
 
-#### [[Dimitri Schwartzman]] - Real Estate + AI
+#### Dimitri Schwartzman - Real Estate + AI
 
 **Focus:** Single-family home buying/selling
 **Secret Weapon:** Year-long developed prompt engineering
@@ -351,7 +362,7 @@ Helped BC government determine **dollar value of the commons** (ephemeral resour
 
 ### October 29, 2025: **AI FILM MEETUP TAKEOVER**
 
-**Organizers:** Kevin (Mr. Pixel Wizard), Patrick (UBC), [[Kris Krüg]]
+**Organizers:** Kevin (Mr. Pixel Wizard), Patrick (UBC), Kris Krüg
 **WhatsApp Group:** Nearly 100 prompt-curious film people
 **Content:**
 - AI film screenings
@@ -384,8 +395,8 @@ Helped BC government determine **dollar value of the commons** (ephemeral resour
 
 ### What AI Can Look Like
 
-**[[Kris Krüg]]'s Framing:**
-> "AI doesn't have to look like Silicon Valley. It doesn't have to look like Mark Zuckerberg. It does not have to look like Elon Musk. It can look like [[jonny williams]]. It can look like Uncle Weed. It can look like Carly."
+**Kris Krüg's Framing:**
+> "AI doesn't have to look like Silicon Valley. It doesn't have to look like Mark Zuckerberg. It does not have to look like Elon Musk. It can look like jonny williams. It can look like Uncle Weed. It can look like Carly."
 
 **Demonstration Through Diversity:**
 - Indigenous cultural advisors preserving endangered languages
@@ -397,7 +408,7 @@ Helped BC government determine **dollar value of the commons** (ephemeral resour
 
 ### Community as Operating System
 
-**[[Gabriel Zaro]]'s Thesis:**
+**Gabriel Zaro's Thesis:**
 Community is humanity's operating system, with evolutionary patches:
 - **Patch Zero:** Survival (favela childhood: chaos → organization → trust)
 - **Security Patch:** Trust (circus: friends holding your rope 40 feet up)
@@ -449,10 +460,10 @@ Indigenous knowledge and Western science arriving at same truth through differen
 > "If we're left out of these conversations, does that do us more harm?" - Manuel Axelstrain
 
 **On Community:**
-> "Your neighbor is your babysitter, is your grocery store, is your alarm system. Ignore them at your own risk." - [[Gabriel Zaro]] (on favela life)
+> "Your neighbor is your babysitter, is your grocery store, is your alarm system. Ignore them at your own risk." - Gabriel Zaro (on favela life)
 
 **On AI Accessibility:**
-> "Just download the dataset, stick it in ChatGPT, and ask 'what the fuck is in all these surveys?'" - [[Kris Krüg]]
+> "Just download the dataset, stick it in ChatGPT, and ask 'what the fuck is in all these surveys?'" - Kris Krüg
 
 **On Archiving:**
 > "Always be archiving 'cause the internet has a very short memory." - Dave Olson
@@ -536,7 +547,7 @@ Vancouver AI Meetup #21 will be remembered as the event that **centered indigeno
 
 Manuel Axelstrain's keynote posed a question that cuts to the heart of what AI could become: Can we use pattern recognition and massive datasets to help humans reconnect with the natural world? Can technology amplify rather than replace ancient knowledge systems?
 
-The contrast between [[jonny williams]] (using AI to preserve Squamish language and culture) and Manuel's vision (using AI to decode plant communication) shows indigenous communities aren't just **using** AI—they're **reimagining what it's for**.
+The contrast between jonny williams (using AI to preserve Squamish language and culture) and Manuel's vision (using AI to decode plant communication) shows indigenous communities aren't just **using** AI—they're **reimagining what it's for**.
 
 The difficult conversations about intention, consent, and data sovereignty weren't sidebar discussions. They were the main event, grappling with questions every AI developer should be asking: Whose knowledge? Whose consent? Whose benefit?
 

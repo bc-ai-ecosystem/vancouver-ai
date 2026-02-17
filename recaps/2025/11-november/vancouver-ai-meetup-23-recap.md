@@ -1,8 +1,18 @@
+---
+title: "Vancouver AI Community Meetup #23 - Comprehensive Recap"
+date: 2025-11-26
+meetup_number: 23
+type: recap
+venue: "HR MacMillan Space Centre (Planetarium), Vancouver, BC"
+speakers: ["David Weng", "Kevin Friel", "Kris Kr\u00fcg", "Loki Jorgenson"]
+attendance: 20
+tags: ["meetup", "recap", "vancouver-ai"]
+---
 # Vancouver AI Community Meetup #23 - Comprehensive Recap
 
 **Date:** November 26, 2025
 **Location:** HR MacMillan Space Centre (Planetarium), Vancouver, BC
-**Host:** [[Kris Krüg]]
+**Host:** Kris Krüg
 **Event Number:** 23
 **Theme:** Ethics Panel - "Portals Not Panels"
 **Attendee Demographics:** ~60-70% first-timers, 30-40% BC + AI members
@@ -12,7 +22,7 @@
 
 ## Executive Summary
 
-Meetup #23 marked a significant evolution in the Vancouver AI Community's engagement with ethics, sustainability, and accountability. The event featured an extensive Indigenous welcome from Squamish Nation Counselor Anthony Joseph (Isiléyu), a technical presentation on AI energy monitoring by Lionel Emba, a powerful testimony from voice actor Amanda Silvera whose voice was stolen, and a groundbreaking ethics panel moderated by Catherine Warren with Kay Tigo, [[Kevin Friel]], and Liz Marshall.
+Meetup #23 marked a significant evolution in the Vancouver AI Community's engagement with ethics, sustainability, and accountability. The event featured an extensive Indigenous welcome from Squamish Nation Counselor Anthony Joseph (Isiléyu), a technical presentation on AI energy monitoring by Lionel Emba, a powerful testimony from voice actor Amanda Silvera whose voice was stolen, and a groundbreaking ethics panel moderated by Catherine Warren with Kay Tigo, Kevin Friel, and Liz Marshall.
 
 **Key Takeaway:** The community is actively wrestling with the paradox of using AI tools while advocating for environmental justice, consent, and accountability - crystallized in Lionel's proposal for a "Token Savings Award" that inverts the consumption incentives of OpenAI's trillion-token award.
 
@@ -66,7 +76,7 @@ Anthony shared his own AI journey - using Canva to create his council campaign p
 - Strategic approach to policy engagement
 
 ### Victoria AI Summit Success
-- **[[Loki Jorgenson]]** delivered closing keynote
+- **Loki Jorgenson** delivered closing keynote
 - Part of VIATech's tech week
 - Discussing expansion to week-long event next year
 - Vancouver AI Community offered to participate
@@ -110,7 +120,7 @@ Anthony shared his own AI journey - using Canva to create his council campaign p
 - Eliza's second company (also runs cosmetics/lip gloss)
 - Both active in AI & Education meetups
 
-### [[David Weng]] - Art Director
+### David Weng - Art Director
 - New addition to community leadership
 - Major graphics upgrade for BC + AI brand
 
@@ -223,7 +233,7 @@ Sesson Ong (government relations) offered to connect Amanda with:
 |------|------|--------------|
 | **Catherine Warren** (Moderator) | Founder & President | FanTrust (25 years) |
 | **Kay Tigo** | Director of Marketing | Montreal AI Ethics Institute |
-| **[[Kevin Friel]]** | AI Filmmaker | Community Member |
+| **Kevin Friel** | AI Filmmaker | Community Member |
 | **Liz Marshall** | Documentary Filmmaker | Liz Mars Productions |
 
 ### Catherine Warren - Context Setting
@@ -270,7 +280,7 @@ Sesson Ong (government relations) offered to connect Amanda with:
 **On Corporate Responsibility:**
 > "Have corporations ever been intrinsically motivated to uphold human rights? Policy is one of the biggest ways to get corporations to actually do the right thing."
 
-### [[Kevin Friel]] - Compute & GPU Monopoly
+### Kevin Friel - Compute & GPU Monopoly
 
 **The Problem:**
 - Nvidia's 20-year lead on hardware/software
@@ -326,7 +336,7 @@ Sesson Ong (government relations) offered to connect Amanda with:
 **On Democratization:**
 > "The Egyptian Pharaoh democratized pyramid building. I won't participate."
 
-**[[Kris Krüg]]:**
+**Kris Krüg:**
 > "I find my relationship with AI non-consensual."
 
 > "It came into my industry and kicked the fucking table over, so I don't feel like I really got a choice."
@@ -403,7 +413,7 @@ Sesson Ong (government relations) offered to connect Amanda with:
 ### AI & Creativity
 > "AI more for the enhancement of creativity versus the replacement of creativity." — Matt Lock
 
-> "We don't do panels, we do portals." — [[Kris Krüg]]
+> "We don't do panels, we do portals." — Kris Krüg
 
 ### Ethics & Accountability
 > "What if we turn this onto its head and actually created an award for saving tokens?" — Lionel Emba
@@ -426,14 +436,14 @@ Sesson Ong (government relations) offered to connect Amanda with:
 > "The resistance has arrived." — Liz Marshall
 
 ### Technology & Politics
-> "I find my relationship with AI non-consensual." — [[Kris Krüg]]
+> "I find my relationship with AI non-consensual." — Kris Krüg
 
 > "This is not a technology problem. It's not even a political problem, it's an economic problem." — Topo
 
-> "There's something very punk rock about using the tool to tell stories of resistance." — [[Kevin Friel]]
+> "There's something very punk rock about using the tool to tell stories of resistance." — Kevin Friel
 
 ### Community Building
-> "When we all organize and get together and start talking about stuff, people listen." — [[Kris Krüg]]
+> "When we all organize and get together and start talking about stuff, people listen." — Kris Krüg
 
 > "Vancouver is a global center for circularity and for the B Corp movement." — Catherine Warren
 
@@ -470,7 +480,7 @@ Sesson Ong (government relations) offered to connect Amanda with:
 | Owner | Action |
 |-------|--------|
 | Liz Marshall | Continue AI/water documentary development |
-| [[Kevin Friel]] | Compute efficiency advocacy, Canadian GPU development |
+| Kevin Friel | Compute efficiency advocacy, Canadian GPU development |
 | Lionel | WhatsApp AI tool development |
 | Community | Use WhatsApp tools to monitor own AI usage |
 
@@ -582,9 +592,9 @@ Sesson Ong (government relations) offered to connect Amanda with:
 - Sesson Ong (new)
 - Matt Lock (new)
 - Topo (new)
-- [[Loki Jorgenson]] (update)
+- Loki Jorgenson (update)
 - Lionel Emba (update)
-- [[Kevin Friel]] (update)
+- Kevin Friel (update)
 - Luke (update)
 - Mayumi (update)
 

@@ -1,3 +1,11 @@
+---
+title: "METACREATION Lab AI Music Residency Showcase"
+date: 2024-08-01
+type: transcript
+venue: "SFU Surrey"
+speakers: ["Philippe Pasquier"]
+tags: ["meetup", "transcript", "vancouver-ai"]
+---
 # METACREATION Lab AI Music Residency Showcase
 **Vancouver AI + BC AI Ecosystem + SFU SIAT Special Event**
 **Date:** August 2024
@@ -12,7 +20,7 @@ Special showcase presenting the outcomes of an AI music residency program hosted
 
 ---
 
-## Opening Introduction - [[Philippe Pasquier]]
+## Opening Introduction - Philippe Pasquier
 
 Hundreds of thousands, maybe millions of people in the next few months that are going to change the creative industry. And then that's the introduction to the fact that with these artistic residencies that we start this year, we have the opportunity to get first person account by artists, people who make a living out of using those tools in general.
 
@@ -22,7 +30,7 @@ And so I'll start with a little bit of, uh, not a lecture, but an introduction o
 
 ---
 
-## [[Philippe Pasquier]] - METACREATION Lab Director
+## Philippe Pasquier - METACREATION Lab Director
 
 ### About the Lab
 So I'm a professor, I'm a faculty at Santa Fe University, of creative AI, is just this idea of applying AI for creative tasks, and creative tasks are interesting because, believe it or not, they're more complicated than finding the shortest path on a Google map from A to B, which is also AI.
@@ -187,7 +195,7 @@ Philippe demonstrates remixing Kraftwerk's "Robot" through different styles:
 
 "Once you have your model trained on your own artwork, it's not just about, like, not having the time or the imagination. It's, like, you can feed anything else into it. And then get results from your body of work out of it. So like with my writing bot, it's trained on 20 years of my writing and two books. I can copy headlines from the news into it. Out of it comes my perspective and my voice, you know?"
 
-### [[Philippe Pasquier]] on Personalized AI
+### Philippe Pasquier on Personalized AI
 
 "That's going to be the future of AI. Right now you use generic AI tools that are supposed to be like one size fits all, but the future is going to be personalized. Uh, system. So instead of living in a world of recommendation, Google recommend you what to watch. YouTube, Netflix, they all recommend you what to watch next. We're going to live in a world where eventually it's going to be generated, uh, for you to speak, uh, and to be more specific."
 
@@ -195,7 +203,7 @@ Philippe demonstrates remixing Kraftwerk's "Robot" through different styles:
 
 ### The Myth of AI as Cheating
 
-**[[Philippe Pasquier]]:** "The myth that, uh, Kris Krüg and, and Philip are pointing at here is a classic one. People think AI is cheating, it's less work. In fact, when you look at people working with AI, It's a lot more work. It takes a lot more time."
+**Philippe Pasquier:** "The myth that, uh, Kris Krüg and, and Philip are pointing at here is a classic one. People think AI is cheating, it's less work. In fact, when you look at people working with AI, It's a lot more work. It takes a lot more time."
 
 "What's interesting is, when I work with the system, I use it differently. And each time I observe a musician using the system, they always find a way to use it in a way where I didn't think."
 

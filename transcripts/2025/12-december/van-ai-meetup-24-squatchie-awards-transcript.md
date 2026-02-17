@@ -1,31 +1,13 @@
 ---
-title: "Vancouver AI Community Meetup #24 - Squatchie Awards 2025"
-date: 2025-12-18
-event_number: 24
-event_type: awards_ceremony
-venue: H.R. MacMillan Space Centre
-sponsor: TheUpgrade.ai
-attendees: ~150
-awards_given: 6
-transcript_status: cleaned
-tags:
-  - vancouver-ai-meetup
-  - squatchie-awards
-  - community
-  - bc-ai-ecosystem
-  - awards-ceremony
-  - indigenous-welcome
-  - education
-  - innovation
-related_orgs:
-  - BC + AI Ecosystem
-  - TheUpgrade.ai
-  - Ethos Lab
-  - MetaCreation Lab SFU
-  - Tsleil-Waututh Nation
-  - Multimodal Media Lab
+title: "Vancouver AI Community Meetup #24 — Squatchie Awards 2025"
+date: 2025-12-01
+meetup_number: 24
+type: transcript
+venue: "H.R. MacMillan Space Centre (contract signed through 2026)"
+speakers: ["Andrea Mills", "Carol Anne Hilton", "Gokhan Basaran", "Gordon Hamilton", "Kate Armstrong", "Lorraine Lowe", "Marc Busse", "Matthew Schwartzman", "Michael Tippett", "Philippe Pasquier"]
+attendance: 150
+tags: ["meetup", "transcript", "vancouver-ai"]
 ---
-
 # Vancouver AI Community Meetup #24 — Squatchie Awards 2025
 
 **Sponsored by TheUpgrade.ai** • **H.R. MacMillan Space Centre** • **December 2025**
@@ -326,7 +308,7 @@ Andrea, I'm coming for you next. Marc— 30 seconds on your community.
 
 ---
 
-### [[Marc Busse]] (CreativeMornings / Likemind Vancouver)
+### Marc Busse (CreativeMornings / Likemind Vancouver)
 
 Oh, geez.
 
@@ -342,11 +324,11 @@ All that being said: on January 9th, we are the first chapter on the planet who'
 
 Oh wow. Thanks, Marc.
 
-[[Andrea Mills]]— Internet Archive Canada.
+Andrea Mills— Internet Archive Canada.
 
 ---
 
-### [[Andrea Mills]] (Internet Archive Canada)
+### Andrea Mills (Internet Archive Canada)
 
 Thank you, Kris. Hi everyone.
 
@@ -390,11 +372,11 @@ Keep your eye on this guy and the **Sauder AI Club**. They're doing very interes
 
 Cheers.
 
-[[Gordon Hamilton]].
+Gordon Hamilton.
 
 ---
 
-### [[Gordon Hamilton]] (Data for Good)
+### Gordon Hamilton (Data for Good)
 
 We run a little group that is able to help nonprofits by bringing data skills.
 
@@ -448,11 +430,11 @@ Out of this, I said, we formed a nonprofit society. A lot of you folks are membe
 
 It's been beautiful watching everyone come together and the network grow.
 
-So that's [[Lorraine Lowe]]. She runs the Space Centre. She's one of the founding board members.
+So that's Lorraine Lowe. She runs the Space Centre. She's one of the founding board members.
 
 That's me when I had full beard.
 
-And that's [[Carol Anne Hilton]], who I work with at the Indigenomics Institute, and she's also a board member of BC + AI.
+And that's Carol Anne Hilton, who I work with at the Indigenomics Institute, and she's also a board member of BC + AI.
 
 So there'll be a chance to join later if you feel like it, but that's who we are and what we're up to.
 
@@ -502,7 +484,7 @@ We help to guide people through structured learning as well as experimentation, 
 
 We're thrilled to be supporting sponsor of these awards tonight and the event to help make that opportunity available to more of you in BC + AI and Vancouver AI Meetup community.
 
-I do want to talk about [[Matthew Schwartzman]]. I asked him, "Hey, how would you recommend that I summarize your experience in our course?" and you said "opening up a new world," so that was less than two seconds.
+I do want to talk about Matthew Schwartzman. I asked him, "Hey, how would you recommend that I summarize your experience in our course?" and you said "opening up a new world," so that was less than two seconds.
 
 That's our goal, right?
 
@@ -604,7 +586,7 @@ Alright. We did one. That was the first one ever.
 
 ---
 
-### Squatchie Award #2: [[Gokhan Basaran]]
+### Squatchie Award #2: Gokhan Basaran
 
 **Category:** Government Innovation & Community Bridge-Building
 
@@ -612,7 +594,7 @@ Alright. We did one. That was the first one ever.
 
 Up next: the next Squatchie is for a very specific kind of builder— someone who turns bureaucracy into traction.
 
-**[[Gokhan Basaran]]** works in government innovation around here. He shows up as a translator and a connector.
+**Gokhan Basaran** works in government innovation around here. He shows up as a translator and a connector.
 
 He spent serious time helping founders and early projects understand how to access programs, how to sharpen their pitch, and how to move through the system without losing months to confusion— trying to navigate bureaucratic, federal political mazes.
 
@@ -628,7 +610,7 @@ Thanks for turning policy into pathway and pathway into momentum for this commun
 
 ---
 
-### [[Gokhan Basaran]]
+### Gokhan Basaran
 
 So you say I got the "Y" part right, but the "K" part wrong— more like "Yo, Ken."
 
@@ -670,7 +652,7 @@ We got one of those truth-speaking trust relationships, and I'm grateful for it.
 
 This next Squatchie is about craft.
 
-**Arshia Sobhan** is a PhD researcher at SFU's MetaCreation Lab working with [[Philippe Pasquier]]. His focus is generative AI for calligraphy and Arabic script— not as an aesthetic trend— as a serious practice rooted in cultural continuity, structure, and respect.
+**Arshia Sobhan** is a PhD researcher at SFU's MetaCreation Lab working with Philippe Pasquier. His focus is generative AI for calligraphy and Arabic script— not as an aesthetic trend— as a serious practice rooted in cultural continuity, structure, and respect.
 
 Essentially: when you get generative AI to make Arabic calligraphy, it makes it look "oriental," but it doesn't say shit. And that's a problem.
 
@@ -694,7 +676,7 @@ Arshia, come get your Squatchie.
 
 Thank you so much. It was a surprise. I didn't expect this tonight.
 
-I wish Philippe was here— [[Philippe Pasquier]] is my research supervisor at the MetaCreation Lab. I'm glad for him 'cause he is taking some time off after the busy year. So it's good that he's not here.
+I wish Philippe was here— Philippe Pasquier is my research supervisor at the MetaCreation Lab. I'm glad for him 'cause he is taking some time off after the busy year. So it's good that he's not here.
 
 About AutoLoom— let me give you some context very briefly.
 
@@ -746,7 +728,7 @@ Okay. That was the halfway infomercial bit. Now we're onto the good shit.
 
 ---
 
-### Squatchie Award #4: [[Simon Haworth]]
+### Squatchie Award #4: Simon Haworth
 
 **Category:** Life Sciences Innovation & Community Signal
 
@@ -756,7 +738,7 @@ This one's easy.
 
 We hand these trophies out for a simple reason: the ecosystem runs on the people who share— people who connect dots for others— people who build infrastructure with their time.
 
-**[[Simon Haworth]]** is one of those people.
+**Simon Haworth** is one of those people.
 
 Simon is the CEO of **[company name unclear]**. His world is drug discovery, pharma, health data— regulated life.
 
@@ -780,7 +762,7 @@ Thank you, Simon.
 
 ---
 
-### [[Simon Haworth]]
+### Simon Haworth
 
 This is what imposter syndrome looks like.
 
@@ -812,13 +794,13 @@ And we didn't even have our sales and business leader AI upgrade program when Si
 
 ---
 
-### [[Simon Haworth]]
+### Simon Haworth
 
 I didn't know what I was before I started that course, and I certainly didn't by the time I finished.
 
 ---
 
-### Squatchie Award #5: [[Udbhav Kansal]]
+### Squatchie Award #5: Udbhav Kansal
 
 **Category:** Applied Innovation & Community Glue
 
@@ -828,7 +810,7 @@ Home stretch.
 
 This Squatchie is for applied innovation— the kind that survives contact with reality.
 
-**[[Udbhav Kansal]]** has been one of the most consistent doers in our whole ecosystem.
+**Udbhav Kansal** has been one of the most consistent doers in our whole ecosystem.
 
 He wins hackathons. He performs outreach. He makes introductions. He brings people in. He follows through on everything he says. He turns energy into outcomes.
 
@@ -850,7 +832,7 @@ Udbhav, thank you for your dedication. Please come grab your award.
 
 ---
 
-### [[Udbhav Kansal]]
+### Udbhav Kansal
 
 Thank you.
 
@@ -878,7 +860,7 @@ You still have a mic— jump in at any point.
 
 ---
 
-### [[Udbhav Kansal]]
+### Udbhav Kansal
 
 All I feel right now— and for the entirety of 2025— is extreme gratitude for this community, for everything that has come into my life through this community, and all the positivity that has come to me.
 
@@ -906,7 +888,7 @@ Thanks. You can fill it out in the feedback form if you didn't like it. Otherwis
 
 ---
 
-### Squatchie Award #6 (Paired): [[Michael Tippett]] & [[Kate Armstrong]]
+### Squatchie Award #6 (Paired): Michael Tippett & Kate Armstrong
 
 **Category:** AI-Native Storytelling & Cultural Leadership
 
@@ -918,7 +900,7 @@ One of the things I wanna honor is a very specific kind of builder— the people
 
 This goes out to two people who've been doing it in Vancouver for a long time and who are now helping define what AI-native storytelling could become.
 
-**[[Michael Tippett]]** is building AI-native film and series infrastructure from the ground up through **Generation Studios** and other things.
+**Michael Tippett** is building AI-native film and series infrastructure from the ground up through **Generation Studios** and other things.
 
 He's pushing new production paradigms that treats stories as something alive— building tools, exploring memory-to-cinema flows, developing a slate that's genuinely future-facing and flexible— open and built in public.
 
@@ -932,7 +914,7 @@ Thank you, Mike.
 
 And before you come up—
 
-**[[Kate Armstrong]]** is one of the clearest minds in this space. Curator, writer, artist, connector.
+**Kate Armstrong** is one of the clearest minds in this space. Curator, writer, artist, connector.
 
 She speaks to the questions that have kept creative work honest, and builds context that helps artists and builders understand what we're actually doing.
 
@@ -944,11 +926,11 @@ She builds context for creators and she asks the questions that make our work be
 
 Together, they bridge film and tech, practice and critique, Vancouver and the big wide world.
 
-[[Michael Tippett]], [[Kate Armstrong]]— come on up. Grab a Squatchie.
+Michael Tippett, Kate Armstrong— come on up. Grab a Squatchie.
 
 ---
 
-### [[Kate Armstrong]]
+### Kate Armstrong
 
 Oh no— I never give up both mics. Who's gonna stop them?
 
@@ -964,13 +946,13 @@ For me, the fact that you have brought this to us— especially in partnership w
 
 ---
 
-### [[Michael Tippett]]
+### Michael Tippett
 
 We're dating, we're—
 
 ---
 
-### [[Kate Armstrong]]
+### Kate Armstrong
 
 —and with such beautiful style and focus and such an incredible community is really awesome.
 
@@ -978,7 +960,7 @@ So thank you. It's very, very appreciated. Thank you.
 
 ---
 
-### [[Michael Tippett]]
+### Michael Tippett
 
 Yeah, this is really— it's weird. It's weird to get an award with your wife. But cool. Thank you. Thank you.
 
@@ -998,13 +980,13 @@ But we didn't burn it down and that's what matters.
 
 ---
 
-### [[Kate Armstrong]]
+### Kate Armstrong
 
 We didn't. Yeah. It's still there.
 
 ---
 
-### [[Michael Tippett]]
+### Michael Tippett
 
 Kris has been an innovator and a leader in the technology sector in this region since Northern Voice and way back— early days of blogging, early days of social.
 
@@ -1065,11 +1047,11 @@ Thanks, everybody.
 | Award # | Recipient | Organization | Category |
 |---------|-----------|--------------|----------|
 | 1 | Anthonia | Ethos Lab | Youth Education & Community Infrastructure |
-| 2 | [[Gokhan Basaran]] | Government Innovation | Bridge-Building & Policy Translation |
+| 2 | Gokhan Basaran | Government Innovation | Bridge-Building & Policy Translation |
 | 3 | Arshia Sobhan | SFU MetaCreation Lab | Cultural AI & Open-Source Innovation |
-| 4 | [[Simon Haworth]] | [Life Sciences Company] | Life Sciences Innovation & Community Signal |
-| 5 | [[Udbhav Kansal]] | Community Builder | Applied Innovation & Community Glue |
-| 6 | [[Michael Tippett]] & [[Kate Armstrong]] | Generation Studios / Independent | AI-Native Storytelling & Cultural Leadership |
+| 4 | Simon Haworth | [Life Sciences Company] | Life Sciences Innovation & Community Signal |
+| 5 | Udbhav Kansal | Community Builder | Applied Innovation & Community Glue |
+| 6 | Michael Tippett & Kate Armstrong | Generation Studios / Independent | AI-Native Storytelling & Cultural Leadership |
 
 ---
 
@@ -1088,7 +1070,7 @@ Thanks, everybody.
 
 ## BC + AI Ecosystem Info
 
-- **Founding Board Members:** [[Lorraine Lowe]] (H.R. MacMillan Space Centre), Kris Krüg, [[Carol Anne Hilton]] (Indigenomics Institute)
+- **Founding Board Members:** Lorraine Lowe (H.R. MacMillan Space Centre), Kris Krüg, Carol Anne Hilton (Indigenomics Institute)
 - **Membership:** 165 members (as of Dec 2025)
 - **2026 Meetup Schedule:** Last Wednesday of every month (except December)
 - **Venue:** H.R. MacMillan Space Centre (contract signed through 2026)

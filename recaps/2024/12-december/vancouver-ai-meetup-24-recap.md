@@ -1,11 +1,20 @@
+---
+title: "Vancouver AI Community Meetup #24 - December 2024 Recap"
+date: 2024-12-01
+meetup_number: 24
+type: recap
+venue: "Space Center, Vancouver, BC"
+speakers: ["Carol Anne Hilton", "Kevin Friel", "Kris Kr\u00fcg", "Philippe Pasquier"]
+tags: ["meetup", "recap", "vancouver-ai"]
+---
 # Vancouver AI Community Meetup #24 - December 2024 Recap
 ## NeurIPS Special Edition & Birthday Celebration
 
 **Event:** Vancouver AI Community Meetup #24 - NeurIPS Special Edition
 **Date:** December 2024
 **Location:** Space Center, Vancouver, BC
-**Host:** [[Kris Krüg]] (@kriskrug)
-**Special Occasion:** [[Kris Krüg]]'s Birthday Celebration & NeurIPS Cross-Pollination
+**Host:** Kris Krüg (@kriskrug)
+**Special Occasion:** Kris Krüg's Birthday Celebration & NeurIPS Cross-Pollination
 
 ---
 
@@ -27,7 +36,7 @@ Patrick delivered a brilliant musical performance that doubled as legitimate res
 - **Research Impact:** Using the community as a case study for global AI adoption patterns
 - **Birthday Tribute:** Led the entire room in harmonized happy birthday singing
 
-### **[[Kevin Friel]] (Pixel Wizard) - Real-Time Generative Backgrounds**
+### **Kevin Friel (Pixel Wizard) - Real-Time Generative Backgrounds**
 **Hollywood Production Values Made Accessible**
 
 Kevin's technical demonstration showcased the democratization of high-end broadcast technology:
@@ -37,7 +46,7 @@ Kevin's technical demonstration showcased the democratization of high-end broadc
 - **Cost Disruption:** $25,000 broadcast systems replaced by $5,000 open source solutions
 - **Professional Context:** Former Global/CTV graphics producer bringing broadcast expertise to podcasting
 
-### **[[Carol Anne Hilton]] - Indigenomics AI Vision**
+### **Carol Anne Hilton - Indigenomics AI Vision**
 **Global Indigenous Economic Reconciliation Movement**
 
 Caroline presented her audacious vision for indigenous economic power through AI:
@@ -48,7 +57,7 @@ Caroline presented her audacious vision for indigenous economic power through AI
 - **Timeline Acceleration:** Developments that seemed impossible a year ago now operational
 - **Core Philosophy:** AI as a tool to activate humanity's best potential
 
-### **[[Philippe Pasquier]] - Metacreation Lab Showcase**
+### **Philippe Pasquier - Metacreation Lab Showcase**
 **Academic-Industry-Artist Triangle**
 
 Philippe demonstrated why the Vancouver AI community has become essential for bridging research and application:
@@ -105,7 +114,7 @@ The evening's climax featured Vought performing as an AI avatar from the future:
 
 ### **Indigenous AI Leadership**
 Multiple presentations centering Indigenous perspectives demonstrates Vancouver's unique positioning:
-- [[Carol Anne Hilton]]'s global economic vision
+- Carol Anne Hilton's global economic vision
 - Running Wolf's language revitalization work
 - Peter Lucas's technical achievements
 - Data sovereignty frameworks
@@ -183,7 +192,7 @@ Amin's philosophical framework connecting:
 ## 🚀 Future Implications
 
 ### **Upcoming Collaborations**
-- April 8-10, 2025: Indigenous AI Technology Event (Move37XR + [[Carol Anne Hilton]] book launch)
+- April 8-10, 2025: Indigenous AI Technology Event (Move37XR + Carol Anne Hilton book launch)
 - Continued Metacreation Lab partnerships
 - FLAIR (First Languages AI Reality) development
 
@@ -203,7 +212,7 @@ The evening demonstrated successful integration of:
 
 ## 💫 Memorable Quotes
 
-**[[Carol Anne Hilton]]:** *"What a absolute powerful time to be alive... AI is a tool to be able to further activate our humanity."*
+**Carol Anne Hilton:** *"What a absolute powerful time to be alive... AI is a tool to be able to further activate our humanity."*
 
 **Peter Lucas:** *"It's not just about speech recognition, it's about people, place and identity."*
 

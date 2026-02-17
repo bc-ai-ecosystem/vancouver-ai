@@ -1,9 +1,18 @@
+---
+title: "Vancouver AI Community Meetup #9 - September 2024 Transcript"
+date: 2024-09-01
+meetup_number: 21
+type: transcript
+venue: "Vancouver, BC"
+speakers: ["Kris Kr\u00fcg", "Taylor Shift"]
+tags: ["meetup", "transcript", "vancouver-ai"]
+---
 # Vancouver AI Community Meetup #9 - September 2024 Transcript
 
 **Date:** September 2024
 **Location:** Vancouver, BC
 **Event:** Vancouver AI Community Meetup #9
-**Host:** [[Kris Krüg]] (@kriskrug)
+**Host:** Kris Krüg (@kriskrug)
 
 ---
 
@@ -235,7 +244,7 @@ that was such a good introduction, I don't know if I'm going to live up to that,
 
 So what does that mean? We basically collect data about their interests, strengths, and weaknesses, and we make a digital twin. And then that 2M receives curated online help in the specific subjects that they need help with. For example, if there's a newcomer student and they're struggling with, uh, writing, but they're really good at speaking, they don't need more, uh, help.
 
-Speaking practices. They can just get help around writing that's, uh, personalized to their interests. Instead of making it look like homework, you gamify it, mention the name of their favorite author or singer. Instead of Sally bought 20 apples, [[Taylor Shift]] bought 20 apples. That's just much more interesting.
+Speaking practices. They can just get help around writing that's, uh, personalized to their interests. Instead of making it look like homework, you gamify it, mention the name of their favorite author or singer. Instead of Sally bought 20 apples, Taylor Shift bought 20 apples. That's just much more interesting.
 
 Um, but one thing I discovered that kind of inspired this, uh, talk was that the closer we get to indigenous ways of knowledge, uh, the better it becomes for students to engage with this continent, especially newcomer students. So, our education system, if we are talking about education in Canada, we have to talk about residential schools.
 
@@ -607,7 +616,7 @@ it. Oh, yeah. Oh, yeah. Oh, yeah. This house, like, this sold out yesterday. Yea
 
 **Key Speakers & Topics:**
 
-- **[[Kris Krüg]]** - Host, community announcements, venue transition news
+- **Kris Krüg** - Host, community announcements, venue transition news
 - **Matt Jones** - Collaborative AI art project with Kris, philosophical AI clothing designs
 - **Kush** - Technical deep-dive into language models, token prediction, open source AI advocacy
 - **Michael & Caroline Roddy Wolf** - Indigenous AI education, computer science pipeline for Native students

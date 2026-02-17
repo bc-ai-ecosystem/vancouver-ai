@@ -1,3 +1,13 @@
+---
+title: "Vancouver AI Community Meetup #16 - Verbatim Transcript"
+date: 2024-04-01
+meetup_number: 16
+type: transcript
+venue: "McMillan Space Centre (Planetarium), Vancouver"
+speakers: ["Dean Shev", "Kevin Friel", "Kris Kr\u00fcg", "Matthew Schwartzman", "Steven Jones", "jonny williams"]
+attendance: 30
+tags: ["meetup", "transcript", "vancouver-ai"]
+---
 # Vancouver AI Community Meetup #16 - Verbatim Transcript
 **Date:** April 2024  
 **Location:** McMillan Space Centre (Planetarium), Vancouver  
@@ -24,7 +34,7 @@ In 2023, I left my. Software engineer career of 15 years to become and explore f
 
 AI Community and Collaborations
 
-Since last year when I joined the AI community I've been working with [[Kris Krüg]] and different AI community member like Philipp Ske from SFU Meta Creation Lab. Curiously, I started building some interactive application with AI exploring new ways of interacting with ai. For example, com vision is an application that allows you to generate images with AI without using a single word, but instead using your hands and objects that are around you.
+Since last year when I joined the AI community I've been working with Kris Krüg and different AI community member like Philipp Ske from SFU Meta Creation Lab. Curiously, I started building some interactive application with AI exploring new ways of interacting with ai. For example, com vision is an application that allows you to generate images with AI without using a single word, but instead using your hands and objects that are around you.
 
 And it's able to create what you can imagine without any words. And it's been incredibly fun and very big source of inspiration and exploration for me.
 
@@ -52,7 +62,7 @@ Hello.
 
 You hang out. You hang out for just one sec. Okay. I just wanted to say a couple things. That's a new song I haven't heard from you before. That's really special, man. That's pretty cool. Thank, thanks. And your voice sounds amazing in this round room. That was no mic. Your drum like. That's pretty, pretty incredible.
 
-Thank you. Those of you who have been coming here for a while know that Gabriel and then his cousin Damien and our buddy [[jonny williams]] have been taking us on the story. They've been sharing us some stories, and they connect Damien's family, parts of his family. He told us Laman lived here right here.
+Thank you. Those of you who have been coming here for a while know that Gabriel and then his cousin Damien and our buddy jonny williams have been taking us on the story. They've been sharing us some stories, and they connect Damien's family, parts of his family. He told us Laman lived here right here.
 
 Why this building is the shape that it is. It's a coast sailors woven hat, and this is native land right here. And so I appreciate you sharing the stories that you have been Damien's coming next month. I hear maybe you might be coming too and doing something together, which is pretty exciting.
 
@@ -78,7 +88,7 @@ Thanks Patrick. Thank you for including us all in your research. A lot of you gu
 
 And this type of stuff really opens doors and gets us called back when we're making the claims about who we are and what's going on around here. So thanks for, include us in that for sure, man. Some of the things we talked about in there were like, obsessive documentation was one of the pillars.
 
-And we got folks like Michelle Diamond around here. Where's Michelle? Like this woman is like the best photographer of these types of things in the city. And like this, if she's here, this is the best thing going on tonight, or that someone else would've hired her to be somewhere else. [[Kevin Friel]] started up our YouTube channel with we've been starting to pump out really high end like keynotes, the.
+And we got folks like Michelle Diamond around here. Where's Michelle? Like this woman is like the best photographer of these types of things in the city. And like this, if she's here, this is the best thing going on tonight, or that someone else would've hired her to be somewhere else. Kevin Friel started up our YouTube channel with we've been starting to pump out really high end like keynotes, the.
 
 These talks that happen up here and in so much as they're valuable to us, they're even more valuable if we get share 'em out with the world. And gosh, it takes a lot of energy to get all this stuff together. So we might as well put it down on the permanent record, and stuff. And leave a little breadcrumb trail of where we've been and and the venue here, like that was another, this used to be in my studio for a year.
 
@@ -94,7 +104,7 @@ Community announcement section. So we're gonna turn through this one, but there'
 
 Surrey AI Meetup Update
 
-RIV and [[Matthew Schwartzman]] started up the, Surrey A I Meetup group was spinoff of this.
+RIV and Matthew Schwartzman started up the, Surrey A I Meetup group was spinoff of this.
 
 They just had their second event. It was awesome. The Surrey Economic Development Commission bought tickets and showed up and was like, I heard there's an AI community foreman here at event number two. I'm proud of you, bro. Just give a quick one too, about what's what, and invite people to the next event.
 
@@ -694,7 +704,7 @@ I really appreciate it, bro.
 
 Upcoming Events and Community Announcements
 
-Okay, we're getting close to the end. It's Web Summit Vancouver month, starting tomorrow, I think May. And we're having a meet up here on the 28th, and we're inviting the world in. There's 10 companies in our community that are part of the Web Summit Alpha program. [[Dean Shev]] and Darren sitting here in the front.
+Okay, we're getting close to the end. It's Web Summit Vancouver month, starting tomorrow, I think May. And we're having a meet up here on the 28th, and we're inviting the world in. There's 10 companies in our community that are part of the Web Summit Alpha program. Dean Shev and Darren sitting here in the front.
 
 Yeah, man, I, oh, you got upgraded to the beta program. You made it through the next gate. Good job. Appeasing the gatekeeper, sir. No. Legit. We got 10 startups on the trade show floor. They're gonna come give a report back from the floor at the next meetup. We got a bunch of international awesome people that are gonna grace the stage and share with us, but I really wanna show up and represent what we're all about.
 
@@ -714,7 +724,7 @@ I do. Okay, so I don't do it yet, but Dale and Julie are going to come back on s
 
 Darby's not in this room confirmed. Great. Okay. In that case, I have look, next month or two months from now, you'll see me in a horrifying foam Canada flag. But for now I got a bunch of kitschy little prizes that were themed with this this hackathon rounds theme. And so for the first two, which are Kellogg's flavored lip balms is a bowl of cereal a soup?
 
-Could I get [[Steven Jones]] and Brian Stein up here please?
+Could I get Steven Jones and Brian Stein up here please?
 
 Alright. Thank you. 
 

@@ -1,3 +1,13 @@
+---
+title: "Vancouver AI Community Meetup #19 - Transcript"
+date: 2025-07-28
+meetup_number: 19
+type: transcript
+venue: "McMillan Space Centre (Planetarium), Vancouver"
+speakers: ["Carol Ann Hilton", "Dimitri Schwartzman", "Kris Kr\u00fcg", "Lorraine Lowe", "Matt Sinclair", "Peter Bowles", "jonny williams"]
+attendance: 225
+tags: ["meetup", "transcript", "vancouver-ai"]
+---
 # Vancouver AI Community Meetup #19 - Transcript  
 **Date:** July 28, 2025  
 **Location:** McMillan Space Centre (Planetarium), Vancouver  
@@ -6,11 +16,11 @@
 ---
 
 ## Opening Remarks & Financial Update
-**Host:** [[Kris Krüg]]
+**Host:** Kris Krüg
 
 We've got some sponsors that I'm gonna thank later, but us supporting our own community over the last 18 months, essentially buying ourselves our own drinks and buying each other drinks as opposed to selling this off to Microsoft or KPMG has allowed us to develop a strong personality, a strong community sensibility, and to really define who we are before money sucks all the air out of the room. Money's knocking at the door and wants to be a part of this, and they're gonna be allowed to on our terms.
 
-I didn't expect to talk about that right now. I don't wanna mix the Sacred with the profane. Before we get started, my friend [[jonny williams]] from the Squamish Nation - we've been doing this 19 months in a row. The first nine months we were at my studio and Johnny, when we were just 80 people, even more ragtag than we are today, was there with his family helping welcome us into these ceremonies in a good way.
+I didn't expect to talk about that right now. I don't wanna mix the Sacred with the profane. Before we get started, my friend jonny williams from the Squamish Nation - we've been doing this 19 months in a row. The first nine months we were at my studio and Johnny, when we were just 80 people, even more ragtag than we are today, was there with his family helping welcome us into these ceremonies in a good way.
 
 I'm really excited about the program tonight. We're gonna do a group meditation based on the data set that we are running through our hackathon right now about our collective hopes and dreams for AI. And we got my friend Michael, who's done 52 startups in the last 52 weeks, talking about how to kill your babies and invent, reinvent your coding methodology every six months.
 
@@ -118,7 +128,7 @@ We are running a big hackathon sponsored by Rival Technologies. Andrew Reed is t
 
 **Project 2:** Economy of Wisdom Foundation - laying down financial infrastructure for the most underprivileged communities, integrating with distributed ledger called Interledger Foundation to give downtown Vancouver side access to funds for basic necessities.
 
-#### [[Matt Sinclair]] (Second Round Winner) 
+#### Matt Sinclair (Second Round Winner) 
 **Canadian Identity Simulator:** Built with English degree, no coding knowledge - pure vibe coding. The project asks "What does it mean to be Canadian?" and interprets survey results to build an identity simulator.
 
 **Impact:** Kris Krüg showed this in his Google AI lab for journalists. Cajuns from Lafayette, Louisiana connected with it immediately and wanted to build Cajun identity simulators. This led to Louisiana potentially hiring Matt to build a Cajun identity simulator.
@@ -137,7 +147,7 @@ We are running a big hackathon sponsored by Rival Technologies. Andrew Reed is t
 ---
 
 ## Group Meditation Experience
-**Leader:** [[Peter Bowles]] (New father, wellness and meditation company founder)
+**Leader:** Peter Bowles (New father, wellness and meditation company founder)
 
 ### Introduction
 Peter has started a wellness and meditation company, bringing immersive experiences to the community. He co-created a Teleporter experience previously with Sean Flanagan.
@@ -160,7 +170,7 @@ Key themes:
 ---
 
 ## BC AI Industry Association Launch (Abbreviated)
-**Presenter:** [[Kris Krüg]]
+**Presenter:** Kris Krüg
 
 *[Presentation abbreviated due to time constraints - full version available on YouTube]*
 
@@ -176,12 +186,12 @@ Key themes:
   - **Custom GPT:** Trained on all community data, ecosystem maps, transcripts
 
 ### Board Members
-- **[[Lorraine Lowe]]:** Executive Director of Space Center
-- **[[Carol Ann Hilton]]:** Indi Genomics Institute
-- **[[Kris Krüg]]:** Founder
+- **Lorraine Lowe:** Executive Director of Space Center
+- **Carol Ann Hilton:** Indi Genomics Institute
+- **Kris Krüg:** Founder
 
 ### Sponsors & Supporters
-- **Major Sponsors:** Segev (IP lawyers), [[Dimitri Schwartzman]] (realtor), Sons of Vancouver, James Lester, Distiller, Rival Technologies, The Upgrade
+- **Major Sponsors:** Segev (IP lawyers), Dimitri Schwartzman (realtor), Sons of Vancouver, James Lester, Distiller, Rival Technologies, The Upgrade
 - **Community Partners:** Creative Morning Vancouver, Nook (coworking space), Meta Creation Lab
 
 ---

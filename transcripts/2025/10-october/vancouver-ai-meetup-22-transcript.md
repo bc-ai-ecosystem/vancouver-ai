@@ -1,8 +1,18 @@
+---
+title: "Vancouver AI Community Meetup #22 - Full Transcript"
+date: 2025-10-29
+meetup_number: 22
+type: transcript
+venue: "HR MacMillan Space Centre (Planetarium), Vancouver, BC"
+speakers: ["Darby Yule", "Kevin Friel", "Kris Kr\u00fcg", "Matthew Schwartzman", "Michael Tippett", "Philippe Pasquier", "jonny williams"]
+attendance: 250
+tags: ["meetup", "transcript", "vancouver-ai"]
+---
 # Vancouver AI Community Meetup #22 - Full Transcript
 
 **Date:** October 29, 2025
 **Location:** HR MacMillan Space Centre (Planetarium), Vancouver, BC
-**Host:** [[Kris Krüg]]
+**Host:** Kris Krüg
 **Event Number:** 22
 **Attendee Demographics:** ~40% first-timers, 60% returning members
 
@@ -10,12 +20,12 @@
 
 ## Opening & Indigenous Welcome
 
-**[[Kris Krüg]]:**
+**Kris Krüg:**
 Hey everybody. Welcome, welcome. You're at the Vancouver AI Community Meetup number 22. You are the Vancouver AI community. Welcome everybody. It's really nice to see everyone and to see so many new, friendly faces. If it's your first time at one of these meetups tonight, would you raise your hand, please?
 
 I'm gonna say that's like 40%. If you're not the first time, if you've been here lots, raise your hand. Who more people have come back than are new, but it's like 40, 60. If you're a BC AI member, raise your hand. Holy shit, this thing didn't even exist a couple months ago. Congratulations. Thank you guys.
 
-We'll talk more about that later, but that's fucking awesome. Um, okay. You guys know how we like to get started here. We start in ceremony and so I've invited my buddy [[jonny williams]], who you know, um, to come back here. Since you've seen him last, things have changed a little bit. He has been, um, voted in as a Squamish Nation counselor.
+We'll talk more about that later, but that's fucking awesome. Um, okay. You guys know how we like to get started here. We start in ceremony and so I've invited my buddy jonny williams, who you know, um, to come back here. Since you've seen him last, things have changed a little bit. He has been, um, voted in as a Squamish Nation counselor.
 
 Congratulations, Johnny, man. We're really proud of you, bro. And, um, he brought with him his cousin, uh, Anthony Joseph. Anthony and I, uh, know each other from the tribal journeys you've heard me talk about. It's where Johnny and I know each other from. And, um, without much further ado, I'm just gonna welcome you guys. Come up here and just kinda say whatever you want.
 
@@ -24,7 +34,7 @@ Thank you. Uh, to die off a, uh, ca to work test to, to, uh, to teeth seats. So 
 
 And yeah, I, I, I, what I shared with you guys is, uh, I, uh, I raised my hands to nephew and, and, dear, dear friend Kris Krüg, uh, for inviting me. I know, uh, this is probably the fourth time I think Kris Krüg has asked me, and I, I was always busy, but, uh, like you shared earlier, I'm on council now. So it frees up the schedule and, uh, we, uh, we, we love to do, uh, share who we are and where we come from. So, I, I, uh, I thanked him in our Squamish language, and I thank, uh, raise my hands to each and every one of you guys for being here today. Time is our greatest asset, and that's the one thing you can't get back no matter where you spend it. Just, uh, thankful for that and for you to have that open heart, open mind to, uh, accept us, but also to, uh, to, to, to be open to what we have to share today. Um, yeah. So it's a, it's an honor to, to come here and do the good work.
 
-**[[jonny williams]] (Squamish Nation Counselor):**
+**jonny williams (Squamish Nation Counselor):**
 Uh, hello, uh, my name's Jonathan Williams. If you haven't seen me before, your Spanish is getting good. Uh, as Anthony said, I am now a Squamish Nation counselor as well. We recently got voted in last month.
 
 Uh, Anthony, he's actually been one of my mentors since I was a little kid. I first met him when I was like eight or nine and have been learning from him ever since. He's also a Yo Knight in the dance group that we both practice in, where I've learned from Wealth Tomaso known as culture, bringing people together. He's a Yo Knight, which is known as a lead singer, and he's also, uh, a speaker within our community who's asked to be, uh, a person who stands in front of the people and speaks for the family who's doing the work. So today since uh, we have the opportunity for Anthony to be here, I was gonna let Anthony lead the show and I decide to.
@@ -37,14 +47,14 @@ Today I just, uh, thanked them for the good work and, uh, sharing the, in the la
 **Anthony Joseph:**
 So, uh, everyone, thank you guys for your open heart, open mind. Just wanted to also, uh, thanks for reminding me to, uh, welcome you guys to the territory that we know as now. Uh, um, it's a, it's an honor and a privilege. It's, uh, and, and, uh, thank you, uh, once again to our dear friend Kris Krüg for allowing us to share who we are, where we come from, uh, with you guys today, and also the, bless you guys. Hopefully those blessings carry on even to today.
 
-**[[Kris Krüg]]:**
+**Kris Krüg:**
 Before this was the space center, before this was Kitsilano. Before this was Vancouver. This was Squamish land, and these folks, parents, grandparents, great-grandparents ancestors, lived here for a long time and they're not gone. They're still here, they're alive and they're thriving in modern life. They're building those buildings across the street, and I encourage you to learn about it. Akwa with the W at the end. Look it up. There's a lot of interesting stuff in the news. Thanks guys for connecting us with the land, for setting us off on the right foot. I really appreciate you both being here.
 
 ---
 
 ## Rival Technologies Hackathon - Round 4 Finale
 
-**[[Kris Krüg]]:**
+**Kris Krüg:**
 So many emails, so many notifications, so many phone calls. Go into making this thing up. Like, it's crazy how many volunteers, how many people, how many buttons get pushed to make this happen. And it's stressful. And when Anthony, and, and, and when Johnny comes up every month and starts singing it, I know everything that happens next is gonna be, okay, we're here. We made it, we're in the right place. Whoever showed up are the right people who just show up. Whatever happens tonight is the right stuff that's gonna happen.
 
 Okay. Uh, rival folks. Would you guys like to do the, the, the, the comments, the kind of like presentation part before the award winners or after?
@@ -73,19 +83,19 @@ Yeah. So, uh, somebody who, you know, I look at kind of traditional data storyte
 **Scott Larson (30-second reflection):**
 Well, uh, to me this a sampling size of a thousand respondents to a music survey I thought was just like a really boutique thing in a business that's become box, just become so, um, you know, big data driven. And so music's a way that I wasted a huge part of my youth. And so it's really easy for me to look through a thousand responses and see who the cool people are, or just see something like, um, like the, like the Tom Lehrer. I never heard of this guy in there and now he's killing pigeons. So it was really fun. I appreciate, um, you know, all of the organizers of the Hackathon because it was music was a really cool data set for me to check out. And I thought, if you're gonna look for outliers, who's a bigger outlier than the person who paints their face to go to a metal show? Right.
 
-**[[Kris Krüg]]:**
+**Kris Krüg:**
 Congratulations, man. The whole, um, the whole challenge was to take it and reinterpret it to you knew stuff with it man. And so just the way that you told the stories around it, like it meant a lot to me. I loved it.
 
-#### Second Place: [[Darby Yule]] - "Signals: The Future of Sound"
+#### Second Place: Darby Yule - "Signals: The Future of Sound"
 [Video presentation using futures method to predict music landscape in 2030, featuring Dr. Veek (cultural historian from 2225), AI-generated music samples representing predicted genres: Hybrid Local Pop, At-Core Velocity Worship, Retro-Futurism, and Lo-fi Therapy Pop]
 
-**[[Darby Yule]]:**
+**Darby Yule:**
 Yeah, I wasn't sure it was gonna land either. Um, yeah, so this was just, uh, basically a futures project. It's something I learned when I was going through university of just, uh, making, educated guesses, extremely educated guesses, um, off of data sets. And so I thought this was a perfect thing. Um, I think mixed with, uh, yeah, as you kind of saw, uh, the further you get out from the middle, the crazier it gets, like lo-fi therapy pop. Um, and yeah, I, I, yeah. Thank you again to Kris Krüg and, and and rival for putting this on. I was so glad just to be a part of it. Um, oh yeah. Also, I made all of the, um, album covers with, uh, those are all generative people, uh, with between me and Adobe, basically.
 
-**[[Kris Krüg]] (on generative music as a musician):**
+**Kris Krüg (on generative music as a musician):**
 Musicians of which you are and other people in the audience, you must have some feelings about all this stuff. So like, after, just like stepping aside from the project and all this, how are you feeling as a musician right now about the state of generative music?
 
-**[[Darby Yule]]:**
+**Darby Yule:**
 Oh, that's a big question. My punk rock heart wants to say, I want everything to be just like strictly human. But then there's like another part of me that goes, musicians haven't even totally accepted synthesizers yet, and those are made in the sixties. So I think that there's room for it. I just, I think it's, it's, you know, it's the same thing with everything. It's how you do it. Technology isn't bad, it's just the way you use it, right?
 
 #### Grand Prize Winner: Andre & Taras - "Ukrainian Mafia" - Canadian Music DNA Platform
@@ -97,7 +107,7 @@ Thank you everyone. Uh, actually I'm a more good listener, so today is my time t
 **Taras:**
 Yeah. So what I want to add, so at the, at the end of that project, we want to show how like regular person can become a singer or have its own album in a second with using just AI power. So you can come up fills, uh, questionnaire that we have and after like two or three minutes you can have a music album with couple like 10 to 15 songs with lyrics and other things. And there is no need for you to even sing. But we didn't have chance to finish all of that. And we provide what we have for now. It was our like, further idea mainly.
 
-**[[Kris Krüg]]:**
+**Kris Krüg:**
 Andre, thank you for helping clean up, for, set up for bringing all your friends around, man. These AI letters right here. [SIGGRAPH letters story] These guys, um, David, Monty, are you here? This is yours. Take it home with you. Don't cash it. You'll hit me up for real money. David. Monty, are you here? Do you remember that time where I was like, guys, I have to leave for half an hour. Right in the middle of a very important meeting. And it was like the most idiosyncratic thing ever. I just got up. I'm like, I don't usually do this, but I must, I gotta go. No questions. These guys were like, we're in the loading dock. We stole the SIGGRAPH letters. We want to use them on the stage of Vancouver AI.
 
 #### Hall of Fame Induction: Prajwal (Second Place All Four Rounds)
@@ -106,7 +116,7 @@ Andre, thank you for helping clean up, for, set up for bringing all your friends
 **Prajwal:**
 Hello everyone. My name is Prajwal and I would like to show you Plato AI, my Hackathon project. So essentially I had a shower thought today, earlier this morning, and what I was thinking about is like how uh, people could look at data and be able to go through different, like, uh, free response questions and be able to approach it. Like how would you even go through it without being overwhelmed? And one thing that I was inspired of is, um, it's uh, the works of Plato. Like I remember reading the allegory of the Cave last year or something. And I really liked how Socrates would talk a lot about like the philosophical nature of different, uh, topics. And then Glaucon, Plato's brother would listen along and then provide some interesting questions. So Socrates would answer as well. And I was thinking maybe this could be applied to the hackathon.
 
-**[[Kris Krüg]]:**
+**Kris Krüg:**
 Prajwal's story arc here has gone from like rule following High schooler at the beginning of this project to last, uh, time. He was like, yo, he pretty much independently invented vibe coding in his own head. He's like, oh man, this vibe coding thing. I don't have to worry so much about the code. Just kind of like focus on the user experience. And I was like, yeah, we got our own little Andre Karpathy here in our, uh, in our midst or whatever. So, um, congratulations on that breakthrough and to see you submit this, this shower thought, this philosophical meandering, it must've been hard for you because dude, I went to his, uh, valedictorian ceremony at his high school. This guy's like a class, a superstar here, um, checking all the boxes. So to submit an unfinished project, it was a kind of a shower thought. It is probably on the edge of what you usually turn in for your own work.
 
 **Prajwal:**
@@ -114,14 +124,14 @@ Thanks Kris Krüg. Uh, first of all, sorry for like blinking down in this video.
 
 [Prajwal awarded $1,000 Hall of Fame bonus prize]
 
-**[[Kris Krüg]]:**
+**Kris Krüg:**
 Prajwal is currently unhirable. He's dealing with his immigration to Canada situation and going to Langara College. But there's a, a short but cool line of people that are trying to hire him. Um, you can connect with him directly. I'd be happy to put you in touch, but he's one of the smartest guys in our community and he is 18 years old.
 
 ---
 
 ## First Annual AI Film Festival
 
-**[[Kevin Friel]] (Pixel Wizard / Prompt Goblin):**
+**Kevin Friel (Pixel Wizard / Prompt Goblin):**
 Thanks Kris Krüg. Thanks everyone. I say this every month when I come up and, and speak about AI film, but it's a transformative time once again, and we thought, what better way to kind of showcase the, the rapid change often daily, sometimes multiple times a day, than to put a spotlight on our local, our national and our international friends and neighbors of, of creators, both new and experienced. Uh, and we're gonna kick it off, uh, with our first 15 minute AI film festival, which I'm really excited to, uh, talk about.
 
 [Film Festival Screening - Multiple Short Films Including:]
@@ -150,7 +160,7 @@ Well, I think if we can get to a place where the technology allows actors and di
 **N Ek (Lighthouse AI Workshops):**
 I think people are starting to stand up way more and take leadership positions. Pioneer this technology. I will build a standard and precedent in my industry on how this should be used. Um, so I hope you join us. I hope you join the transformational and join the initiative. It'll be a beautiful world if people keep creating beautiful things.
 
-**[[Michael Tippett]]:**
+**Michael Tippett:**
 As a Canadian, and as lots of my friends and people I know, you know, they all, everyone has that unique perspective and there is such a beautiful diversity in Canada that I am confident that these tools are gonna empower people to be able to really share that unique perspective. And, you know, not just within Canada but worldwide.
 
 ### Live Panel: Luke (Animator) & Tim (VFX Compositor)
@@ -194,26 +204,26 @@ Another initiative, I have a lot of, uh, you know, friends in the animation indu
 **Question on bridging the gap for traditional film workers:**
 How do we bridge that gap? How do we bring people into the fold so that we can harness this expertise that we've cultivated and capitalize on this what's almost there to be brilliant so that we can kind of be at the forefront of this coming wave?
 
-**[[Kevin Friel]]:**
+**Kevin Friel:**
 These two guys and myself, we all come from the professional visual effects animation background. And we were all, and still currently in some cases, in really big teams doing very specific jobs in the line and to pivot over to another job in that line was really, really hard, if not borderline impossible. What I see is those people that were cogs in the storytelling wheel are getting to have bigger ownership of stories now. I think there's a really amazing opportunity to take the existing part of the skill sets that and the experiences that we all have and convert into like vibrant, you know, multiple pegs of the economy with unbeatable IP.
 
 **Question on ethical training and IP:**
 I put an image I created with AI on my Facebook feed, and I got a lot of reactions. And one woman out of the states wrote "AI is all about theft and lying." When it comes to what you guys are doing, how much do you feel that what comes on the screen when you prompt the AI is actually taking someone else's work and becomes yours?
 
-**[[Kevin Friel]]:**
+**Kevin Friel:**
 That is the heart of the matter in so many ways. It really is. That is something that we are all wrestling with right now in very big and serious ways. The legacy of the models that are out there that are dominantly being used have hoovered everything off of the internet, off of art station, off of artists' looks and history and everything. And that is so hard to move through right now. And we confront ourselves, and I think you guys share the same values... it's a technology that has come so quickly and has been unveiled with the consequences not kept into consideration, but here we are and that paradigm has shifted.
 
 What I am hopeful for is the proliferation of new ethically trained models. So consensually trained, that means that anyone that is in Moon Valley or Adobe Firefly - everyone has given consent in those models. We're getting there. But we have a legacy that is like, ugh, and we need to clean up. And I confront myself daily with that.
 
-**[[Kris Krüg]] on training models:**
-[[Philippe Pasquier]] at SFU SIAT - his whole jam is training small models on artists' work. I have trained photographic models on only portraits I've ever taken, and I'm able to generate now new faces based on this type of thing. I am not trying to dodge the question by saying the people that are here that I present to you are exploring alternative methods for dealing with this type of stuff. And this stuff matters to us a lot. It's something we confronted every day in our work.
+**Kris Krüg on training models:**
+Philippe Pasquier at SFU SIAT - his whole jam is training small models on artists' work. I have trained photographic models on only portraits I've ever taken, and I'm able to generate now new faces based on this type of thing. I am not trying to dodge the question by saying the people that are here that I present to you are exploring alternative methods for dealing with this type of stuff. And this stuff matters to us a lot. It's something we confronted every day in our work.
 
 Everything that is generated now is slurped up from all but my particular photos have been trained into models more than anybody else I know. There's a website you can go to called haveibeentrained.com, where you can look at your own work. I've got like 2000 photos in the NVIDIA facial recognition data set that is used in all sorts of activities. That is a foundational model. It is crazy.
 
 **Audience member (VFX color science technician):**
 I work in the film industry on the technical color side. I've been noticing that people - back in 2021, I had friends that were serving tables and then they became editors because there weren't enough people to cover all of the instances. Nevertheless, nowadays it's quite the opposite. Now, what I've been hearing for people asking what do I do nowadays to break into industry - I started getting into Curious Refuge. Kevin [Friel], you're amazing, fantastic as well. Just to be able to come from a technical standpoint where you're consistently looking at data and transitioning into a creative ideas just like you guys do. The resistance that it's supposed to happen - I think what I've been hearing is just share the word, try to make it simple. Try to, you know, there's a period of resistance, there's a period of going down with what used to be, but this is going fast. And the more we get used to it, if you feel comfortable, Comfy UI to me is like, oh my God, I have to learn Nuke again. Jesus Christ. But kudos to you guys. Spread the word.
 
-**[[Kevin Friel]]:**
+**Kevin Friel:**
 I would not be here without Curious Refuge. I took one of their courses in their early days. That's what really got my feet wet. And their community is inspiring our community here. This is the first of hopefully a monthly offshoot of AI film in particular, to create community, to have these conversations, to deep dive into all of the latest and greatest and bring creators together. Whether you're brand new or really experienced. We want everyone in the same melting pot and bouncing off of each other and raising everything. 'cause it's more important to do that than ever.
 
 **Question from Susan (UBC Center for Migration Studies cultural facilitator):**
@@ -238,11 +248,11 @@ It's a little bit of both. We are in that wobbly quantum theoretical space where
 
 ## Community Announcements
 
-**Surrey AI Update (Emar & [[Matthew Schwartzman]]):**
+**Surrey AI Update (Emar & Matthew Schwartzman):**
 We co-host Surrey AI networking events. We host our events in Surrey 'cause it is a little far to come all the way from Maple Ridge to Vancouver. Come out to our event. Come talk to us. We have a secret discount code for those people that are here.
 
-**[[Kris Krüg]]:**
-In like two minutes, you're gonna see an opportunity to donate to the youth of our community, and that's what we're talking about right there. Prajwal, Ethos, Emar, [[Matthew Schwartzman]], man, they hold us up. Thank you guys. Thanks for representing out there in Surrey. I really respect what you're doing. Matthew, thank you for the walkthrough video today of the new venue, man. I approve, bro.
+**Kris Krüg:**
+In like two minutes, you're gonna see an opportunity to donate to the youth of our community, and that's what we're talking about right there. Prajwal, Ethos, Emar, Matthew Schwartzman, man, they hold us up. Thank you guys. Thanks for representing out there in Surrey. I really respect what you're doing. Matthew, thank you for the walkthrough video today of the new venue, man. I approve, bro.
 
 **Karu (ByteDance Product Manager, Tokyo):**
 I'm Karu and I just wanna thank you Kris Krüg and the BC AI community, and I really am honored to be here. The reason why I chose this community is basically when I was brought to the United States, and I'm actually full Japanese, but I was brought to the states and seeing the atmosphere in the United States versus Canada, Canada is like a wonderful location that I have never been. And I found out, really this is really not a melting pot. It's like each individual cultures still exist. That's one of the key point that I kind of felt, and I love this country really. I do.
@@ -253,7 +263,7 @@ Why I'm here today is that I will be able to help out whatever the things that y
 
 I do think about the IP stuff, but I do think that there's other community globally that I've been talking to, even the film industries and also like in each individual photos, all these kind of stuff, and I do think that those will might be protecting halfway, but some things that has to be released. And I see that already happening globally. So if I could be able to talk to everyone, I know everyone's here, but I will be open to talk about anything that you want about global, China, Japan, anything. I really gonna be participating a lot more and I love everyone here and especially Kris Krüg and all this people in this community.
 
-**[[Kris Krüg]]:**
+**Kris Krüg:**
 We're gonna do some crazy video photo, generative hackathon stuff together in the short term with ByteDance.
 
 **Education + AI (Maya Arnold):**
@@ -262,14 +272,14 @@ Who's been to one of these education plus AI events? These things that we're doi
 **Mind, AI and Consciousness (David speaking for Loki):**
 Mind AI and Consciousness. We're a bunch of eclectic folks who like to talk about the human side of AI. In other words, what's it like to be conscious? We've been wrestling with these ideas for 2000 years and we have new tools in the form of computer AI to help us maybe probe or understand some of these phenomena. That's what this group does. We have a topic once a month. We read, we meet, we talk, and it's a great lot of fun.
 
-**[[Kris Krüg]] on Mind AI Consciousness website:**
+**Kris Krüg on Mind AI Consciousness website:**
 David built the BC AI website that a lot of you guys became members on and he's building this other Mind AI and Consciousness website that synchronizes our different group chats with deep discussion. He's building an AI agent that's trained on all these private group chats we've been having inside the Mind AI Consciousness group. And it's quite amazing because if you join the group lately, you could just be like, Hey, what are we talking about? What's going on? What is David thinking about? What's the consensus on these things? The URL is mac.bcai.ca
 
 ---
 
 ## BC AI Nonprofit & Closing
 
-**[[Kris Krüg]]:**
+**Kris Krüg:**
 Out of this whole community has sprung a nonprofit. Many of you guys are members of it. I'd like for the rest of you to join. If you like Matthew or Emar or the youthful thing we got going on here, we give scholarships all the time. People come here for free. They go to meetups for free. Hackathons we sponsored - Ubada, are you here? Ubada has won five hackathons in the last two months, including a couple that we've sent him to recently. He's fucking crushing the scene. He's getting flown to France because of the last hackathon win that we sent him to, to represent Canadian Oceans internationally.
 
 Those of you who are not a part of this whole situation, to join up cost $240 for the year means you're a part of this community. There's a bunch of perks, I'll tell you about them another time, but really it's being a part of this whole vibe and crew. So thank you. There's donuts in the lobby. We've got like an hour left before we have to go.
@@ -281,7 +291,7 @@ Vancouver AI over and out. Thank you very much for being here guys.
 ## Key Themes & Takeaways
 
 ### Indigenous AI & Cultural Protocol
-- Opening ceremony with Squamish Nation counselors Anthony Joseph and [[jonny williams]]
+- Opening ceremony with Squamish Nation counselors Anthony Joseph and jonny williams
 - Traditional song blessing ("Tto Solums Snowbird Song")
 - Land acknowledgment and importance of ceremony
 - Discussion of indigenous storytelling with AI tools
@@ -306,14 +316,14 @@ Vancouver AI over and out. Thank you very much for being here guys.
 - Total $10,000 given away over 8 months
 - Winners:
   - **Grand Prize:** Andre & Taras - "Canadian Music DNA" platform
-  - **Second Place:** [[Darby Yule]] - "Signals: Future of Sound" using futures method
+  - **Second Place:** Darby Yule - "Signals: Future of Sound" using futures method
   - **Honorable Mention:** Scott Larson - "Pixel Wizard" metal music data interpretation
   - **Hall of Fame:** Prajwal - "Plato AI" philosophical data analysis (2nd place all 4 rounds)
 
 ### Community Growth
 - 40% first-time attendees, 60% returning
 - BC AI nonprofit membership growing rapidly
-- Surrey AI meetups thriving ([[Matthew Schwartzman]] & Emar)
+- Surrey AI meetups thriving (Matthew Schwartzman & Emar)
 - ByteDance corporate partnership (Karu from Tokyo)
 - Education + AI initiative
 - Mind, AI & Consciousness group

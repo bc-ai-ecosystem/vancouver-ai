@@ -1,9 +1,20 @@
+---
+title: "Vancouver AI Community Meetup #22 - Recap"
+date: 2025-10-29
+meetup_number: 22
+type: recap
+venue: "HR MacMillan Space Centre (Planetarium), Vancouver, BC"
+speakers: ["Darby Yule", "Kevin Friel", "Kris Kr\u00fcg", "Matthew Schwartzman", "Michael Tippett", "Philippe Pasquier", "jonny williams"]
+attendance: 250
+themes: ["AI Film Production Reality:", "Industry Transformation:", "Ethical AI Debates:", "Community Maturity:", "Creative Democratization:"]
+tags: ["meetup", "recap", "vancouver-ai"]
+---
 # Vancouver AI Community Meetup #22 - Recap
 
 **Date:** October 29, 2025
 **Location:** HR MacMillan Space Centre (Planetarium), Vancouver, BC
 **Attendees:** ~250 people
-**Host:** [[Kris Krüg]]
+**Host:** Kris Krüg
 **Milestone:** First Annual AI Film Festival + Rival Hackathon Grand Finale
 
 ---
@@ -12,7 +23,7 @@
 
 Vancouver AI Meetup #22 marked a transformative milestone for the community with the debut of the First Annual AI Film Festival and the grand finale of the eight-month Rival Technologies Data Storytelling Hackathon. The meetup showcased the evolution of AI filmmaking from experimental toy to production-ready tool, featuring panels with Hollywood VFX legends and local creators who are redefining storytelling through AI.
 
-The event opened with powerful indigenous ceremony from newly elected Squamish Nation Counselors Anthony Joseph and [[jonny williams]], grounding the community in place and protocol. The hackathon finale saw $3,500 in prizes awarded, including a $1,000 Hall of Fame prize to 18-year-old Prajwal, who placed second in all four hackathon rounds while balancing high school valedictorian status with college midterms.
+The event opened with powerful indigenous ceremony from newly elected Squamish Nation Counselors Anthony Joseph and jonny williams, grounding the community in place and protocol. The hackathon finale saw $3,500 in prizes awarded, including a $1,000 Hall of Fame prize to 18-year-old Prajwal, who placed second in all four hackathon rounds while balancing high school valedictorian status with college midterms.
 
 **Key Themes:**
 - **AI Film Production Reality:** From $200K-400K traditional animation budgets to 2-minute shorts made in 3 days for $100
@@ -29,7 +40,7 @@ The event opened with powerful indigenous ceremony from newly elected Squamish N
 
 **Anthony Joseph (Coast Salish, Squamish Nation Counselor)** delivered a powerful opening, introducing himself in Squamish language and sharing his ancestral name "Lea." Anthony emphasized that time is our greatest asset and the importance of open hearts and open minds when engaging with indigenous knowledge and ceremony.
 
-**[[jonny williams]] (Squamish Nation Counselor)** - recently elected to Squamish Nation Council - introduced Anthony as his lifelong mentor and explained the significance of the "Yo Knight" role (lead singer) in their cultural practices. Both counselors performed the **Tto Solums Snowbird Song**, a traditional blessing and medicine song gifted by Lia Donna Billy.
+**jonny williams (Squamish Nation Counselor)** - recently elected to Squamish Nation Council - introduced Anthony as his lifelong mentor and explained the significance of the "Yo Knight" role (lead singer) in their cultural practices. Both counselors performed the **Tto Solums Snowbird Song**, a traditional blessing and medicine song gifted by Lia Donna Billy.
 
 **Key Cultural Teachings:**
 - Ceremony creates container for meaningful work
@@ -38,7 +49,7 @@ The event opened with powerful indigenous ceremony from newly elected Squamish N
 - Songs carry blessing, medicine, and cultural continuity
 - Land acknowledgment: Before Space Centre, before Kitsilano, before Vancouver - this was and is Squamish territory
 
-**[[Kris Krüg]]'s Reflection:**
+**Kris Krüg's Reflection:**
 "When Anthony and Johnny comes up every month and starts singing, I know everything that happens next is gonna be okay. We're here. We made it, we're in the right place. Whoever showed up are the right people. Whatever happens tonight is the right stuff that's gonna happen."
 
 ---
@@ -81,10 +92,10 @@ PhD machine learning researcher who has been a core Vancouver AI volunteer since
 **Future Vision:**
 Originally planned to enable users to generate complete custom music albums (10-15 songs with lyrics) in minutes without singing. Ran out of time but proved the core concept.
 
-**[[Kris Krüg]]:**
+**Kris Krüg:**
 "Andre, thank you for helping clean up, for setup, for bringing all your friends around, man... You're a PhD machine learning guy who's been just dropping amazing bombs on us since the very, very beginning. I'm very happy that you're here."
 
-#### Second Place: [[Darby Yule]] - "Signals: The Future of Sound"
+#### Second Place: Darby Yule - "Signals: The Future of Sound"
 **Project:** Futures Method Prediction of 2030 Music Landscape
 
 Used academic "futures method" (educated guessing from data patterns) to predict five music genres that will dominate in 2030:
@@ -133,7 +144,7 @@ Creative data interpretation through heavy metal aesthetic:
 - Submitted 30 minutes past deadline at midnight
 - Recorded video while exhausted ("sorry for blinking")
 
-**[[Kris Krüg]]'s Arc Assessment:**
+**Kris Krüg's Arc Assessment:**
 "Prajwal's story arc has gone from rule-following high schooler at the beginning to independently inventing vibe coding in his own head. He's like, 'oh man, this vibe coding thing, I don't have to worry so much about the code, just focus on user experience.' Yeah, we got our own little Andrej Karpathy here... To submit an unfinished project, a shower thought - probably on the edge of what you usually turn in. Welcome to the Hall of Fame."
 
 **Prajwal's Reflection:**
@@ -148,7 +159,7 @@ Multiple people trying to hire Prajwal. He's one of the smartest in the communit
 
 ### Vision & Launch
 
-**[[Kevin Friel]] (Pixel Wizard/Prompt Goblin)** inaugurated Vancouver AI's First Annual AI Film Festival, gathering local, national, and international creators to showcase the rapid evolution of AI filmmaking.
+**Kevin Friel (Pixel Wizard/Prompt Goblin)** inaugurated Vancouver AI's First Annual AI Film Festival, gathering local, national, and international creators to showcase the rapid evolution of AI filmmaking.
 
 **Kevin's Opening:**
 "It's a transformative time once again. We thought, what better way to showcase the rapid change - often daily, sometimes multiple times a day - than to put a spotlight on our local, our national and our international friends and neighbors of creators, both new and experienced."
@@ -169,7 +180,7 @@ Multiple people trying to hire Prajwal. He's one of the smartest in the communit
 - Created Gollum's face for Lord of the Rings ("that's literally his face shape")
 - Cut scenes for all Valve Half-Life games
 - Stints at Pixar
-- Now: Storytelling Yoda at undisclosed company with [[Kevin Friel]]
+- Now: Storytelling Yoda at undisclosed company with Kevin Friel
 
 **Bay's Vision:**
 "It's all about empowering the individual. This allows us as creatives to express ourselves very fully. You're able to bring your vision to life. I hope this technology can open the door for Canadian filmmakers to make bigger things and get their ideas out in ways we never had the chance before.
@@ -189,7 +200,7 @@ Quick story: I know someone who comes to our Toronto AI filmmaking meetups. He s
 **N Ek (Lighthouse AI Workshops)**
 "People are starting to stand up way more and take leadership positions. Pioneer this technology. Build a standard and precedent in my industry on how this should be used. I hope you join us. Join the transformation and the initiative. It'll be a beautiful world if people keep creating beautiful things."
 
-**[[Michael Tippett]]**
+**Michael Tippett**
 "As a Canadian, everyone has that unique perspective. There is such beautiful diversity in Canada. I'm confident these tools will empower people to share that unique perspective - not just within Canada but worldwide."
 
 ### Live Panel: Luke & Tim - The Practitioner's Perspective
@@ -271,7 +282,7 @@ For creative-minded people, it's not a lottery or slot machine anymore pulling a
 
 The whole culmination of the creative and the tech and all these people embracing the technology is where you start to get these new ideas and workflows. It's hard right now to figure out how to build something around this, but it's a new frontier."
 
-**[[Kevin Friel]] on The Paradigm Shift:**
+**Kevin Friel on The Paradigm Shift:**
 "The cone of efficacy of intention is narrowing with each new model release. And that's what's really, really exciting about all of this. The quality of character animation in Luke's piece - that is in the Dreamworks animation ballpark. That isn't coming out of every AI animator right now. That's not randomly coming out of Sora. How much do you attribute your eye and your experience in traditional flows into really finessing that kind of acuity?"
 
 "As much as we are trying to escape the perils of a linear visual effects workflow that looks like an assembly line with a few hops, it's really becoming circular now. You've got a first frame and you're gonna take that into Nano - maybe you generated that in a combination of Midjourney or Sea Dance. It's all sort of circular now. That whole process that is infinitely manipulable, working in the edit now - the storytelling is what the edit tells you at every stage."
@@ -283,7 +294,7 @@ The whole culmination of the creative and the tech and all these people embracin
 **Audience Member:**
 "I have a lot of friends who work in the industry - actors, animators, various people - and they're hurting right now because the industry is hard. There's a lot of hope I see on the stage, especially in the idea of a thousand iterations until I see the thing that actually works, and it's still not quite right. I feel like what we have in BC is discernment about what's good and the ability to harness these tools to actually create. But there's such great fear and reluctance to step into it because people feel like 'well, this is replacing me.' How do we bridge that gap? How do we bring people into the fold so that we can harness this expertise we've cultivated and capitalize on this what's almost there to be brilliant?"
 
-**[[Kevin Friel]]'s Response:**
+**Kevin Friel's Response:**
 "You have exemplified precisely what I wanted to hope to showcase here tonight. These two guys and myself, we all come from professional visual effects animation background. We were all in really big teams doing very specific jobs in the line. To pivot over to another job in that line was really, really hard, if not borderline impossible.
 
 What I see is those people that were cogs in the storytelling wheel are getting to have bigger ownership of stories now. I think there's a really amazing opportunity to take the existing skill sets and experiences we all have and convert into vibrant multiple pegs of the economy with unbeatable IP. Once that gets a groundswell of movement through the industry and through online appetite of 'oh, there's real stories coming out of here,' individual studios with followings, with Twitch streams of them jamming on Comfy UI one night and seeing what pops out of the hot GPUs."
@@ -307,15 +318,15 @@ One weird thing is there's so much ethical resistance against AI. But if you wan
 
 When it comes to what you guys are doing, how much do you feel that what comes on the screen when you prompt the AI is actually taking someone else's work and becomes yours?"
 
-**[[Kevin Friel]]'s Response:**
+**Kevin Friel's Response:**
 "That is a great question. That is the heart of the matter in so many ways. It really is. That is something we are all wrestling with right now in very big and serious ways.
 
 The legacy of models dominantly being used have hoovered everything off the internet, off Art Station, off artists' looks and history and everything. That is so hard to move through right now. We confront ourselves - I think you guys share the same values. It's a technology that has come so quickly and has been unveiled with consequences not kept into consideration. But here we are and that paradigm has shifted.
 
 What I am hopeful for is proliferation of new ethically trained models. So consensually trained - that means anyone in Moon Valley or Adobe Firefly (they just had a big new update this week at Adobe Max that actually makes that model production usable again in terms of quality, 'cause it had fallen behind) - everyone has given consent in those models. We're getting there. But we have a legacy that is like ugh, and we need to clean up. And I confront myself daily with that."
 
-**[[Kris Krüg]] on [[Philippe Pasquier]]:**
-"[[Philippe Pasquier]] at SFU SIAT - his whole jam is training small models on artists' work. I have trained photographic models on only portraits I've ever taken and I'm able to generate now new faces based on this. These models are available to these guys as well. I am not trying to dodge the question by saying the people here are exploring alternative methods for dealing with this type of stuff. This stuff matters to us a lot. We confront it every day in our work.
+**Kris Krüg on Philippe Pasquier:**
+"Philippe Pasquier at SFU SIAT - his whole jam is training small models on artists' work. I have trained photographic models on only portraits I've ever taken and I'm able to generate now new faces based on this. These models are available to these guys as well. I am not trying to dodge the question by saying the people here are exploring alternative methods for dealing with this type of stuff. This stuff matters to us a lot. We confront it every day in our work.
 
 Everything generated now is slurped up but my particular photos have been trained into models more than anybody else I know. There's a website haveibeentrained.com where you can look at your own work. I've got like 2000 photos in the NVIDIA facial recognition dataset used in all sorts of activities. That is a foundational model. It is crazy."
 
@@ -339,7 +350,7 @@ My question was gonna be - you keep saying I asked the model, I begged the model
 **Response from Panel:**
 "It's a little bit of both. We are in that wobbly quantum theoretical space where both can be true right now. And we have to see what resolves. In terms of you can put in references and the models are just getting better at coherency. That is giving us consistency now from a prompt. A lot of my stuff I'm not using reference images for right now. It's pure consistency of prompting. Claude is really helping me with that. The model just keeps that in context with whichever job you're doing now. That's where consistency is coming from."
 
-**[[Kevin Friel]] Final Thoughts:**
+**Kevin Friel Final Thoughts:**
 "I would not be here without Curious Refuge. I took one of their courses in their early days. That's what got my feet wet. Their community is inspiring our community here. This is the first of hopefully a monthly offshoot of AI film in particular - to create community, have these conversations, deep dive into latest and greatest, bring creators together whether brand new or really experienced. We want everyone in the same melting pot bouncing off each other and raising everything. 'Cause it's more important to do that than ever."
 
 ---
@@ -348,10 +359,10 @@ My question was gonna be - you keep saying I asked the model, I begged the model
 
 ### Surrey AI Networking Events
 
-**Emar & [[Matthew Schwartzman]]** promoted Surrey AI meetups as accessible alternative for those in Maple Ridge and outlying areas who find Vancouver meetups too far. They do daily pushups to stay in shape for hosting events (demonstrated live on stage). Secret discount codes available for attendees.
+**Emar & Matthew Schwartzman** promoted Surrey AI meetups as accessible alternative for those in Maple Ridge and outlying areas who find Vancouver meetups too far. They do daily pushups to stay in shape for hosting events (demonstrated live on stage). Secret discount codes available for attendees.
 
-**[[Kris Krüg]]'s Appreciation:**
-"In two minutes you're gonna see opportunity to donate to youth of our community, and that's what we're talking about right there. Prajwal, Ethos, Emar, [[Matthew Schwartzman]] - they hold us up. Thanks for representing out in Surrey. Matthew, thank you for the walkthrough video today of the new venue."
+**Kris Krüg's Appreciation:**
+"In two minutes you're gonna see opportunity to donate to youth of our community, and that's what we're talking about right there. Prajwal, Ethos, Emar, Matthew Schwartzman - they hold us up. Thanks for representing out in Surrey. Matthew, thank you for the walkthrough video today of the new venue."
 
 ### ByteDance Corporate Partnership
 
@@ -383,7 +394,7 @@ Working on video/photo generative hackathon for spring 2026.
 
 ### BC + AI Nonprofit Membership Drive
 
-**[[Kris Krüg]]'s Call to Action:**
+**Kris Krüg's Call to Action:**
 "Out of this whole community has sprung a nonprofit. Many of you guys are members. I'd like for the rest of you to join. If you like Matthew or Emar or the youthful thing we got going on here, we give scholarships all the time. People come here for free. They go to meetups for free.
 
 Hackathons we sponsored - Ubada, are you here? Ubada has won five hackathons in the last two months, including a couple we've sent him to recently. He's crushing the scene. He's getting flown to France because of the last hackathon win we sent him to, to represent Canadian Oceans internationally.
@@ -440,7 +451,7 @@ Those of you who are not part of this whole situation - to join up costs $240 fo
 
 **Emerging Approaches:**
 1. **Consensual Models:** Moon Valley, Adobe Firefly (contributors opted in)
-2. **Custom Training:** [[Philippe Pasquier]]'s work at SFU training small models on individual artist portfolios
+2. **Custom Training:** Philippe Pasquier's work at SFU training small models on individual artist portfolios
 3. **Indigenous Protocol:** Involving indigenous storytellers directly, respecting cultural IP
 4. **Radical Acceptance:** "Give up the idea of IP and trademark to enter the true age of AI" (Karu)
 
@@ -477,7 +488,7 @@ The community is wrestling with benefiting from tools built on problematic found
 - Multiple people trying to hire him
 - $1,000 Hall of Fame prize winner
 
-**[[Matthew Schwartzman]] & Emar:**
+**Matthew Schwartzman & Emar:**
 - Running Surrey AI meetups
 - Making AI accessible outside Vancouver core
 - Creating pathways for youth in outlying areas
@@ -550,7 +561,7 @@ Trained professionals displaced by AI might leave industry entirely before retra
 
 ### Monthly AI Film Festival Plans
 
-[[Kevin Friel]] established "First Annual AI Film Festival" as ongoing initiative:
+Kevin Friel established "First Annual AI Film Festival" as ongoing initiative:
 - Monthly screenings of local, national, international work
 - Panel discussions with practitioners
 - Tool demonstrations and workflow sharing
@@ -578,7 +589,7 @@ Karu's commitments:
 
 **Established:**
 - BC + AI nonprofit with growing membership ($240/year)
-- Surrey AI meetups ([[Matthew Schwartzman]] & Emar)
+- Surrey AI meetups (Matthew Schwartzman & Emar)
 - Education + AI group (Maya Arnold, Ethos Labs)
 - Mind, AI & Consciousness group (Loki, David)
 - Youth scholarship program
@@ -597,10 +608,10 @@ Karu's commitments:
 **Anthony Joseph:**
 "Time is our greatest asset, and that's the one thing you can't get back no matter where you spend it."
 
-**[[Kris Krüg]]:**
+**Kris Krüg:**
 "When Anthony and Johnny comes up every month and starts singing, I know everything that happens next is gonna be okay."
 
-**[[Darby Yule]]:**
+**Darby Yule:**
 "My punk rock heart wants everything to be strictly human. But musicians haven't even totally accepted synthesizers yet, and those are from the sixties."
 
 **Luke:**
@@ -612,7 +623,7 @@ Karu's commitments:
 **Prajwal:**
 "I like coding and vibe coding in general, just building these kinds of products. It's kind of my jam. Even though it feels like I'm sacrificing my time, I really, really enjoy building them."
 
-**[[Kevin Friel]]:**
+**Kevin Friel:**
 "The cone of efficacy of intention is narrowing with each new model release. And that's what's really, really exciting about all of this."
 
 **Karu:**
@@ -641,7 +652,7 @@ Most importantly, the meetup revealed a community investing in its youth (schola
 
 The First Annual AI Film Festival isn't just a clever branding move - it's a flag in the ground declaring Vancouver's intention to lead in this transformation. With ByteDance partnerships forming, training programs launching, indigenous collaborations beginning, and monthly film showcases building momentum, BC + AI is positioning itself as the place where AI creative work gets serious.
 
-As [[Kevin Friel]] said: "We want everyone in the same melting pot bouncing off each other and raising everything. 'Cause it's more important to do that than ever."
+As Kevin Friel said: "We want everyone in the same melting pot bouncing off each other and raising everything. 'Cause it's more important to do that than ever."
 
 ---
 

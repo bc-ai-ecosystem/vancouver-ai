@@ -1,3 +1,9 @@
+---
+title: "Peter Lucas Jones - Indigenous AI & Language Sovereignty Keynote"
+date: 2024-12-01
+type: transcript
+tags: ["meetup", "transcript", "vancouver-ai"]
+---
 # Peter Lucas Jones - Indigenous AI & Language Sovereignty Keynote
 **Vancouver AI Community Meetup**
 **December 2024**

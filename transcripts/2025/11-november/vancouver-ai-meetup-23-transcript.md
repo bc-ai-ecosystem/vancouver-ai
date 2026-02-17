@@ -1,8 +1,18 @@
+---
+title: "Vancouver AI Community Meetup #23 - Full Transcript"
+date: 2025-11-26
+meetup_number: 23
+type: transcript
+venue: "HR MacMillan Space Centre (Planetarium), Vancouver, BC"
+speakers: ["David Weng", "Kevin Friel", "Kris Kr\u00fcg", "Loki Jorgenson"]
+attendance: 186
+tags: ["meetup", "transcript", "vancouver-ai"]
+---
 # Vancouver AI Community Meetup #23 - Full Transcript
 
 **Date:** November 26, 2025
 **Location:** HR MacMillan Space Centre (Planetarium), Vancouver, BC
-**Host:** [[Kris Krüg]]
+**Host:** Kris Krüg
 **Event Number:** 23
 **Theme:** Ethics Panel - "Portals Not Panels"
 **Attendee Demographics:** ~60-70% first-timers, 30-40% BC AI members
@@ -11,7 +21,7 @@
 
 ## Opening
 
-**[[Kris Krüg]]:** Okay, Mr. Pixel Wizard, let's go. Welcome everybody. You are at the HR MacMillan Space Center. This is the Vancouver AI Community Meetup number 23. You are the Vancouver AI community. Yeah, let's go. I'm so happy you're all here tonight. There's a lot of new faces who's here for the first time.
+**Kris Krüg:** Okay, Mr. Pixel Wizard, let's go. Welcome everybody. You are at the HR MacMillan Space Center. This is the Vancouver AI Community Meetup number 23. You are the Vancouver AI community. Yeah, let's go. I'm so happy you're all here tonight. There's a lot of new faces who's here for the first time.
 
 I wanna say that's like 60 to 70% who's here as a part of the BC AI nonprofit membership. That's the other 30 or 40%. That's pretty cool. Awesome. Well, I'm really happy that everyone's here tonight. If you've been hanging around for long enough, you know, I say brazenly on the internet: We don't do panels, we do portals.
 
@@ -77,11 +87,11 @@ I just wanted to share that too, is that **humor is what got us through the dark
 
 *[Kris attempts to pronounce Isiléyu]*
 
-**[[Kris Krüg]]:** Thank you man. Thank you.
+**Kris Krüg:** Thank you man. Thank you.
 
 **Anthony Joseph:** Before, we was sending voicemail voice messages back and forth, but for me it's an honor as a language champion to hear the effort. 'Cause that's the only way you get better. So thank you.
 
-**[[Kris Krüg]]:** Yeah. I mean, before he messed up my name tonight and then we all messed his name up over and over again as a group. I've been messing it up all week, back and forth on voice chat, trying to get it right. So thanks brother. Thank you for being here.
+**Kris Krüg:** Yeah. I mean, before he messed up my name tonight and then we all messed his name up over and over again as a group. I've been messing it up all week, back and forth on voice chat, trying to get it right. So thanks brother. Thank you for being here.
 
 For those of you who thought you were coming to a normal technology event, I'm sorry. You're kind of getting a feel for what's going on around here now. You're also getting a feel for why it goes four and a half hours sometimes.
 
@@ -89,7 +99,7 @@ For those of you who thought you were coming to a normal technology event, I'm s
 
 ## Community Announcements
 
-**[[Kris Krüg]]:** Okay. I talked to a few of you - slapped cookies. Zorro, if you're a community announcements person. Luke, come on up. You know who you are. If there's a Surrey person come. A Loki person come. Do we got a Loki person still here?
+**Kris Krüg:** Okay. I talked to a few of you - slapped cookies. Zorro, if you're a community announcements person. Luke, come on up. You know who you are. If there's a Surrey person come. A Loki person come. Do we got a Loki person still here?
 
 ### Sesson Ong - UBC AI Club & Government Relations
 
@@ -99,23 +109,23 @@ I wear two hats. I'm currently an MBA student at UBC, and I quickly identified t
 
 And the other hat I'm working on is the government relations for the BC AI committee. And so yeah, that's the work I'm doing.
 
-**[[Kris Krüg]]:** We just started a government relations group, about 15 of the BC AI members are a part of it. It turns out **when we all organize and get together and start talking about stuff, people listen** and we need to be strategic about how we approach it. So if you wanna know more about that, talk to Sesson. Thanks buddy.
+**Kris Krüg:** We just started a government relations group, about 15 of the BC AI members are a part of it. It turns out **when we all organize and get together and start talking about stuff, people listen** and we need to be strategic about how we approach it. So if you wanna know more about that, talk to Sesson. Thanks buddy.
 
-### [[Loki Jorgenson]] - Victoria AI Summit & MAC
+### Loki Jorgenson - Victoria AI Summit & MAC
 
-**[[Kris Krüg]]:** Loki, it's been a while, brother. Good to see you, man. A lot has gone on in your world lately.
+**Kris Krüg:** Loki, it's been a while, brother. Good to see you, man. A lot has gone on in your world lately.
 
-**[[Loki Jorgenson]]:** There's a lot going on in my world, so I'll keep it brief. Just came back from Victoria, actually. I live there, so I come over here to do these. We had our first AI summit in Victoria in the south island. It went startlingly well, and I got to do the closing keynote.
+**Loki Jorgenson:** There's a lot going on in my world, so I'll keep it brief. Just came back from Victoria, actually. I live there, so I come over here to do these. We had our first AI summit in Victoria in the south island. It went startlingly well, and I got to do the closing keynote.
 
 That was quite the privilege. Kris Krüg was over there, a bunch of us were all over there taking it in. This was part of VIATech's tech week, which happens every year. But the AI Summit - so well run, so diverse, so interesting. They're talking about making it a week long next year. So that's some real ambition.
 
 We collectively offered to be a part of it next year, so I think we will all go over next year as a part of it as well.
 
-**[[Kris Krüg]]:** Yeah. This is gonna be outstanding. So we are really seeing this spreading. We're really seeing a lot of community coming together.
+**Kris Krüg:** Yeah. This is gonna be outstanding. So we are really seeing this spreading. We're really seeing a lot of community coming together.
 
-**[[Loki Jorgenson]]:** Those who know me, know them. I'm part of the Mind AI and Consciousness Group. There's about 186 people on that discussion list. You're probably some of you are on there. We meet monthly, 20 people at a time. Our next one is December 11th, and then we're closed for the season. The keynote was in part, based on the work that we've been doing at MAC. And that was extremely well received.
+**Loki Jorgenson:** Those who know me, know them. I'm part of the Mind AI and Consciousness Group. There's about 186 people on that discussion list. You're probably some of you are on there. We meet monthly, 20 people at a time. Our next one is December 11th, and then we're closed for the season. The keynote was in part, based on the work that we've been doing at MAC. And that was extremely well received.
 
-**[[Kris Krüg]]:** They wanted to imagine going to a normal person business conference, for instance, talking about consciousness. That was the closing keynote that Loki gave.
+**Kris Krüg:** They wanted to imagine going to a normal person business conference, for instance, talking about consciousness. That was the closing keynote that Loki gave.
 
 He's doing amazing work. That reading group that he's talking about - if you feel like the conversation about AI is superficial, join Loki's Mind, AI and Consciousness Group. They will fucking kick your ass. And if you want to get into a debate, don't do it on their channels 'cause they're well honed machines. They're going deep.
 
@@ -131,7 +141,7 @@ He's doing amazing work. That reading group that he's talking about - if you fee
 
 **Eliza:** Yeah, so we cater events. This is our third event so far, which is pretty exciting. And we also do Christmas markets as well as selling in person, just person to person.
 
-**[[Kris Krüg]]:** Let me brag about you. These two, they're both entrepreneurs. This is her second company. She runs a lip gloss and cosmetics company. She's an influencer. She accepts contracts for doing stuff for brands online, all sorts of cool stuff. Now, they started a company together because of this, so that they could cater our events and stuff like that.
+**Kris Krüg:** Let me brag about you. These two, they're both entrepreneurs. This is her second company. She runs a lip gloss and cosmetics company. She's an influencer. She accepts contracts for doing stuff for brands online, all sorts of cool stuff. Now, they started a company together because of this, so that they could cater our events and stuff like that.
 
 And thank you for all your contributions. They come to all the AI and education and meetups and participate so that it's not just adults talking to adults, it's students and teachers talking to one another. I appreciate that you support your bros and the leadership of the Surrey Group. Thank you very much for that.
 
@@ -145,7 +155,7 @@ So it was so well received and the whole event was such a lovely night that we d
 
 And for all the other introverts in the room, I am very, very approachable. Please reach out to me directly if the group chat is intimidating. We can put together some small groups and stuff for you guys. So yeah, love to hear from you.
 
-**[[Kris Krüg]]:** The work you guys have been doing is amazing. So between Kevin laying down the kind of road for the AI film club, me supporting, and you guys standing in doing all the day-to-day stuff and cheerleading. It's really become a sweet group. So many of y'all have made new stuff that was beyond their capabilities even a couple weeks ago. Zara's shit is fucking - we had to cut it from the agenda tonight because it's a little bit tight around here. But I mean, good work and I think the proof is in the pudding.
+**Kris Krüg:** The work you guys have been doing is amazing. So between Kevin laying down the kind of road for the AI film club, me supporting, and you guys standing in doing all the day-to-day stuff and cheerleading. It's really become a sweet group. So many of y'all have made new stuff that was beyond their capabilities even a couple weeks ago. Zara's shit is fucking - we had to cut it from the agenda tonight because it's a little bit tight around here. But I mean, good work and I think the proof is in the pudding.
 
 People are making crazy cool stuff and the overall capabilities both technically and creatively of our whole crew through some of the things that we've all been a part of has gone up. Fuck yeah.
 
@@ -157,25 +167,25 @@ A lot of the inspiration and the push to get that done has been through the use 
 
 And I think that album is a really good example. Just again, very quickly, half that album has been recorded as iPhone guitar lines for the last four years. The other half is tracks, electronic tracks that I've made back in 1998 that I was able to bring put into Suno and actually finish something that I'm really happy with. So yeah.
 
-**[[Kris Krüg]]:** It's been fun watching it come together. He's got a bunch of interesting things. You're gonna be seeing his face around here. He is also developed a kind of a design framework and way of approaching projects that he's been developing in public that's really coming some polish on it that I've invited him. Come share another time.
+**Kris Krüg:** It's been fun watching it come together. He's got a bunch of interesting things. You're gonna be seeing his face around here. He is also developed a kind of a design framework and way of approaching projects that he's been developing in public that's really coming some polish on it that I've invited him. Come share another time.
 
 Matt Lock, how you want people to find you, bro?
 
 **Matt Lock:** On our channels. If you wanna search on like Spotify, the group is called Realms. R-three-ALMS. Yeah. So look it up.
 
-**[[Kris Krüg]]:** There's a QR code as well outside. So if you really want to, you can go where the food is, by the monitor, the sound monitor. We put a QR code for his album that just released today, so please do it.
+**Kris Krüg:** There's a QR code as well outside. So if you really want to, you can go where the food is, by the monitor, the sound monitor. We put a QR code for his album that just released today, so please do it.
 
 ### Zara - SoCo Competition & SimCluster
 
-**[[Kris Krüg]]:** Zara. Right.
+**Kris Krüg:** Zara. Right.
 
 **Zara:** Perfect segue from Luke, seeing the AI Film Club going on. I was presented with the opportunity of getting some free credits from one of our members here at SoCo, and it was the first time that I tried to do something like that. So it's funny enough, we entered a few challenges from SoCo together and we came out really well.
 
-**[[Kris Krüg]]:** SoCo is an image and video generation competition, for those of you who don't know.
+**Kris Krüg:** SoCo is an image and video generation competition, for those of you who don't know.
 
 **Zara:** In the last week's challenge, we got - this is me in the first place somehow. Luke right there in the second. And then we had Michelle - SidBird83.
 
-**[[Kris Krüg]]:** This is Michelle. Global competition with cash money prizes that we're fucking crushing right now. All the way from Japan.
+**Kris Krüg:** This is Michelle. Global competition with cash money prizes that we're fucking crushing right now. All the way from Japan.
 
 **Zara:** Again, I had just started. I saw, I came to the last meeting and I was like, well, maybe I should try this out. This looks cool. These people are doing some sweet stuff. Asked Luke for some help, and here we go.
 
@@ -183,27 +193,27 @@ So Michelle posted this one. It was about Impossible foods. This was a soup of a
 
 We also participated on the video one. We also got prizes, both Luke and I. So if you haven't tried it yet, come over, talk to us, talk to Mayumi and Luke, and let's participate.
 
-**[[Kris Krüg]]:** Also, don't go nowhere. Zara's playing the stupidest game in the world right now. And did you want us to give us an update on the stupidest game in the world?
+**Kris Krüg:** Also, don't go nowhere. Zara's playing the stupidest game in the world right now. And did you want us to give us an update on the stupidest game in the world?
 
 **Zara:** Yeah, I can. It's the - it's a stupid game, but it's also genius, right? It's one of those things where you're not like - it's like AI, it's complex. You don't know where you stand on the morals and ethics of stuff. It's a simulated social network where humans cannot post, you can only use AI to make content and you use concepts out of it.
 
 And somehow I, you know, fast paced my way into the first place globally, and I am the weirdest -
 
-**[[Kris Krüg]]:** You want to tell them the prize?
+**Kris Krüg:** You want to tell them the prize?
 
 **Zara:** Yeah. Go.
 
-**[[Kris Krüg]]:** This is a skunkworks project like an a16z VC out of San Francisco, like the brightest AI hackers in the world started this weird skunkworks game project called SimCluster.
+**Kris Krüg:** This is a skunkworks project like an a16z VC out of San Francisco, like the brightest AI hackers in the world started this weird skunkworks game project called SimCluster.
 
 Zara got wind of it really early and decided he was gonna win it. And he was in 5000th place at the time. **The prize is if you win, your consciousness gets downloaded into a real robot.**
 
 **Zara:** All of the content that you produce while you're trying to get yourself in the first place -
 
-**[[Kris Krüg]]:** Consciousness of your faking.
+**Kris Krüg:** Consciousness of your faking.
 
 **Zara:** Exactly. You make a personality and they will download that personality from the game into a real robot and send it to you. So -
 
-**[[Kris Krüg]]:** Told you it was the stupidest game in the world. He's number one on the leaderboard. He is probably gonna get his brain downloaded.
+**Kris Krüg:** Told you it was the stupidest game in the world. He's number one on the leaderboard. He is probably gonna get his brain downloaded.
 
 Robot, thank you for all being here. Thanks for coming up and saying hello. And this is how, these are the legs of this community. It's grown way beyond just this event. It's all sorts of stuff now, and this is a lot of who's moving it there.
 
@@ -211,7 +221,7 @@ Robot, thank you for all being here. Thanks for coming up and saying hello. And 
 
 ## Lionel Emba - WhatsApp AI Presentation
 
-**[[Kris Krüg]]:** Um, I'm about to invite Lionel Emba back up here. He has exhibited three things over the two years he's been with us.
+**Kris Krüg:** Um, I'm about to invite Lionel Emba back up here. He has exhibited three things over the two years he's been with us.
 
 The first thing was a really cool AI prompting device where instead of prompting it, you put images in front of its eyeballs and then it would blend those things together and generate new things from it. Then he came back and he was like, "Yo, I'm not even sure about the power and impact, the energy." He went for a vacation and he left his computer trained and he's like, "I don't even actually know how much energy it's gonna use."
 
@@ -273,7 +283,7 @@ And so I'm gonna talk a bit of a project, open source project. For example, the 
 
 But recently in July, they spent eight times more time on vulnerability reports, but actually **only 5% of those reports are legitimate.** So they're basically spending time on reports that are absolutely not reproducible. They're completely hallucinated. So that's a bit of a problem. And that's kind of like really overloading open source that is already running on low funds usually.
 
-**[[Kris Krüg]]:** So you're talking about hackers seeking bounties are using Claude Code and shit like this to try to find vulnerabilities in curl, but they're not there. They're hallucinating them. They're submitting them anyway and they're wasting all the people's resources of the open source project.
+**Kris Krüg:** So you're talking about hackers seeking bounties are using Claude Code and shit like this to try to find vulnerabilities in curl, but they're not there. They're hallucinating them. They're submitting them anyway and they're wasting all the people's resources of the open source project.
 
 **Lionel Emba:** Exactly. And the blog is very interesting. Please read it because it gives details about it.
 
@@ -285,7 +295,7 @@ But their policy is that if within 90 days you haven't fixed it, we will reveal 
 
 And all of a sudden they get 20 vulnerabilities. Some of them are actually naturally exploitable and what do they do? Because in 90 days they will have actual vulnerabilities revealed in products that we all use and they don't have the time to fix it. See how this could be very discouraging for open source maintainers to continue maintaining this project.
 
-**[[Kris Krüg]]:** You've exceeded your time, so I'd like to give you 30 seconds more to wrap it up and then we'll talk about the award.
+**Kris Krüg:** You've exceeded your time, so I'd like to give you 30 seconds more to wrap it up and then we'll talk about the award.
 
 **Lionel Emba:** So recently OpenAI had this token consuming award, which is very interesting because they're actually rewarding people for consuming a trillion tokens. Is that the right incentive? What are we gamifying here? What is this gamification?
 
@@ -293,13 +303,13 @@ So I did an estimation. What does 1 trillion tokens actually mean? And here are 
 
 Not saying it is good, it's bad, but here what is - probably some of you have received that award, but that's okay. I'm not blaming you. I understand. But it's like what are they trying to reward? It is kind of interesting.
 
-**[[Kris Krüg]]:** It's actually - I want to both be conscientious of time but also expansive. They're rewarding with that award - they're saying that there is work that is being done, valuable work of some sort that's being done. And they're trying to optimize. They're not just like, who can blow a million tokens down the toilet. Most people are trying to do useful things such as science, research, healthcare, video games, and entertainment.
+**Kris Krüg:** It's actually - I want to both be conscientious of time but also expansive. They're rewarding with that award - they're saying that there is work that is being done, valuable work of some sort that's being done. And they're trying to optimize. They're not just like, who can blow a million tokens down the toilet. Most people are trying to do useful things such as science, research, healthcare, video games, and entertainment.
 
 **Lionel Emba:** I agree with you. I'm not saying the award is completely bad, that people using tokens is bad. What I'm saying is what is it rewarding? Because they clearly took this from YouTube, which is a democratic system where people actually subscribe to community, like videos that they actually enjoy, versus something that is actually paid, literally paid for, and now the number of tokens consumed does not bind to value delivered like a revenue of a company does not mean it's actually delivering value.
 
 That is the thing. But definitely meaning that using tokens to do something useful is true. But is that the measurement of value? Probably not. I don't know. What is the measurement of that value? Community can say it with different - whether it's not revenue or tokens used.
 
-**[[Kris Krüg]]:** And as our conversations go deep on - it's like until you can even see what you're using those million tokens for in terms of impact, how do you ever make a choice between a better performing system in terms of impact or a worse performing system? You have no choice. You have no ability to even see those things. So monitoring your usage is the first step I think. Hitting targets and reduction all.
+**Kris Krüg:** And as our conversations go deep on - it's like until you can even see what you're using those million tokens for in terms of impact, how do you ever make a choice between a better performing system in terms of impact or a worse performing system? You have no choice. You have no ability to even see those things. So monitoring your usage is the first step I think. Hitting targets and reduction all.
 
 **Lionel Emba:** Exactly. And that goes right into the award. So I was thinking about this thing. **What if we turn this onto its head and actually created an award for saving tokens?**
 
@@ -307,7 +317,7 @@ So maybe we can do something with BC AI actually, and make an award a part of th
 
 Please let us know about it. Let's write about it, let's talk about it and let's share it back to the community so we can actually make progress toward - not using less of AI, but make a more sober use of it. And not just wasting tokens, but actually have an award that is gonna actually really contribute back to the community in a positive way.
 
-**[[Kris Krüg]]:** Yeah. Business talk. They say if you want to change the outcomes, you change the incentives. Well, how about we give out awards for how many tokens you can save instead of how many tokens you can use.
+**Kris Krüg:** Yeah. Business talk. They say if you want to change the outcomes, you change the incentives. Well, how about we give out awards for how many tokens you can save instead of how many tokens you can use.
 
 **Lionel Emba:** And there are some flyers on the outside if you want to subscribe to the newsletter of WhatsApp or see the website, see how you can contribute or contact me. Please pick up a flyer on your way out.
 
@@ -319,7 +329,7 @@ Please let us know about it. Let's write about it, let's talk about it and let's
 
 Usually those models are open source. I don't know of any private source model that ships on your computer so far, even though it's probably on your iPhone, but these are the different type of AI.
 
-**[[Kris Krüg]]:** Clearly, open source software, we can all write tools and monitoring stuff on top of it. Closed proprietary systems, you never know what's going on under the hood. Traditional definition.
+**Kris Krüg:** Clearly, open source software, we can all write tools and monitoring stuff on top of it. Closed proprietary systems, you never know what's going on under the hood. Traditional definition.
 
 **Audience Question:** First question, when you did the CO2 emissions calculation, I'm just curious, like, was there a way to figure out if the energy was actually coming from renewable source, or did you just assume it was like a hundred percent like fossil fuel based? And is there a way to kind of like change that depending on where it's actually coming from? The data processing.
 
@@ -337,13 +347,13 @@ And I hear a lot that this is inevitable, but I disagree with it. I think it's i
 
 But as humanity, I don't know if by going faster we're gonna earn something more. So I don't have like a way to - I'm just thinking about like, this award, how can we make this award more interesting? But to me, the reward is that we get to contribute to the larger community by sharing our findings. You know, really trying to know what we're doing with this.
 
-**[[Kris Krüg]]:** Thank you. You've been challenging us since the very beginning. Lionel is a first order programmer. He's a first order artist. He's a first order thinker. If you're interested in this stuff, connect with Lionel. Good job, man. Thank you, sir.
+**Kris Krüg:** Thank you. You've been challenging us since the very beginning. Lionel is a first order programmer. He's a first order artist. He's a first order thinker. If you're interested in this stuff, connect with Lionel. Good job, man. Thank you, sir.
 
 Have you ever been the warmup band for somebody else? Lionel. Have you ever been the warmup band?
 
 **Lionel Emba:** What is a warmup band?
 
-**[[Kris Krüg]]:** The band that goes on before the main band to get the crowd in the right spirit.
+**Kris Krüg:** The band that goes on before the main band to get the crowd in the right spirit.
 
 **Lionel Emba:** No, but I guess that's it. Congratulations.
 
@@ -351,7 +361,7 @@ Have you ever been the warmup band for somebody else? Lionel. Have you ever been
 
 ## Amanda Silvera - Voice Theft & SOBIR
 
-**[[Kris Krüg]]:** Okay, up next - but before we get there, I wanted to invite up a new colleague of mine, Amanda, who is here to talk to us a little bit about an experience that she went through that is kind of related to all of this stuff and helps to kind of give us another perspective on it.
+**Kris Krüg:** Okay, up next - but before we get there, I wanted to invite up a new colleague of mine, Amanda, who is here to talk to us a little bit about an experience that she went through that is kind of related to all of this stuff and helps to kind of give us another perspective on it.
 
 So a lot of us are doing AI stuff for a long time, and we hear about stories of people whose likeness or artworks or voice or video likeness has been taken from them without their consent and used for things. Who knows, money making, nefarious things, all sorts of different things. But I think that it's difficult to connect with some of those stories unless we know somebody that it's happened to.
 
@@ -441,9 +451,9 @@ I love us, I love humanity. I love our voices, but I also love our planet and I 
 
 ## Ethics Panel: "Portals Not Panels"
 
-**[[Kris Krüg]]:** Catherine Warren has been a member of this community for the last year. It's so cool to reconnect with you Catherine. We knew each other during the web 2.0 days. She's a powerhouse, and has been a big part of the economic development technology communities here in British Columbia for a good long time.
+**Kris Krüg:** Catherine Warren has been a member of this community for the last year. It's so cool to reconnect with you Catherine. We knew each other during the web 2.0 days. She's a powerhouse, and has been a big part of the economic development technology communities here in British Columbia for a good long time.
 
-Also, our graphics have always been fucking awesome, but they just got another major up level. This guy right over here, [[David Weng]], has taken over as our art director and has completely expanded our capabilities. So David, thanks so much, bro. It's been great having you helping out, man.
+Also, our graphics have always been fucking awesome, but they just got another major up level. This guy right over here, David Weng, has taken over as our art director and has completely expanded our capabilities. So David, thanks so much, bro. It's been great having you helping out, man.
 
 Catherine Warren, who knows Catherine. A couple friends out here. Thank you so much for pulling this together. I fucking hate panels. And I went there to support you. Kay and Kevin we're all in the same thing. And you introduced me to Liz, whose work is amazing and made me realize you shouldn't judge shit. You should definitely approach every single thing with an open mind. 'Cause this is some good shit. So thank you for coming here. It's not easy to pull four or five people together in the same room at the same time.
 
@@ -489,7 +499,7 @@ So we're gonna talk a bit about that. And my question for all of you as you list
 
 And we are about to find out from our expert panelists:
 - **Kay Tigo** - Director of Marketing Communications at the Montreal AI Ethics Institute
-- **[[Kevin Friel]]** - AI filmmaker and video producer
+- **Kevin Friel** - AI filmmaker and video producer
 - **Liz Marshall** - filmmaker of Liz Mars Productions
 
 ### Kay Tigo - State of AI Ethics Report
@@ -542,7 +552,7 @@ Each new investment cements the current trajectory unless equity and justice are
 
 **Humanity is at a crossroads and how we proceed will determine whether we're doomed or redeemed.**
 
-### [[Kevin Friel]] - Compute & GPU Monopoly
+### Kevin Friel - Compute & GPU Monopoly
 
 **Catherine Warren:** Very, very sobering and well said. And you know, everyone in the room here is here because you care about this topic. We're early enough in AI, still a relatively new technology, that if we put it under this kind of scrutiny and apply policy to it, we can turn this around.
 
@@ -552,7 +562,7 @@ And the other thing of course, is AI is now embedded. It's stealth, it's in almo
 
 So with that, I would like to turn over to you, Kevin, and ask you as an AI filmmaker who's using these new tools every day, how are you keeping it green? How much of what you're using has what I would think of as like stealth or embedded AI versus intentional AI?
 
-**[[Kevin Friel]]:** First of all, I want to welcome you all to my living room here. Would you like some snacks? There's some nice drinks at the back.
+**Kevin Friel:** First of all, I want to welcome you all to my living room here. Would you like some snacks? There's some nice drinks at the back.
 
 When this whole sort of redux of our conversation that we had at the sustainable production forum a few weeks ago - I was blown away by the diversity of information and experiences and the conclusion that really hit a focal point in the middle. And I'm really excited to find new information, new fulcrums in that, and of course with all of you as well.
 
@@ -690,7 +700,7 @@ So the question is, even if you're being compensated, even if you agree to parti
 
 So what is the responsibility for disclosure or self-education around this? And Kevin, I will turn back to you again to ask on the entertainment side what you're doing about the carbon costs of AI filmmaking.
 
-**[[Kevin Friel]]:** Right now, as I suggested earlier, we're a little bit helpless to the factors that we are given in terms of compute.
+**Kevin Friel:** Right now, as I suggested earlier, we're a little bit helpless to the factors that we are given in terms of compute.
 
 And I will bang the drum more on incentivizing efficient compute.
 
@@ -720,7 +730,7 @@ So we have the power to influence these companies with our pocketbooks, with how
 
 ### Audience Questions
 
-**[[Kris Krüg]]:** I do wanna blow this whole conversation up actually though, because I know there's a lot of questions from the audience. And I've got the first one actually.
+**Kris Krüg:** I do wanna blow this whole conversation up actually though, because I know there's a lot of questions from the audience. And I've got the first one actually.
 
 **I find my relationship with AI non-consensual.**
 
@@ -728,9 +738,9 @@ So you've talked a lot about choosing to be a part of this world, Catherine, or 
 
 My best choice is to like host a conversation where I can look at the opportunities and critique the fucking stuff that's broke.
 
-**[[Kevin Friel]]:** And I just want to piggyback off of Kris Krüg's sentiment. And before I became recently quite successful in AI filmmaking, I wasn't working for two years because of the paradigm shifts of Hollywood and also AI to Hollywood.
+**Kevin Friel:** And I just want to piggyback off of Kris Krüg's sentiment. And before I became recently quite successful in AI filmmaking, I wasn't working for two years because of the paradigm shifts of Hollywood and also AI to Hollywood.
 
-**[[Kris Krüg]]:** Like spending our inheritance to retool ourselves to have a seat at the table in this new AI filmmaking world or whatever type thing.
+**Kris Krüg:** Like spending our inheritance to retool ourselves to have a seat at the table in this new AI filmmaking world or whatever type thing.
 
 **Topo:** Hi guys. I really appreciate all your comments because I think they're tremendously important. I'm coming from the background as a computer scientist. I've been building AI systems since the early nineties.
 
@@ -740,7 +750,7 @@ But then new processors came and made our life easy, and then we got lazy. I've 
 
 So I just wanted to highlight that point because it's super, super important that we don't, we need to be not lazy. We have to be creative in the optimization as software developers. We need to think again on how we are developing these models so that we are not wasting power, that we is not all brute force. That we have to be better at how we do this because our planet is gonna die if we don't take care of all of this.
 
-**[[Kris Krüg]]:** Can you imagine using the most expensive, most smart AI model in the world to make you a recipe?
+**Kris Krüg:** Can you imagine using the most expensive, most smart AI model in the world to make you a recipe?
 
 **Liz Marshall:** I think when Jeffrey Hinton accepted his Nobel Prize, he said, if empathy is not encoded, then we're doomed.
 
@@ -778,7 +788,7 @@ At the end it has to change. When my students ask me, "Hey Topo, what do we have
 
 We are talking within a framework that has not served us. Let's not think about how can we monetize one thing or another.
 
-**[[Kris Krüg]]:** Before you guys respond up there - you said, you know, you want people to be able to be more courageous to stand out and say their opinions or whatever, but you also said that we probably all feel the same way. And you just slid that under the radar. You're like, oh, we probably all know what needs to be done. That was your quote. You said, we all know what needs to be done. **What do you think we all know needs to be done?**
+**Kris Krüg:** Before you guys respond up there - you said, you know, you want people to be able to be more courageous to stand out and say their opinions or whatever, but you also said that we probably all feel the same way. And you just slid that under the radar. You're like, oh, we probably all know what needs to be done. That was your quote. You said, we all know what needs to be done. **What do you think we all know needs to be done?**
 
 **Topo:** Less consumption, not infinite growth. Not everything has to be monetized. And so what needs to be done is a new economic system. This is not a technology problem. It's not even a political problem, it's an economic problem. Value system.
 
@@ -800,7 +810,7 @@ And their business model is very good and fair on top of that. So they're actual
 
 So we also have to not only change what we make and do, but we have to change the business models that we're using as we go on this journey.
 
-**[[Kris Krüg]]:** Okay, let's talk about changing business models for a second. So, **what role do we wanna play in the AI economy here in British Columbia?**
+**Kris Krüg:** Okay, let's talk about changing business models for a second. So, **what role do we wanna play in the AI economy here in British Columbia?**
 
 Do we wanna buy our tokens from San Francisco? Do we wanna produce our tokens in hydro powered indigenous owned data centers in British Columbia? Do we wanna buy LNG powered tokens from Alberta?
 
@@ -812,7 +822,7 @@ So maybe twinning those things. We will then find what our secret sauce is, as t
 
 ### Closing Statements
 
-**[[Kris Krüg]]:** How do we use the most insane God-like technology that we have to help us change our own behavior so we become better humans at the same time as using less materials, taking less pictures, using less data, designing better algorithms? How do we do it?
+**Kris Krüg:** How do we use the most insane God-like technology that we have to help us change our own behavior so we become better humans at the same time as using less materials, taking less pictures, using less data, designing better algorithms? How do we do it?
 
 I wanna present that as like a last comment from everybody, kind of like 30 seconds. His question is the same as everyone's in the room.
 
@@ -836,7 +846,7 @@ And it's an intersectional issue. And we're getting so pulled into these portals
 
 And I wanna say **let's reinvigorate and not forget the movement, the human based movement to protect this place.**
 
-**[[Kevin Friel]]:** I think there's a really interesting opportunity in a storytelling sense in that these tools are here. There's no way to get around them at the moment. Like it's just here. It's a paradigm that's pervasive.
+**Kevin Friel:** I think there's a really interesting opportunity in a storytelling sense in that these tools are here. There's no way to get around them at the moment. Like it's just here. It's a paradigm that's pervasive.
 
 **There's something very punk rock about having something that's staring you in the face and using that tool in and of itself to tell the stories, to create the change.**
 
@@ -858,7 +868,7 @@ Thank you all so much.
 
 ## Closing
 
-**[[Kris Krüg]]:** I actually believe in us. I believe in us a lot because we're having these types of conversations, right? Like this is a bunch of different people who don't exactly all think the same way.
+**Kris Krüg:** I actually believe in us. I believe in us a lot because we're having these types of conversations, right? Like this is a bunch of different people who don't exactly all think the same way.
 
 Amanda, thank you for being on your first panel and first talk ever for sharing your story. And Kay, thanks for getting more people involved. Catherine, great vision to bring all this together. You broke through my no panels policy.
 

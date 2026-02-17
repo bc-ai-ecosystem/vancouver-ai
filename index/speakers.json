@@ -1,0 +1,398 @@
+[
+  {
+    "name": "Kris Krüg",
+    "meetups": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "mention_count": 22
+  },
+  {
+    "name": "Kevin Friel",
+    "meetups": [
+      13,
+      14,
+      16,
+      17,
+      20,
+      22,
+      23,
+      24
+    ],
+    "mention_count": 15
+  },
+  {
+    "name": "Matthew Schwartzman",
+    "meetups": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      20,
+      21,
+      22,
+      24
+    ],
+    "mention_count": 15
+  },
+  {
+    "name": "Dimitri Schwartzman",
+    "meetups": [
+      13,
+      14,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "mention_count": 11
+  },
+  {
+    "name": "Dean Shev",
+    "meetups": [
+      14,
+      16,
+      17,
+      20,
+      21
+    ],
+    "mention_count": 9
+  },
+  {
+    "name": "Loki Jorgenson",
+    "meetups": [
+      13,
+      14,
+      15,
+      21,
+      23
+    ],
+    "mention_count": 9
+  },
+  {
+    "name": "Philippe Pasquier",
+    "meetups": [
+      13,
+      15,
+      22,
+      24
+    ],
+    "mention_count": 9
+  },
+  {
+    "name": "Carol Ann Hilton",
+    "meetups": [
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "mention_count": 8
+  },
+  {
+    "name": "Lorraine Lowe",
+    "meetups": [
+      13,
+      18,
+      19,
+      20,
+      24
+    ],
+    "mention_count": 8
+  },
+  {
+    "name": "Michael Tippett",
+    "meetups": [
+      14,
+      15,
+      22,
+      24
+    ],
+    "mention_count": 7
+  },
+  {
+    "name": "jonny williams",
+    "meetups": [
+      14,
+      16,
+      19,
+      21,
+      22
+    ],
+    "mention_count": 7
+  },
+  {
+    "name": "Carol Anne Hilton",
+    "meetups": [
+      17,
+      20,
+      24
+    ],
+    "mention_count": 6
+  },
+  {
+    "name": "Matt Sinclair",
+    "meetups": [
+      18,
+      19,
+      21
+    ],
+    "mention_count": 5
+  },
+  {
+    "name": "♾️ sev geraskin",
+    "meetups": [
+      16,
+      18,
+      20
+    ],
+    "mention_count": 5
+  },
+  {
+    "name": "Noah Brunn",
+    "meetups": [
+      17,
+      18,
+      19
+    ],
+    "mention_count": 4
+  },
+  {
+    "name": "Ron Segev",
+    "meetups": [
+      13,
+      17
+    ],
+    "mention_count": 3
+  },
+  {
+    "name": "Brett Henderson",
+    "meetups": [
+      20
+    ],
+    "mention_count": 2
+  },
+  {
+    "name": "Darby Yule",
+    "meetups": [
+      22
+    ],
+    "mention_count": 2
+  },
+  {
+    "name": "David Weng",
+    "meetups": [
+      23
+    ],
+    "mention_count": 2
+  },
+  {
+    "name": "Gabriel Zaro",
+    "meetups": [
+      21
+    ],
+    "mention_count": 2
+  },
+  {
+    "name": "Jeff Clark",
+    "meetups": [
+      13
+    ],
+    "mention_count": 2
+  },
+  {
+    "name": "Kate Armstrong",
+    "meetups": [
+      14,
+      24
+    ],
+    "mention_count": 2
+  },
+  {
+    "name": "Mark Busse",
+    "meetups": [
+      17,
+      20
+    ],
+    "mention_count": 2
+  },
+  {
+    "name": "Michael Fergusson",
+    "meetups": [],
+    "mention_count": 2
+  },
+  {
+    "name": "Morten Rand-Hendriksen",
+    "meetups": [
+      18
+    ],
+    "mention_count": 2
+  },
+  {
+    "name": "Nicole Donnelly",
+    "meetups": [
+      13
+    ],
+    "mention_count": 2
+  },
+  {
+    "name": "Peter Bowles",
+    "meetups": [
+      19
+    ],
+    "mention_count": 2
+  },
+  {
+    "name": "Alex Tapscott",
+    "meetups": [
+      15
+    ],
+    "mention_count": 1
+  },
+  {
+    "name": "Aliza Schwartzman",
+    "meetups": [
+      18
+    ],
+    "mention_count": 1
+  },
+  {
+    "name": "Andrea Mills",
+    "meetups": [
+      24
+    ],
+    "mention_count": 1
+  },
+  {
+    "name": "Brittney Smaila",
+    "meetups": [
+      13
+    ],
+    "mention_count": 1
+  },
+  {
+    "name": "Darren Nicholls",
+    "meetups": [
+      20
+    ],
+    "mention_count": 1
+  },
+  {
+    "name": "David Monteyne",
+    "meetups": [
+      17
+    ],
+    "mention_count": 1
+  },
+  {
+    "name": "Gokhan Basaran",
+    "meetups": [
+      24
+    ],
+    "mention_count": 1
+  },
+  {
+    "name": "Gordon Hamilton",
+    "meetups": [
+      24
+    ],
+    "mention_count": 1
+  },
+  {
+    "name": "Jackson Wu Shyang",
+    "meetups": [
+      14
+    ],
+    "mention_count": 1
+  },
+  {
+    "name": "Jos Duncan Asé",
+    "meetups": [
+      20
+    ],
+    "mention_count": 1
+  },
+  {
+    "name": "Julia Morton",
+    "meetups": [
+      15
+    ],
+    "mention_count": 1
+  },
+  {
+    "name": "Kemp Edmonds",
+    "meetups": [
+      18
+    ],
+    "mention_count": 1
+  },
+  {
+    "name": "Marc Busse",
+    "meetups": [
+      24
+    ],
+    "mention_count": 1
+  },
+  {
+    "name": "Michael Unger",
+    "meetups": [
+      13
+    ],
+    "mention_count": 1
+  },
+  {
+    "name": "Mirjana Prpa",
+    "meetups": [
+      13
+    ],
+    "mention_count": 1
+  },
+  {
+    "name": "Prajwal Prashanth",
+    "meetups": [],
+    "mention_count": 1
+  },
+  {
+    "name": "Simon Haworth",
+    "meetups": [
+      24
+    ],
+    "mention_count": 1
+  },
+  {
+    "name": "Steven Jones",
+    "meetups": [
+      16
+    ],
+    "mention_count": 1
+  },
+  {
+    "name": "Taylor Shift",
+    "meetups": [
+      21
+    ],
+    "mention_count": 1
+  },
+  {
+    "name": "Udbhav Kansal",
+    "meetups": [
+      24
+    ],
+    "mention_count": 1
+  }
+]

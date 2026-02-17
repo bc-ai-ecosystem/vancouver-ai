@@ -1,3 +1,11 @@
+---
+title: "Vancouver AI Community Special Event - "The Thinking Game" Film Screening Recap"
+date: 2024-10-01
+type: recap
+venue: "MacMillan Space Centre, Vancouver, BC"
+speakers: ["Kris Kr\u00fcg", "Michael Fergusson"]
+tags: ["meetup", "recap", "vancouver-ai"]
+---
 # Vancouver AI Community Special Event - "The Thinking Game" Film Screening Recap
 ## Consciousness, Ethics, and the Future of AI
 
@@ -5,7 +13,7 @@
 **Date:** October 2024
 **Location:** MacMillan Space Centre, Vancouver, BC
 **Format:** Joint Event (Vancouver AI Salon + Vancouver AI Community)
-**Hosts:** Mikhail & [[Kris Krüg]]
+**Hosts:** Mikhail & Kris Krüg
 
 ---
 
@@ -85,7 +93,7 @@ Bringing drug discovery perspective with extensive research background:
 
 ## 💬 Audience Engagement Highlights
 
-### **[[Michael Fergusson]] - P(doom): 100%**
+### **Michael Fergusson - P(doom): 100%**
 **"We've Already Ruined Society"**
 
 Passionate intervention arguing that:
@@ -198,7 +206,7 @@ Suzanne's insight into AI safety incentives:
 ### **The Abstraction Problem**
 **Human Cognition vs. AI "Accuracy"**
 
-[[Michael Fergusson]]'s profound challenge to AI development assumptions:
+Michael Fergusson's profound challenge to AI development assumptions:
 - Humans require "inaccurate" abstractions to function (UI metaphors, cognitive shortcuts)
 - AI trained on "accurate" world models incompatible with human cognition
 - Evolution designed us for survival, not truth
@@ -220,7 +228,7 @@ Juan's "Purpose Game" as consciousness test:
 - **Jason Rolfe:** <5% (depends on "doom" definition, optimistic about substrate independence)
 - **Niels:** 5% (enjoyed sunset, feeling optimistic)
 - **Kai:** 44% (data bias concerns, systematic inequity)
-- **[[Michael Fergusson]]:** 100% (society already damaged by simple algorithms)
+- **Michael Fergusson:** 100% (society already damaged by simple algorithms)
 
 **Pattern:** Technical experts more optimistic; social/ethical observers more concerned.
 

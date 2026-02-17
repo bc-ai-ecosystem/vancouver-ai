@@ -1,3 +1,12 @@
+---
+title: "Vancouver AI Community Meetup #17 - Recap"
+date: 2025-05-01
+meetup_number: 17
+type: recap
+venue: "MacMillan Space Centre, Vancouver"
+speakers: ["Carol Ann Hilton", "Dean Shev", "Kevin Friel", "Noah Brunn"]
+tags: ["meetup", "recap", "vancouver-ai"]
+---
 # Vancouver AI Community Meetup #17 - Recap
 **Date:** May 2024  
 **Location:** MacMillan Space Centre, Vancouver  
@@ -21,7 +30,7 @@ The 17th Vancouver AI Community meetup was a special "Web Summit Edition" that s
 - **Global perspective** on AI adoption and community building from international business leaders
 
 ### 🎬 **Hollywood-Quality AI Video Innovation**  
-- **[[Kevin Friel]]** stunning alien interview video created in 2.5 days using VO3, Runway, and ElevenLabs
+- **Kevin Friel** stunning alien interview video created in 2.5 days using VO3, Runway, and ElevenLabs
 - **Cost comparison:** $200 vs. $100K traditional production, 2.5 days vs. 3 months
 - **Professional-grade results** demonstrating dramatic democratization of video production
 
@@ -31,7 +40,7 @@ The 17th Vancouver AI Community meetup was a special "Web Summit Edition" that s
 - **Critical analysis** of how private companies captured public knowledge commons
 
 ### 🏛️ **Indigenous AI Platform Launch**
-- **[[Carol Ann Hilton]]** Indigenomics AI engine presentation
+- **Carol Ann Hilton** Indigenomics AI engine presentation
 - **$200B indigenous economy** analysis using AI to uncover unaccounted economic value
 - **Revolutionary approach** to economic measurement beyond GDP using indigenous values
 
@@ -73,7 +82,7 @@ The 17th Vancouver AI Community meetup was a special "Web Summit Edition" that s
 - **Key Insight:** "80, 90% of companies are saying that they're building with AI... it's really up to us to be able to articulate and explain what makes us special"
 - **Community Value:** "It starts with community, it starts with empathy. It starts with us helping each other, boosting each other"
 
-**[[Dean Shev]] (Virtual Health Technology):**
+**Dean Shev (Virtual Health Technology):**
 - **Product:** "Edna" - AI health assistant with comprehensive personal health data integration
 - **Capabilities:** Knows "everything about your health, everything, your vital signs, your past history, your family history, your DNA"
 - **Use Case:** Real-time supplement and health decision recommendations based on personal medical profile
@@ -100,7 +109,7 @@ The 17th Vancouver AI Community meetup was a special "Web Summit Edition" that s
 
 ## AI Video Production Revolution
 
-### [[Kevin Friel]] Technical Breakthrough
+### Kevin Friel Technical Breakthrough
 
 **Project:** Alien interview news broadcast created entirely with AI
 
@@ -170,7 +179,7 @@ Most valuable information now in videos, images, and audio formats that resist t
 
 ## Indigenous Economic Innovation
 
-### [[Carol Ann Hilton]] Indigenomics AI Platform
+### Carol Ann Hilton Indigenomics AI Platform
 
 **Philosophical Foundation:** "Economy as ceremony... about how we as human beings learn to interact of our presence, of our leadership, and of impact across time."
 
@@ -351,7 +360,7 @@ Multiple presentations showcasing sophisticated AI integration:
 
 **Educational Integration:** Professor Ia launching EDU Educators + AI subgroup with University Canada West institutional support.
 
-**Corporate Penetration:** [[Noah Brunn]] (Arturs) implementing enterprise AI change management based on community learnings.
+**Corporate Penetration:** Noah Brunn (Arturs) implementing enterprise AI change management based on community learnings.
 
 ### Financial Sustainability Metrics
 - **Core Membership:** 55 annual members providing organizational runway
@@ -370,7 +379,7 @@ Multiple presentations showcasing sophisticated AI integration:
 ### Indigenous Leadership Continuity
 **Gabriel George's Political Campaign:** Using community-developed AI tools for nation council campaign, representing practical application of indigenous technology leadership.
 
-**Ceremonial Governance:** [[Carol Ann Hilton]] board membership contingent on continued ceremonial openings, ensuring cultural integration remains structural rather than performative.
+**Ceremonial Governance:** Carol Ann Hilton board membership contingent on continued ceremonial openings, ensuring cultural integration remains structural rather than performative.
 
 ### Values-Based Business Development
 VPO's presentation demonstrating how traditional indigenous concepts like "soul-to-soul connection" can inform global business practices and AI development philosophy.
@@ -476,11 +485,11 @@ Kush's passionate defense of information freedom representing community commitme
 
 **VPO Zel:** "We are not attached to the revenue only it's in our blood... That connectivity in every sphere of life is very important."
 
-**[[Kevin Friel]]:** "If you thought union rates were bad, try and hire a union alien. It is out of this world."
+**Kevin Friel:** "If you thought union rates were bad, try and hire a union alien. It is out of this world."
 
 **Kush:** "My job is to say this is fucked, burn it down and then your guys' job is to find the solution."
 
-**[[Carol Ann Hilton]]:** "Economy as ceremony... How do we build a system that reflects our humanity, but brings that to our core values of who we are and how we relate to each other, to the land, to our future."
+**Carol Ann Hilton:** "Economy as ceremony... How do we build a system that reflects our humanity, but brings that to our core values of who we are and how we relate to each other, to the land, to our future."
 
 **James McKenzie:** "I walked out of what I thought Vancouver was into what Vancouver could be."
 

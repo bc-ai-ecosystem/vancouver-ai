@@ -1,3 +1,13 @@
+---
+title: "Vancouver AI Community Meetup #18 - Recap"
+date: 2024-06-01
+meetup_number: 18
+type: recap
+venue: "MacMillan Space Centre, Vancouver"
+speakers: ["Carol Ann Hilton", "Lorraine Lowe", "Matt Sinclair", "Morten Rand-Hendriksen", "Noah Brunn"]
+attendance: 225
+tags: ["meetup", "recap", "vancouver-ai"]
+---
 # Vancouver AI Community Meetup #18 - Recap
 **Date:** June 2024  
 **Location:** MacMillan Space Centre, Vancouver  
@@ -20,10 +30,10 @@ The 18th Vancouver AI Community Meetup marked a significant milestone in communi
 - BBQ equipment to be amortized over next three meetups, creating ongoing tradition
 
 ### 🚨 Major Security Warning
-[[Morten Rand-Hendriksen]] delivered a comprehensive technical keynote on Model Context Protocol (MCP), describing it as "very exciting and very terrifying" - essentially warning that the AI industry has created a massively insecure way for AI agents to control any system with an API, with minimal oversight or security controls.
+Morten Rand-Hendriksen delivered a comprehensive technical keynote on Model Context Protocol (MCP), describing it as "very exciting and very terrifying" - essentially warning that the AI industry has created a massively insecure way for AI agents to control any system with an API, with minimal oversight or security controls.
 
 ### 🏛️ Governance Maturation  
-BC + AI Industry Association gaining formal structure with new board members including [[Carol Ann Hilton]] (Indigenomics Institute) and [[Lorraine Lowe]] (Space Center Executive Director).
+BC + AI Industry Association gaining formal structure with new board members including Carol Ann Hilton (Indigenomics Institute) and Lorraine Lowe (Space Center Executive Director).
 
 ---
 
@@ -60,13 +70,13 @@ Major tech companies (Microsoft, Google, Amazon) scrambling to add security laye
 **Liam Edmonds (age 12):** Presented his project of blogging dreams and turning them into games using AI for coding assistance. Represents the community's appeal across age groups and genuine technical participation by youth.
 
 ### Corporate Change Management
-**[[Noah Brunn]] (Arturs):** Leading enterprise AI adoption with focus on responsible implementation, addressing both enthusiasm and fear in professional environments.
+**Noah Brunn (Arturs):** Leading enterprise AI adoption with focus on responsible implementation, addressing both enthusiasm and fear in professional environments.
 
 ---
 
 ## Hackathon Winners: "What Does It Mean to Be Canadian?"
 
-### Winner: [[Matt Sinclair]] - Canadian Identity Simulator
+### Winner: Matt Sinclair - Canadian Identity Simulator
 Interactive 3D environment where users can walk around and have conversations with AI personas generated from survey data of 1,000 Canadians. Each character represents authentic Canadian perspectives on identity, allowing users to explore difficult political and identity conversations in a safe AI-mediated space.
 
 **Innovation:** Probabilistic character generation system mathematically derived from survey responses. Built in Unity using "vibe coding" by someone with film background and no coding experience.
@@ -85,7 +95,7 @@ Built ComfyUI interface that converts any dataset into infinite graphic novel st
 Rather than one-off token acknowledgments, Gabriel has become integral community member sharing different songs and stories each month. His eagle song and teachings about interconnectedness provide spiritual grounding for technical discussions.
 
 ### Board Integration
-[[Carol Ann Hilton]]'s joining the BC + AI board contingent on continuing ceremonial openings demonstrates authentic integration rather than performative inclusion.
+Carol Ann Hilton's joining the BC + AI board contingent on continuing ceremonial openings demonstrates authentic integration rather than performative inclusion.
 
 ### Cultural Philosophy
 Gabriel's teachings about vast networks of connection and ceremony directly parallel technical discussions about AI networks and protocols, creating meaningful bridge between indigenous wisdom and modern technology.
@@ -95,7 +105,7 @@ Gabriel's teachings about vast networks of connection and ceremony directly para
 ## Venue Partnership Evolution
 
 ### Space Center Relationship
-Nine-month partnership has evolved from restrictive rules (no food/drink) to full trust and collaboration. [[Lorraine Lowe]], Executive Director, now wants AI workshops for staff and policy development.
+Nine-month partnership has evolved from restrictive rules (no food/drink) to full trust and collaboration. Lorraine Lowe, Executive Director, now wants AI workshops for staff and policy development.
 
 **Upcoming:** Space center seeking AI integration for science education and operations.
 
@@ -168,11 +178,11 @@ Physical cooking, venue care, geographic accessibility, financial accessibility 
 
 **Gabriel George:** "We need to be connected to one another and the importance of that and not to be siloed... using these tools, these new tools, these modern tools, and using this beautiful community."
 
-**[[Morten Rand-Hendriksen]]:** "Don't trust the user, don't trust the AI. Trust your humanity instead... Build the future. That is literally the job right now."
+**Morten Rand-Hendriksen:** "Don't trust the user, don't trust the AI. Trust your humanity instead... Build the future. That is literally the job right now."
 
 **James Lester:** "The commonality of success is just people who don't give up... even if it is a bad idea, there still might be something great in there, a seed of something."
 
-**[[Matt Sinclair]]:** "Those conversations that are about identity and about politics are very difficult to have in real life. And so there's this opportunity maybe through AI to expose difficult ideas and sensitive thoughts to AI in a way that I couldn't to other people."
+**Matt Sinclair:** "Those conversations that are about identity and about politics are very difficult to have in real life. And so there's this opportunity maybe through AI to expose difficult ideas and sensitive thoughts to AI in a way that I couldn't to other people."
 
 ---
 

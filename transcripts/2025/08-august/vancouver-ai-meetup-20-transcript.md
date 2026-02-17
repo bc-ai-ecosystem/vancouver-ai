@@ -1,3 +1,13 @@
+---
+title: "Vancouver AI Community Meetup #20 - Verbatim Transcript"
+date: 2025-08-26
+meetup_number: 20
+type: transcript
+venue: "McMillan Space Centre (Planetarium), Vancouver"
+speakers: ["Brett Henderson", "Carol Ann Hilton", "Carol Anne Hilton", "Darren Nicholls", "Dean Shev", "Dimitri Schwartzman", "Jos Duncan As\u00e9", "Kevin Friel", "Lorraine Lowe", "Mark Busse"]
+attendance: 250
+tags: ["meetup", "transcript", "vancouver-ai"]
+---
 # Vancouver AI Community Meetup #20 - Verbatim Transcript
 **Date:** August 26, 2025  
 **Location:** McMillan Space Centre (Planetarium), Vancouver  
@@ -18,7 +28,7 @@ So I got to coach it. And Joss is the other co collab lead. It's so cool. We all
 
 This is a nonprofit dedicated to AI adoption and learning and all sorts of sectors in the creative industries and education and government. And so it represents the container to hold all the cool things, the sub events. You guys have been running the hackathons, we've been doing all, all the interesting stuff.
 
-So I'll tell you a little bit more about that.  But first, uh, to welcome us here tonight, we got a couple special guests. Gabriel George, you might know is gonna, um, kick us off first. And then [[Carol Anne Hilton]] from the Indi Genomics Institute is gonna say a few words as well. So  yes, one, yes. Wanda. Yes, Wanda. 
+So I'll tell you a little bit more about that.  But first, uh, to welcome us here tonight, we got a couple special guests. Gabriel George, you might know is gonna, um, kick us off first. And then Carol Anne Hilton from the Indi Genomics Institute is gonna say a few words as well. So  yes, one, yes. Wanda. Yes, Wanda. 
 
 Okay. Okay.  Come on up.  Come on up. One sec. Gabe, you come too. But my mom, I gotta introduce my mom real quick.  And my dad. And my dad. Of course. Look, you guys come as a pair. So I just figured if I said mom, that meant both. Uh, this is Debbie Krug, my mom. She was a lifetime educator. My dad, he's a agricultural economist with the state of California. 
 
@@ -82,9 +92,9 @@ And it's in that prescription of knowing what we're responding to and the freedo
 
 He came. All that smart.  Amazing, big respect. Thank you for bringing everyone together in a beautiful, creative, powerful way. 
 
-I can tell we're gonna run long. So I'm gonna sample little bits out of the keynote. I'm probably gonna have to cancel again to let you know that [[Carol Ann Hilton]] is one of the board members of the newly found BCAI Ecosystem Industry Association, this nonprofit that's bringing us all together. Thank you for carolann for trusting me, and I'm excited to be in this canoe with you.
+I can tell we're gonna run long. So I'm gonna sample little bits out of the keynote. I'm probably gonna have to cancel again to let you know that Carol Ann Hilton is one of the board members of the newly found BCAI Ecosystem Industry Association, this nonprofit that's bringing us all together. Thank you for carolann for trusting me, and I'm excited to be in this canoe with you.
 
-So here we go. All right. Up next, we got, as I said, [[Jos Duncan Asé]] from Philadelphia, who I work with through the Blue Engine Collaborative Program for the Google News Initiative. We're, uh, we're teaching a bunch of journalists about AI and we're helping them with their projects and stuff, but, um, that's how we've gotten to know each other and made a strong connection.
+So here we go. All right. Up next, we got, as I said, Jos Duncan Asé from Philadelphia, who I work with through the Blue Engine Collaborative Program for the Google News Initiative. We're, uh, we're teaching a bunch of journalists about AI and we're helping them with their projects and stuff, but, um, that's how we've gotten to know each other and made a strong connection.
 
 But Joss, I really respect as an activist and as a leader in her community, uh, media personality. Come on up here, Joss. 
 
@@ -460,7 +470,7 @@ The rival team come up.  Um, we had a bunch of amazing projects. We asked a whol
 
 Come on up, you guys. Let's hang out in the front.  Andrew, Julia, introduce yourself, bro. 
 
-[[Brett Henderson]]. 
+Brett Henderson. 
 
 Let what's up. Tell us about what you, what you do at Reach three and Rival. 
 
@@ -578,7 +588,7 @@ Then all of a sudden he could win the third one too. Probably. We got in a fight
 
 Sev, you come up, talk and uh, get your big check.  
 
-Hey folks, I'm [[♾️ sev geraskin]] from Barx Bunny team together with my partner April ai. And in a few minutes I'll show you the paradigm shift the data interfaces with true realtime intelligence on data.  What you see is an interface that makes data sets feel like interactive stories.
+Hey folks, I'm ♾️ sev geraskin from Barx Bunny team together with my partner April ai. And in a few minutes I'll show you the paradigm shift the data interfaces with true realtime intelligence on data.  What you see is an interface that makes data sets feel like interactive stories.
 
 Imagine you're a BC policy maker, and tomorrow you get to decide whether to invest $2 million in AI training. You have 1001 survey responses and three options. Option one is to read a 200 page PDF. Option two is to sta a static charts, or you can let  and pick option three to let an intelligent interface guide you through the data we built.
 
@@ -660,9 +670,9 @@ Thanks brother. Congratulations.
 
 Thanks for making my life so fucking hard, dude. Thank  you so much. Love you, bro.  Okay. Um, when we first invented this competition, this data storytelling competition, we weren't really sure where it was gonna go. And, um, you know, we've had a lot of performers who use AI show up here. A lot of musicians, artists, and different things.
 
-And so, uh, tonight's winner represents a much different direction than all our other winners have had. Uh, I'm just gonna go ahead and tell you, this guy [[Dean Shev]] right here, he looks like a handsome hospital business analyst. The dude is a fucking ingenious artist. He dropped an album on our asses, built from the data set, representing the voices of like 15 different people in this room.
+And so, uh, tonight's winner represents a much different direction than all our other winners have had. Uh, I'm just gonna go ahead and tell you, this guy Dean Shev right here, he looks like a handsome hospital business analyst. The dude is a fucking ingenious artist. He dropped an album on our asses, built from the data set, representing the voices of like 15 different people in this room.
 
-Like actual people, like  Professor P has a song. [[Kevin Friel]] has a song. [[Carol Ann Hilton]] has a song. Gabriel George has a song like a bunch of you got, um, I don't know, deified, um,  I don't even know. Um, your project was amazing, dude. Where we're at right now, again, I told you I'm gonna cancel my keynote that I'm gonna give and sample little bits out of it where we're at right now, launching this whole nonprofit thing and stuff, bro, the songs that you generated and the care that you took, he's been working on this. 
+Like actual people, like  Professor P has a song. Kevin Friel has a song. Carol Ann Hilton has a song. Gabriel George has a song like a bunch of you got, um, I don't know, deified, um,  I don't even know. Um, your project was amazing, dude. Where we're at right now, again, I told you I'm gonna cancel my keynote that I'm gonna give and sample little bits out of it where we're at right now, launching this whole nonprofit thing and stuff, bro, the songs that you generated and the care that you took, he's been working on this. 
 
 I don't know, it seems like 37 hours a day for two weeks or something like that. It's just bonkers, man. Every single day he drops a couple songs. All of his friends are like, did get Dean's songs again today. Like, dude, your shit's ridiculous. It's so good. It sounds like, um,  generative audio in general lacks soul, but when you mix it up with kind of like what we got going on here, like the stories people, so he took like the transcripts from the stage mixed with the data set that Andrew gave us and he like tried to tell the stories of British Colombians around AI in songs and music.
 
@@ -822,13 +832,13 @@ We gotta talk about our homies.  These are the peeps that make it happen. These 
 
 This time we brought in 5,500.  These are the people that help us kind of get past the line.  Dmitri Sege. 
 
-Dmitri Sege. Sorry guys. I'm tired. [[Dimitri Schwartzman]] and is a realtor who's a father of many of the people in this room. 
+Dmitri Sege. Sorry guys. I'm tired. Dimitri Schwartzman and is a realtor who's a father of many of the people in this room. 
 
 He's got an amazing family and a lot of them are showing up here tonight. Um, Ron and Alon, Sev, our two brothers that run a really cool law firm, they give us 500 bucks a month to kind of keep the doors open.  Rival, you've seen what they've done. They dropped 10,000 on our community this year. They're dropping at least 20,000 on our community next year,  the upgrade that's Peter and I, we're just trying to get people like upgraded and upskilled along the way, and Peter is open to 30% off.
 
-Thank you brother.  Uh, VHD.  Thanks guys for buying like the 10 pack right out the gate of tickets, you know, or whatever to the whole VCAI thing.  [[Darren Nicholls]]. [[Dean Shev]], thank you for your support.  [[Mark Busse]] created mornings. Jessica Liang, nook. That's a cool coworking space you get to go to if you feel like it. 
+Thank you brother.  Uh, VHD.  Thanks guys for buying like the 10 pack right out the gate of tickets, you know, or whatever to the whole VCAI thing.  Darren Nicholls. Dean Shev, thank you for your support.  Mark Busse created mornings. Jessica Liang, nook. That's a cool coworking space you get to go to if you feel like it. 
 
-[[Lorraine Lowe]], Lucy Michael Space Center. Hey, I got a request right now that we clean up our shit after us and you clean up after your neighbor too, even if it ain't yours. Like I said, we get to hang out here and, um, partake and no one's, uh, uh, giving us pressure about nothing. So let's leave this place better than we found it. 
+Lorraine Lowe, Lucy Michael Space Center. Hey, I got a request right now that we clean up our shit after us and you clean up after your neighbor too, even if it ain't yours. Like I said, we get to hang out here and, um, partake and no one's, uh, uh, giving us pressure about nothing. So let's leave this place better than we found it. 
 
 And Flik,  who was right there, but had to go meta creation lab guy's. Been running a creative AI lab in Surrey for almost 20 years at Sea O in, um, in Surrey. Amazing partner in lots of ways.  Ah, these are our peeps.  Are you here?  You Yeah, bro.  Um, UDA has a small contract right now as my chief of staff also.
 
@@ -840,7 +850,7 @@ Victor  has been here since month two, making videos, laying down the archives, 
 
 Oh, okay. 
 
-Yeah. Um,  actually, uh, [[Matthew Schwartzman]], maybe now's the time for you two.  Um, we got some special interest groups. We got things springing up all around us. That's why we built the whole nonprofit.
+Yeah. Um,  actually, uh, Matthew Schwartzman, maybe now's the time for you two.  Um, we got some special interest groups. We got things springing up all around us. That's why we built the whole nonprofit.
 
 Right. And so I want to just invite Matthew and Anthonia for the moment. Um, riv, thank you for coming too. They get, they're both doing these, uh, AI and education. Sury ai. Keep it brief, y'all.  
 
@@ -888,7 +898,7 @@ You guys are awesome.
 
 I, this is one of the coolest projects going on in Vancouver right now. Thank you, Antonio. Awesome. Yeah. 
 
-Um, speaking of cheating in school, we got,  we got [[Matthew Schwartzman]] up next.  Um,  kid put me on his podcast when he was still in high school. Then we started doing AI stuff together. Then I cheated, then he talked, told me how he took my techniques and fucking corrupted them and used them to cheat. But you've heard that story or you can check it out on the podcast.
+Um, speaking of cheating in school, we got,  we got Matthew Schwartzman up next.  Um,  kid put me on his podcast when he was still in high school. Then we started doing AI stuff together. Then I cheated, then he talked, told me how he took my techniques and fucking corrupted them and used them to cheat. But you've heard that story or you can check it out on the podcast.
 
 So just give us a little hype about Surrey and tell us what's up. What's up riv? 
 

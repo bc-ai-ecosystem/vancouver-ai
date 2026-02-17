@@ -1,3 +1,13 @@
+---
+title: "Vancouver AI Community Meetup #16 - Recap"
+date: 2024-04-01
+meetup_number: 16
+type: recap
+venue: "MacMillan Space Centre, Vancouver"
+speakers: ["Dimitri Schwartzman", "Kevin Friel", "Kris Kr\u00fcg", "Matthew Schwartzman", "\u267e\ufe0f sev geraskin"]
+attendance: 200
+tags: ["meetup", "recap", "vancouver-ai"]
+---
 # Vancouver AI Community Meetup #16 - Recap
 **Date:** April 2024  
 **Location:** MacMillan Space Centre, Vancouver  
@@ -20,7 +30,7 @@ The 16th Vancouver AI Community meetup marked a significant pivot toward communi
 - **Vancouver premiere:** First live AI-assisted musical performance in the community
 
 ### 🏆 **Inaugural Data Storytelling Hackathon**  
-- **$2,500 prize awarded** to [[♾️ sev geraskin]] for "Orchestrator" platform
+- **$2,500 prize awarded** to ♾️ sev geraskin for "Orchestrator" platform
 - **12 total submissions** from 60 registrants on "Is a hot dog a sandwich?" dataset
 - **Creative innovation:** Projects ranged from interactive data visualizations to comic book narratives
 
@@ -38,7 +48,7 @@ The 16th Vancouver AI Community meetup marked a significant pivot toward communi
 
 ## Technical Innovation Showcase
 
-### [[♾️ sev geraskin]]'s "Orchestrator" Platform - $2,500 Winner
+### ♾️ sev geraskin's "Orchestrator" Platform - $2,500 Winner
 
 **Technical Architecture:** Multi-agent system with three specialized components:
 - **Quantitative Analysis Agent:** Statistical data processing and pattern recognition
@@ -205,7 +215,7 @@ The 16th Vancouver AI Community meetup marked a significant pivot toward communi
 
 **Michelle Diamond:** Professional photography creating permanent visual record.
 
-**[[Kevin Friel]]:** YouTube channel development with high-end keynote recording and editing.
+**Kevin Friel:** YouTube channel development with high-end keynote recording and editing.
 
 **Victor:** Monthly video documentation and community spotlights (6th completed, 5 more in production).
 
@@ -225,7 +235,7 @@ The 16th Vancouver AI Community meetup marked a significant pivot toward communi
 
 ### Surrey AI Meetup Success
 
-**Leadership:** Riv and [[Matthew Schwartzman]] running independent monthly events.
+**Leadership:** Riv and Matthew Schwartzman running independent monthly events.
 
 **Format Innovation:** 
 - Circle time allowing everyone to participate vs. stage presentation format
@@ -304,7 +314,7 @@ The 16th Vancouver AI Community meetup marked a significant pivot toward communi
 
 **Segev Law Firm:** Monthly financial support for IP/crypto specialization.
 
-**[[Dimitri Schwartzman]]:** Real estate industry sponsorship and family participation.
+**Dimitri Schwartzman:** Real estate industry sponsorship and family participation.
 
 **Michelle Diamond:** Professional photography services and documentation.
 
@@ -506,9 +516,9 @@ The 16th Vancouver AI Community meetup marked a significant pivot toward communi
 
 **Alan Pike:** "We're at the beginning of a really incredible generation of software and products and experiences... there is so much more to come."
 
-**[[♾️ sev geraskin]]:** "What is the perfect control system for AGI for artificial general intelligence? And we're thinking is it a baton or is it a magic wand?"
+**♾️ sev geraskin:** "What is the perfect control system for AGI for artificial general intelligence? And we're thinking is it a baton or is it a magic wand?"
 
-**[[Kris Krüg]]:** "I wanted to make an event that I really wanted to go to, a chance where I could hear the people that I wanted to hear and see from and just bring together the different disciplines that make up the things that I'm interested in."
+**Kris Krüg:** "I wanted to make an event that I really wanted to go to, a chance where I could hear the people that I wanted to hear and see from and just bring together the different disciplines that make up the things that I'm interested in."
 
 **Swathi:** "Lawyer's job is not to tell the exact representation of the story, but to persuade the story in the way they wanna tell the story, and which is what all data is."
 

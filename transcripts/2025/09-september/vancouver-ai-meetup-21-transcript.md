@@ -1,23 +1,33 @@
+---
+title: "Vancouver AI Community Meetup #21 - Verbatim Transcript"
+date: 2025-09-24
+meetup_number: 21
+type: transcript
+venue: "HR MacMillan Space Centre (Planetarium), Vancouver, BC"
+speakers: ["Carol Ann Hilton", "Dean Shev", "Dimitri Schwartzman", "Gabriel Zaro", "Kris Kr\u00fcg", "Loki Jorgenson", "Matt Sinclair", "Matthew Schwartzman", "jonny williams"]
+attendance: 125
+tags: ["meetup", "transcript", "vancouver-ai"]
+---
 # Vancouver AI Community Meetup #21 - Verbatim Transcript
 
 **Date:** September 24, 2025
 **Location:** HR MacMillan Space Centre (Planetarium), Vancouver, BC
 **Meetup Number:** 21
-**Host:** [[Kris Krüg]]
+**Host:** Kris Krüg
 
 ---
 
 ## Opening
 
-**[[Kris Krüg]]:** Hey, welcome everybody to Vancouver AI meetup number 21. Thank you very much for coming. You are the Vancouver AI community. I'm really excited to see everybody. It's a really big week in AI right now. A lot of people have been talking about it. There's UBC's Immersion Week going on. There was a Vancouver Entrepreneur Forum AI event going on this week. 125 people from our BC AI community are in Montreal right now. There's a big sovereign AI Canadian conference going on with Minister Evan Solomon and Minister Rick Mack.
+**Kris Krüg:** Hey, welcome everybody to Vancouver AI meetup number 21. Thank you very much for coming. You are the Vancouver AI community. I'm really excited to see everybody. It's a really big week in AI right now. A lot of people have been talking about it. There's UBC's Immersion Week going on. There was a Vancouver Entrepreneur Forum AI event going on this week. 125 people from our BC AI community are in Montreal right now. There's a big sovereign AI Canadian conference going on with Minister Evan Solomon and Minister Rick Mack.
 
-So there's a lot of stuff going on right now and I really appreciate you guys carving out your time to be here with each other and with me. I love doing this, so thank you very much for being here. I'm excited to kick us off tonight with my buddy [[jonny williams]] from the Squamish Nation.
+So there's a lot of stuff going on right now and I really appreciate you guys carving out your time to be here with each other and with me. I love doing this, so thank you very much for being here. I'm excited to kick us off tonight with my buddy jonny williams from the Squamish Nation.
 
 ---
 
-## Squamish Welcome - [[jonny williams]]
+## Squamish Welcome - jonny williams
 
-**[[jonny williams]]:** [In Squamish language] My name's Jonathan Williams, though my mom's the only one who called me that. Everyone else just called me Johnny. I come from the Squamish reservation, also known as North Yards, in the Squamish Valley. I left at like five twenty and I still didn't get here on time. I got stuck on that bridge traffic for 45 minutes.
+**jonny williams:** [In Squamish language] My name's Jonathan Williams, though my mom's the only one who called me that. Everyone else just called me Johnny. I come from the Squamish reservation, also known as North Yards, in the Squamish Valley. I left at like five twenty and I still didn't get here on time. I got stuck on that bridge traffic for 45 minutes.
 
 I'm a Squamish Nation member. I'm actually running in our nation elections right now. The vote day will be on the 28th. Hopefully I'm elected. We shall see. I said in my heart, I'm a respectful person or I believe to be a respectful person in my heart. I'm grateful for all you guys that are here today. Thanks to Cha, our creator, for the beautiful day.
 
@@ -27,27 +37,27 @@ There was a group of 16 chiefs that went over to England. They paid for the whol
 
 [Song performance]
 
-**[[jonny williams]]:** I first met Kris Krüg when I went on a canoe journey from Squamish all the way to Bella Bella. We canoed for 23 days straight, 600 nautical miles, day after day. Sometimes we'd get in at 11 o'clock at night and leave the first time at 3:00 AM and he was our support boat the whole way.
+**jonny williams:** I first met Kris Krüg when I went on a canoe journey from Squamish all the way to Bella Bella. We canoed for 23 days straight, 600 nautical miles, day after day. Sometimes we'd get in at 11 o'clock at night and leave the first time at 3:00 AM and he was our support boat the whole way.
 
 When he told about the event to my parents, I was interested personally because I used AI in my work. When I was working as a cultural advisor for the rights and title department for the Squamish Nation, I did a lot of document readings. I worked on a lot of different official community plans. They're often 200, 250, maybe 300 pages. I personally only looked at them for the cultural aspect.
 
 I've worked with an AI personally on things that I wrote and information that I put in through Squamish information that I've learned as a cultural advisor. Since I've added the information and corrected it, it made my job a lot easier. It would point me to the places that I have to look at and then things that I should comment on. Now I use AI a lot for my pamphlets and my posters and my presentations for my candidacy. It just comes up a lot more concise than what I'm able to put on the paper.
 
-**[[Kris Krüg]]:** Johnny, your AI story is one of my favorite AI stories of all time. Johnny speaks the Squamish language. He's one of a new group of Squamish speakers that have been trained, but there's just a handful of Squamish speakers left.
+**Kris Krüg:** Johnny, your AI story is one of my favorite AI stories of all time. Johnny speaks the Squamish language. He's one of a new group of Squamish speakers that have been trained, but there's just a handful of Squamish speakers left.
 
-**[[jonny williams]]:** There's about 10 from the old generation. There's like five fully fluent Squamish speakers. Then there's a lot of speakers like myself who speak like adolescent or a child level. So you're able to ask a specific amount of questions and be able to understand a lot, but you don't have a very big vocabulary. After I was part of the first cohort, they've now done four or five cohorts, so there's about 60 or 70 of us now who have come to be speakers.
+**jonny williams:** There's about 10 from the old generation. There's like five fully fluent Squamish speakers. Then there's a lot of speakers like myself who speak like adolescent or a child level. So you're able to ask a specific amount of questions and be able to understand a lot, but you don't have a very big vocabulary. After I was part of the first cohort, they've now done four or five cohorts, so there's about 60 or 70 of us now who have come to be speakers.
 
-**[[Kris Krüg]]:** Check this out. There's five original language fluent speakers. There's 60 new generation speakers and AI allowed him to go from being a document parser to being a cultural advisor. He's like, dude, I can't even find the parts in the PDFs. I'm like one of the only people that speaks the language left on this planet. They want my advice on this thing and I can't even find the parts. So now he drops like 10 PDFs in on Monday, pulls all the paragraphs he needs to consult on, and gets to go about his business being a cultural advisor. Pretty fricking amazing, dude.
+**Kris Krüg:** Check this out. There's five original language fluent speakers. There's 60 new generation speakers and AI allowed him to go from being a document parser to being a cultural advisor. He's like, dude, I can't even find the parts in the PDFs. I'm like one of the only people that speaks the language left on this planet. They want my advice on this thing and I can't even find the parts. So now he drops like 10 PDFs in on Monday, pulls all the paragraphs he needs to consult on, and gets to go about his business being a cultural advisor. Pretty fricking amazing, dude.
 
-**[[jonny williams]]:** One more thing I always forget to mention: what we now call Greater Vancouver, the word in our language is Kamala. What that translates to is the place of lots of maples. Before there was lots of buildings, lots of roads, there was a lot of nature. The way we often choose our words or create our words is describing what is happening in the place. You don't often name things after people or things.
+**jonny williams:** One more thing I always forget to mention: what we now call Greater Vancouver, the word in our language is Kamala. What that translates to is the place of lots of maples. Before there was lots of buildings, lots of roads, there was a lot of nature. The way we often choose our words or create our words is describing what is happening in the place. You don't often name things after people or things.
 
-**[[Kris Krüg]]:** Thank you Johnny. We all spend a lot of time talking about AI alignment, keeping the human in the thing. Us starting off with Johnny sharing a bit of his story and his song and ceremony here is a chance for us to kind of all get on the same page, to put this stuff first as we go down in our geeky rabbit holes and explore this AI stuff.
+**Kris Krüg:** Thank you Johnny. We all spend a lot of time talking about AI alignment, keeping the human in the thing. Us starting off with Johnny sharing a bit of his story and his song and ceremony here is a chance for us to kind of all get on the same page, to put this stuff first as we go down in our geeky rabbit holes and explore this AI stuff.
 
 ---
 
 ## Video Message from Dave Olson (Uncle Weed)
 
-**[[Kris Krüg]]:** There's a whole bunch of people that have been participating in this event from abroad. One of my old mentors and friends, Dave Olson from Japan made us a little video tonight.
+**Kris Krüg:** There's a whole bunch of people that have been participating in this event from abroad. One of my old mentors and friends, Dave Olson from Japan made us a little video tonight.
 
 **Dave Olson (video):** Hello, the Vancouver AI Meetup #21. This is Dave Olsen coming to you from Sita Cottage, Kaama Japan with a friendly greeting. I am very grateful to be able to tap into your conversations, hear all your unique voices, and the freeform flow like some kind of punk rock jam band jazz.
 
@@ -57,13 +67,13 @@ I have participated in many communications revolutions from mimeograph newslette
 
 To those of you I know, it is such a delight to hear so many familiar voices. And to those of you I have yet to meet, I send fond greetings and best wishes. Thank you for the prayers, the pods, and the candor, fondly from Sida Cottage.
 
-**[[Kris Krüg]]:** Listen, AI doesn't have to look like Silicon Valley. It doesn't have to look like Mark Zuckerberg. It does not have to look like Elon Musk. It can look like [[jonny williams]]. It can look like Uncle Weed here. This guy's the biggest archivist I know. He's got 25 years of pods and vlogs and blogs that he's meticulously kept. So he's now applying agents and assistance in a way that has amplified his reach in a super incredible way. I'm offering you tonight a whole bunch of different perspectives on what AI can look like in our world so that we don't all have to do the Silicon Valley Theater.
+**Kris Krüg:** Listen, AI doesn't have to look like Silicon Valley. It doesn't have to look like Mark Zuckerberg. It does not have to look like Elon Musk. It can look like jonny williams. It can look like Uncle Weed here. This guy's the biggest archivist I know. He's got 25 years of pods and vlogs and blogs that he's meticulously kept. So he's now applying agents and assistance in a way that has amplified his reach in a super incredible way. I'm offering you tonight a whole bunch of different perspectives on what AI can look like in our world so that we don't all have to do the Silicon Valley Theater.
 
 ---
 
 ## Data Story Hackathon - Julia and Dale (Rival Technologies)
 
-**[[Kris Krüg]]:** Don't snooze on this. We have given away $7,500 in the last couple months through our hackathon, and we've got another one in the middle right now. It's sponsored by Rival Technologies. [[Dean Shev]] won last month for a really cool album. [[Matt Sinclair]] won the month before for a Canadian identity simulator. Sev Kin won the first month and also got nominated into the Hall of Fame for his AGI data interface thing. I just hired him for a project I work on at the Indi Genomics Institute.
+**Kris Krüg:** Don't snooze on this. We have given away $7,500 in the last couple months through our hackathon, and we've got another one in the middle right now. It's sponsored by Rival Technologies. Dean Shev won last month for a really cool album. Matt Sinclair won the month before for a Canadian identity simulator. Sev Kin won the first month and also got nominated into the Hall of Fame for his AGI data interface thing. I just hired him for a project I work on at the Indi Genomics Institute.
 
 Who's downloaded the data set so far? [About 10 people raise hands] We got a new data set on our GitHub.
 
@@ -71,7 +81,7 @@ Who's downloaded the data set so far? [About 10 people raise hands] We got a new
 
 **Brett:** The sky's the limit, really. Everyone is different. Everyone's looking and interpreting data differently. We all talk different. We all take in information differently. That's what we're looking for—use who you are to interpret what the data is saying. It's representative of Canada, so go for it. Just have fun.
 
-**[[Kris Krüg]]:** If you've never done a hackathon before, this is a really unique opportunity. The very first step is just download the data set and stick it in ChatGPT and be like, "what the fuck is in all these surveys?" Then if it says something back interesting to you, follow it down that rabbit hole. I've developed like 10 or 12 projects based on this data set already.
+**Kris Krüg:** If you've never done a hackathon before, this is a really unique opportunity. The very first step is just download the data set and stick it in ChatGPT and be like, "what the fuck is in all these surveys?" Then if it says something back interesting to you, follow it down that rabbit hole. I've developed like 10 or 12 projects based on this data set already.
 
 Winner gets $2,500 bucks, but all the winner's circle gets taken out for a really fancy dinner. First time Andrew took us to a fancy restaurant. Second time he got his boat out of the yacht club, took us over to Bowen Island. Worst case scenario, you make an awesome project, you get to go out with all the cool kids for dinner.
 
@@ -87,7 +97,7 @@ So it's not fully announced yet. This is the foreshadowing. I tried to get the c
 
 ## Mind, AI & Consciousness (MAC) Group - Danny
 
-**[[Kris Krüg]]:** We got a bunch of people in Montreal right now including our fearless leader of the Mind AI and Consciousness Group, [[Loki Jorgenson]]. But Loki has asked Danny to share a little bit about our MAC group.
+**Kris Krüg:** We got a bunch of people in Montreal right now including our fearless leader of the Mind AI and Consciousness Group, Loki Jorgenson. But Loki has asked Danny to share a little bit about our MAC group.
 
 **Danny:** Hi everyone, my name is Danny. We gather every month to talk about the intersection of consciousness and AI. How can we use this new technology to understand what's happening inside of our heads and in our experience as humans? Sometimes the conversation is more philosophical and sometimes it's more related to new discoveries in science and technology.
 
@@ -97,7 +107,7 @@ That was mind blowing to me. We do these types of conversations. It's great. You
 
 We're about a hundred people now. We gather in groups of 20. There's a WhatsApp group where we share information. We do have to do a lot of reading before each gathering. The next one is on October 16th, and it's about: is AI a philosophical zombie?
 
-**[[Kris Krüg]]:** One of the things I love most about the Mind AI and Consciousness Group is that it stands in stark contrast to what we're doing here, where everyone's welcome, bar's as low as it can be. This group is like, "I'm sorry, sir, have you done your readings?" And then they give you a pop quiz at the door about some existential next level stuff.
+**Kris Krüg:** One of the things I love most about the Mind AI and Consciousness Group is that it stands in stark contrast to what we're doing here, where everyone's welcome, bar's as low as it can be. This group is like, "I'm sorry, sir, have you done your readings?" And then they give you a pop quiz at the door about some existential next level stuff.
 
 I've actually found it a really useful peer accountability group because I can't actually show up unless I've done all the readings and watched all the videos. I'm even working on a personal research paper around aesthetic taste and if we could use aesthetic taste as a way to potentially determine if there is consciousness inside of AIs or not. Because it seems like attraction and understanding for art and beauty is something that is uniquely human. Maybe we could use this as a rubric to test new consciousnesses as we come in contact with them.
 
@@ -107,7 +117,7 @@ I've actually found it a really useful peer accountability group because I can't
 
 **Elena:** Hi everyone. I'm Elena. I'm co-creating an upcoming Vancouver AI meetup with Professor Isam Haddad. It's on October 18. We're hosting a special gathering called "AI Beyond the Algorithm: Power, Psyche, and the Future of Human Agency." We'll be joined by incredible speakers including Kris Krüg and Dr. Philip from SFU. We'll also have a local developer demo how to run LLMs privately. Big emphasis on how to ensure privacy when you're using models.
 
-**[[Kris Krüg]]:** I have so many good things to say about this organization other than their unfortunate name. They are doing amazing learning groups, peer-centered learning. It only costs five bucks to show up. The five bucks is just to make sure that people who indicate they're going actually do show up. But they go deep and Professor Isam shares all sorts of stuff. Him and I share a vision for building a British Columbia Center of Excellence in AI.
+**Kris Krüg:** I have so many good things to say about this organization other than their unfortunate name. They are doing amazing learning groups, peer-centered learning. It only costs five bucks to show up. The five bucks is just to make sure that people who indicate they're going actually do show up. But they go deep and Professor Isam shares all sorts of stuff. Him and I share a vision for building a British Columbia Center of Excellence in AI.
 
 Philippe, who's also speaking with me at that event—a lot of you guys know him. He runs the Meta Creation Lab for Creative AI at the School of Interactive Art and Technology, SFU Surrey. Big contributor here. He was presenting at Ars Electronica a paper that five of us in this room have written: AIA, Leonel, Moham, Philippe and myself. That paper just got second place at Ars Electronica, honorable mention. It's fucking awesome.
 
@@ -122,10 +132,10 @@ Hi friends. My name is Carly Steinman. I am a licensed electrician entrepreneur 
 
 ChatGPT has helped me as an entrepreneur build this pilot and imagine and not only imagine, but actually have the courage to create and do it. Chat's my assistant and I wouldn't be able to execute without that.
 
-**[[Matthew Schwartzman]] - Surrey AI Meetup:**
+**Matthew Schwartzman - Surrey AI Meetup:**
 I run the Surrey AI Community Meetup. We meet in South Surrey. It's a smaller community, so you kind of get to meet everybody. We also have speakers kind of the same as here, but just smaller. Come find me, I'll give you a code for some percent off.
 
-**[[Kris Krüg]]:** This legion has a tiny restaurant in the back with three grandmas that run it. Everything there is homemade including desserts. They had coconut cream pie, lemon freeze thing, three grandma desserts I had never had. They give you a food voucher when you buy a ticket. So half the ticket price goes to a food voucher, you get homemade food. It's really sweet.
+**Kris Krüg:** This legion has a tiny restaurant in the back with three grandmas that run it. Everything there is homemade including desserts. They had coconut cream pie, lemon freeze thing, three grandma desserts I had never had. They give you a food voucher when you buy a ticket. So half the ticket price goes to a food voucher, you get homemade food. It's really sweet.
 
 **Armand - Education + AI Meetup:**
 Hi, I am Armand. This is my third meetup. I went to the education meetup with Anthonia at the Ethos Labs. I gotta tell you, it was so inspiring. The conversation had actionable insights. If you're into education, educating people in any way, whether it's young people or older people, or if you give a fuck about the whole paradigm of education—it was really cutting edge conversation. The next one's happening October 9th.
@@ -138,18 +148,18 @@ The next one is reductive, where you have a block of marble and the perfect stat
 **Marius - Sege Law:**
 My name is Marius. I'm a partner at Sege LLP. We're a law firm. We do a ton of work with startups, AI companies. We understand the challenges we face. We work with companies of all sizes. If you have questions about legal stuff, come find me after.
 
-**[[Dimitri Schwartzman]] - Real Estate & AI:**
+**Dimitri Schwartzman - Real Estate & AI:**
 I'm learning about AI. I'm trying to develop an app. I help a lot of single families to buy and sell properties. I use AI to export files and do very deep research on properties that are better, that are more valuable, that have better chances of being sold down the road. The capabilities of AI are incredible and real estate really needs it to improve videos, research and much more.
 
-**[[Kris Krüg]]:** He's being kind of coy. He developed a super secret prompt he's been working on over the last year that is able to identify the lowest price per square foot based on parameters in a whole area. So if you want some strategic intelligence on cheap property that's good value, talk to Dmitri.
+**Kris Krüg:** He's being kind of coy. He developed a super secret prompt he's been working on over the last year that is able to identify the lowest price per square foot based on parameters in a whole area. So if you want some strategic intelligence on cheap property that's good value, talk to Dmitri.
 
 ---
 
-## BC AI Discord Launch - [[Gabriel Zaro]]
+## BC AI Discord Launch - Gabriel Zaro
 
-**[[Kris Krüg]]:** I'm super stoked to introduce you guys to Gabe Zaro. This guy's a fucking rockstar. Zaro is a community executive, CEO level community guy. He's worked for a lot of the coolest projects in the whole wide world when it comes to community. Him and I are working on the BC AI Discord. He flips me a screenshot yesterday from his archives—the last Discord server he set up had like 52,000 people online. We're talking EA Sports, soccer, basketball type game stuff. He's a community genius.
+**Kris Krüg:** I'm super stoked to introduce you guys to Gabe Zaro. This guy's a fucking rockstar. Zaro is a community executive, CEO level community guy. He's worked for a lot of the coolest projects in the whole wide world when it comes to community. Him and I are working on the BC AI Discord. He flips me a screenshot yesterday from his archives—the last Discord server he set up had like 52,000 people online. We're talking EA Sports, soccer, basketball type game stuff. He's a community genius.
 
-**[[Gabriel Zaro]]:** I have a very eclectic background. I've been collecting communities for about 40 years. I've been to theater, music, religion, circus, tech, marketing, design, politics, gaming and AI. At some point I was even part of a magic and illusionism association. [Does magic trick] Nothing in this hand. And nothing in this hand.
+**Gabriel Zaro:** I have a very eclectic background. I've been collecting communities for about 40 years. I've been to theater, music, religion, circus, tech, marketing, design, politics, gaming and AI. At some point I was even part of a magic and illusionism association. [Does magic trick] Nothing in this hand. And nothing in this hand.
 
 I have a hypothesis that I'm working on: that community is humanity's operating system. I was born in the very edges of a community—the second biggest favela in Brazil, a place where 120,000 people still live to this day. Very humble background. That's where I learned to see how people treat each other. In a favela, in the community, your neighbor is your babysitter, is your grocery store, is your alarm system. Ignore them at your own risk. But from chaos you are able to get some sort of organic organization. From that chaos you get trust. That was my patch zero for my operating system: survival.
 
@@ -169,7 +179,7 @@ The cool thing about Discord is perma links. So we set up forum channels. Someti
 
 We're also rolling out the survey. It's an onboarding survey. This one will take you about 10 minutes. It's a little deeper, but it goes into the details of what you're looking for in this community. This is where we're gonna matchmake you and actually create a data set of everybody in BC AI.
 
-**[[Kris Krüg]]:** Like matchmaking sounds kind of bullshit a lot of times, but you guys know, you all come to me and you're like, "Who should I talk to in this room? Who knows about AI ethics?" This matchmaking thing is just a way of systematizing what you guys are already asking me for all the time, which is connecting you to the right people in the room.
+**Kris Krüg:** Like matchmaking sounds kind of bullshit a lot of times, but you guys know, you all come to me and you're like, "Who should I talk to in this room? Who knows about AI ethics?" This matchmaking thing is just a way of systematizing what you guys are already asking me for all the time, which is connecting you to the right people in the room.
 
 ---
 
@@ -265,11 +275,11 @@ You start with the field of science and you get to nine layers later, the messag
 
 But if there are tools that can help people get more connected to nature, is that not a good thing?
 
-**[[Kris Krüg]]:** What do you need right now? What would be most valuable if somebody was interested in exploring this with you?
+**Kris Krüg:** What do you need right now? What would be most valuable if somebody was interested in exploring this with you?
 
 **Manuel:** Well, all partnerships are welcome. We have a phrase in our language: "All are welcome." To do this research we will need sensors to connect, to understand the plants, ones that are non-invasive. Anyone that can help us understand the signals better, and funding support as well.
 
-**[[Kris Krüg]]:** We ain't necessarily the ballers in the room, but we have access to those people. When you're looking for grant partners, people to talk to about projects, maybe you talk to Will, maybe you talk to Manny. These are the types of things that probably have a lot of legs behind them. How do we get ahold of you?
+**Kris Krüg:** We ain't necessarily the ballers in the room, but we have access to those people. When you're looking for grant partners, people to talk to about projects, maybe you talk to Will, maybe you talk to Manny. These are the types of things that probably have a lot of legs behind them. How do we get ahold of you?
 
 **Manuel:** I have a website, just my name: manuelaxelstrain.com. There's a contact button there.
 
@@ -289,7 +299,7 @@ Because the other ethical concern that I thought about with this knowledge extra
 
 **Manuel:** It's a very good important topic. I've actually just programmed most of my AI to have these things in consideration. So there are times where I just ask it and it'll point blank just tell me, "I cannot tell you that." It can be done. It's quite an easy adjustment—to just ask it to follow UNDRIP and follow consent. And it will just point blank tell you, "I can't tell you that."
 
-**[[Kris Krüg]]:** I really appreciate this conversation. This qualifies as difficult conversation. I'm the CTO at the Indi Institute with [[Carol Ann Hilton]], and we're often talking about this tension between what we reveal and share, the tools we use and protocol versus being left behind from all of this stuff. This is the most important conversation in many ways and I appreciate you having it.
+**Kris Krüg:** I really appreciate this conversation. This qualifies as difficult conversation. I'm the CTO at the Indi Institute with Carol Ann Hilton, and we're often talking about this tension between what we reveal and share, the tools we use and protocol versus being left behind from all of this stuff. This is the most important conversation in many ways and I appreciate you having it.
 
 **Audience member (commons/watershed):** Not long ago I helped the government of BC determine the dollar value of the commons. One of the problems we have as a species is the tragedy of the commons—there are resources in society that are ephemeral but have value. But because they are ephemeral, no one has responsibility for them. I developed a logic tree to express the value and desire of that relationship. That's being used by a local government to invest in watershed assets now. That nature of desire, that attraction between trees and humans and everyone else—I think there's something in there that might help you.
 
@@ -313,13 +323,13 @@ A lot of it, I would say, knowing that Coast Salish people really value and hono
 
 ## Closing Remarks
 
-**[[Kris Krüg]]:** Thank you Manny. Really appreciate your contribution. I appreciate you being open, coming to us with not your fully baked plan, asking for help. I hope that some of you people follow through with your connections with Manny.
+**Kris Krüg:** Thank you Manny. Really appreciate your contribution. I appreciate you being open, coming to us with not your fully baked plan, asking for help. I hope that some of you people follow through with your connections with Manny.
 
 **Jesse:** This is what I love the most about what I do: hearing artists' visions and then finding a community to help raise that vision into reality, just like Manny was saying that we did with this city. Please join us. We're not sure what all the partnerships look like, but it's a really exciting project and beautiful to have it in the lands and waters where we live.
 
 It's reminding me of a couple of projects I've been following: an AI almanac for navigating indigenous territories in what is now called Russia starting back in 2017. Or there's a beautiful project coming out of Germany called Terra Zero, which is a self-managing forest where it manages its own needs. It has a crypto economic background. It can decide to log itself enough to just pay for its maintenance so it won't burn down. If you can think about how these projects could connect with what Manny is building, there's a whole world out there that we can start to connect.
 
-**[[Kris Krüg]]:** The curator is earning his keep tonight, contextualizing your project in the whole wide world of what's going on. Thank you so much for coming here, buddy.
+**Kris Krüg:** The curator is earning his keep tonight, contextualizing your project in the whole wide world of what's going on. Thank you so much for coming here, buddy.
 
 How was that for you? You want to talk to non-human beings with AI? It does seem like there's something there. If it's just a bunch of pattern recognition inside data sets and we got big enough data sets, I think we can probably talk to the other kin.
 
@@ -335,13 +345,13 @@ We've got a bunch of funding, really just before the finish line from ByteDance 
 
 So the first real official AI film meetup is happening right here. **October 29th.** We'll have AI films, we'll have people here. We'll talk about what's the latest and greatest. We'll get behind some of the prompts behind some of those films. And depending if ByteDance happens to come through, we may have something very magical and special.
 
-**[[Kris Krüg]]:** Kevin helped make special effects on Dune. Thorn helped make special effects on Avatar. These guys are exploring the edges of AI when it comes to audio, video, special effects stuff. They're literally the bee's knees in the whole wide world, and that's why folks like ByteDance come knocking. This dude flew from Tokyo to last month's meetup to do the deal with us, and he'll be back. He's gonna make everybody's tickets cheaper soon.
+**Kris Krüg:** Kevin helped make special effects on Dune. Thorn helped make special effects on Avatar. These guys are exploring the edges of AI when it comes to audio, video, special effects stuff. They're literally the bee's knees in the whole wide world, and that's why folks like ByteDance come knocking. This dude flew from Tokyo to last month's meetup to do the deal with us, and he'll be back. He's gonna make everybody's tickets cheaper soon.
 
 ---
 
 ## Final Closing
 
-**[[Kris Krüg]]:** I really appreciate everyone who showed up. Thank you Zaro, for contributing. Thank you, Manny. Thank you, Jesse.
+**Kris Krüg:** I really appreciate everyone who showed up. Thank you Zaro, for contributing. Thank you, Manny. Thank you, Jesse.
 
 Michelle Diamond, Victor—come stand next to me. You guys seen our prolific documentation, right? These guys are the best of the best. Seriously, a big part of making community is telling the stories of the people in the community. These guys help do that the best. Michelle and Victor come every month since the beginning. They're my go-to people.
 

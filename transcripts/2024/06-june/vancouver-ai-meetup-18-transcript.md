@@ -1,3 +1,13 @@
+---
+title: "Vancouver AI Community Meetup #18 - Transcript"
+date: 2024-06-01
+meetup_number: 18
+type: transcript
+venue: "McMillan Space Centre (Planetarium), Vancouver"
+speakers: ["Aliza Schwartzman", "Carol Ann Hilton", "Dimitri Schwartzman", "Kemp Edmonds", "Kris Kr\u00fcg", "Lorraine Lowe", "Matt Sinclair", "Matthew Schwartzman", "Morten Rand-Hendriksen", "Noah Brunn"]
+attendance: 225
+tags: ["meetup", "transcript", "vancouver-ai"]
+---
 # Vancouver AI Community Meetup #18 - Transcript
 **Date:** June 2024  
 **Location:** McMillan Space Centre (Planetarium), Vancouver  
@@ -6,13 +16,13 @@
 ---
 
 ## Opening Remarks & BBQ Experience
-**Host:** [[Kris Krüg]]
+**Host:** Kris Krüg
 
 That was a lot of fun. Thanks for coming. I love cooking for other people and stuff, and so thanks for coming and hanging out. That's our barbecue now. You guys bought it tonight. We have to amortize the cost over three meetups. So we're having barbecue next two meetups. Let me know what you want us to cook next and I'll be happy to. A lot of you offered to help out on the barbecue and I thank you.
 
 It really meant a lot to me to cook tonight. So next time you guys can cook. If you, I don't know if you can see, but this is my notes for tonight. It is so splattered with Montreal Steak spice and Moonbite chicken spice. It looks like tie dye actually, of meaty sauce. So anyway, that was a lot of fun.
 
-I'm gonna just take a moment and ground myself while Gabriel George comes up here and opens this thing up. You know, one thing you'll hear me talk about later is the BC AI Industry Association. One of the things I have to announce is that we have some new board members. One of our board members is [[Carol Ann Hilton]].
+I'm gonna just take a moment and ground myself while Gabriel George comes up here and opens this thing up. You know, one thing you'll hear me talk about later is the BC AI Industry Association. One of the things I have to announce is that we have some new board members. One of our board members is Carol Ann Hilton.
 
 And when I asked her to join the board, she said she's been bringing me more deeply into ceremony from the indigenous peoples and her tribe nation. And she's like, if you continue to center ceremony at the beginning of this stuff, I would love to be a part of this ecosystem and this board.
 
@@ -73,14 +83,14 @@ And I think in this time that we're in, it's very easy to be divided, to be pola
 ### Space Center Partnership
 **Kris:** So how lucky are we that we get to hang out here? That we get to hang out in the space center, in the round room. That back deck. You know, between this building and the water. Like, and I don't know if you had a chance, if you haven't had a chance to actually circumnavigate the building, just walk out the front door, hang a right or left, walk all the way around, come back to the front, the flowers, the gardens, the grounds, the ocean. It's really a special place here.
 
-[[Lorraine Lowe]], the executive director, came to me today. She wants to do an AI workshop for their staff in the very short term. They want to develop an AI policy. She came to me today and she's like, AI is science and we're science. This is the future for us. And I was like, yeah, that's why we're here. That's why you said yes, isn't it?
+Lorraine Lowe, the executive director, came to me today. She wants to do an AI workshop for their staff in the very short term. They want to develop an AI policy. She came to me today and she's like, AI is science and we're science. This is the future for us. And I was like, yeah, that's why we're here. That's why you said yes, isn't it?
 
 She's another member that joined that BC AI ecosystem board that I'm gonna announce about later. So we've got the right folks helping out.
 
 ### Financial Sponsors
 - **Segev Law Firm:** One of our primary financial sponsors. They give us a thousand bucks a month that helps kind of round out the ends around here. Kevin gets a tiny little honorarium and Brittany gets a tiny little honorarium.
 
-- **Schwartzman Family:** [[Dimitri Schwartzman]] is one of our sponsors. They're going through a pretty tough time as a family right now and I've been praying for them every night. [[Matthew Schwartzman]] and [[Aliza Schwartzman]] are here tonight.
+- **Schwartzman Family:** Dimitri Schwartzman is one of our sponsors. They're going through a pretty tough time as a family right now and I've been praying for them every night. Matthew Schwartzman and Aliza Schwartzman are here tonight.
 
 - **James Lester/Sons of Vancouver:** Both a sponsor and community contributor.
 
@@ -114,7 +124,7 @@ She's another member that joined that BC AI ecosystem board that I'm gonna annou
 **Gustavo Introduction:** Brazilian newcomer looking to expand his network in AI, marketing, and digital space.
 
 ### Surrey AI Community
-**Speakers:** Riv and [[Matthew Schwartzman]]
+**Speakers:** Riv and Matthew Schwartzman
 
 **Formation:** "These two guys came to me like five months ago. They came to Kevin and I actually, they took us out for lunch. They're like, we love what you're doing. We can't always make it to the city. We'd like to take that and run it at the Surrey Legion Hall for our people."
 
@@ -127,7 +137,7 @@ She's another member that joined that BC AI ecosystem board that I'm gonna annou
 **Details:** Meet at Legion Hall number eight in South Surrey, 33% off with coupon code "Vancouver AI"
 
 ### Next Generation Participation
-**Speakers:** [[Kemp Edmonds]] and son Liam (age 12)
+**Speakers:** Kemp Edmonds and son Liam (age 12)
 
 **Liam's Project:** "I just started this new project where I blog my dreams and then I turn them into games."
 
@@ -158,7 +168,7 @@ She's another member that joined that BC AI ecosystem board that I'm gonna annou
 **Kris Krüg's Addition:** "I've been dreaming of having an AI sci-fi film festival since I learned about AI. I was like, I don't know what the fuck is going on here, but thank god Isaac Asimov exists. We can go read literature and watch old films, and this can be the lens through which maybe we have a clue what's going on."
 
 ### Technology Leadership at Arturs
-**Speaker:** [[Noah Brunn]]
+**Speaker:** Noah Brunn
 
 **Background:** Director of Technology, Operations and Innovation at Arturs. "What's really cool about working there is, especially in the technology leadership, there's a lot of deep understanding of what impact AI can have and is gonna have."
 
@@ -187,7 +197,7 @@ She's another member that joined that BC AI ecosystem board that I'm gonna annou
 **Availability:** Software available on GitHub that takes data and pumps out images that tell graphic novel type stories.
 
 ### Second Place: Team Wisdom Lantern 
-**Team:** [[♾️ sev geraskin]] (Round 1 winner) and April AI
+**Team:** ♾️ sev geraskin (Round 1 winner) and April AI
 
 **Project Title:** "Canada's Compass"
 
@@ -208,7 +218,7 @@ She's another member that joined that BC AI ecosystem board that I'm gonna annou
 
 **April's Contribution:** "I wanted to come with the perspective that I wanted to be inclusive of First Nations friends. So I was able to get Brody come and do a little voiceover, but he had a little bit of a cold, so we were able to use AI technology to help synthesize his voice... I wanted to really have First Nations representation."
 
-### Winner: [[Matt Sinclair]]
+### Winner: Matt Sinclair
 **Project:** Canadian Identity Simulator
 
 **Description:** Interactive 3D environment where users can encounter and converse with AI-generated Canadians based on survey data.
@@ -230,7 +240,7 @@ She's another member that joined that BC AI ecosystem board that I'm gonna annou
 ---
 
 ## Keynote: Model Context Protocol (MCP)
-**Speaker:** [[Morten Rand-Hendriksen]] (LinkedIn Education)
+**Speaker:** Morten Rand-Hendriksen (LinkedIn Education)
 
 ### Introduction & Disclaimer
 **Background:** "I worked at LinkedIn, I does education on their platform... I have a disclaimer. It's necessary for a variety of reasons... everything I say here is my own personal opinion."
@@ -423,7 +433,7 @@ She's another member that joined that BC AI ecosystem board that I'm gonna annou
 ---
 
 ## BC AI Industry Association Development
-**Presenter:** [[Kris Krüg]] (with Sev and David)
+**Presenter:** Kris Krüg (with Sev and David)
 
 ### Survey Results Preview
 **Sev's Methodology Report:** "The survey data was all qualitative. It was freely entered responses, so you typed paragraphs... 10 questions all open-ended, all open-ended questions... Responding to the survey was 36 minutes. So people, they sat there and they wrote what they felt like 55 people from this community answered with 36 minute answers on average."

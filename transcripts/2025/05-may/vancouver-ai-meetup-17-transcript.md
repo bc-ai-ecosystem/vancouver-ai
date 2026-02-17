@@ -1,3 +1,13 @@
+---
+title: "Vancouver AI Community Meetup #17 - Transcript"
+date: 2025-05-01
+meetup_number: 17
+type: transcript
+venue: "McMillan Space Centre (Planetarium), Vancouver"
+speakers: ["Carol Ann Hilton", "Carol Anne Hilton", "David Monteyne", "Dean Shev", "Dimitri Schwartzman", "Kevin Friel", "Kris Kr\u00fcg", "Mark Busse", "Matthew Schwartzman", "Ron Segev"]
+attendance: 200
+tags: ["meetup", "transcript", "vancouver-ai"]
+---
 # Vancouver AI Community Meetup #17 - Transcript
 **Date:** May 2025 
 **Location:** McMillan Space Centre (Planetarium), Vancouver  
@@ -6,7 +16,7 @@
 ---
 
 ## Opening Remarks
-**Host:** [[Kris Krüg]]
+**Host:** Kris Krüg
 
 A Web Summit edition. How many of you have been to Web Summit in the last couple days? The energy this morning there was off the chain. You guys know that I'm very critical of government and mainstream hype and a lot of things as it relates to funding around AI, NBC and the stuff. But man, today was awesome and I really can see their vision.
 
@@ -161,11 +171,11 @@ So thanks a lot, Kris.
 
 **Kris:** Thanks, Sam. His company's called [company name], he'll be demoing here again in the future, but you can check him out on his website. He's got some stuff online.
 
-### [[Dean Shev]] - Virtual Health Technology
+### Dean Shev - Virtual Health Technology
 
 Let's go, Dean. Let's go Dean. And then let's, actually all y'all come up here who are talking during this part. Please. You know who you are.
 
-All right. [[Dean Shev]] Virtual Health Technology. Thank you Kris. Thank you everyone. Thank you for having me. Let's, we're here. I do expect that I'll be speaking tonight, but thank you for having me. This was an amazing experience right now happening at Web Summit. So since I have only a minute I'm just gonna be very brief about what we found for the past two days.
+All right. Dean Shev Virtual Health Technology. Thank you Kris. Thank you everyone. Thank you for having me. Let's, we're here. I do expect that I'll be speaking tonight, but thank you for having me. This was an amazing experience right now happening at Web Summit. So since I have only a minute I'm just gonna be very brief about what we found for the past two days.
 
 There's still two more days to come and we're demo. We have a demo on Friday, so our booth is coming up live and for the first time to public, we are showing the demo of our product, which is going to blow your mind because so far when we're showing it to individuals today and yesterday, really it was amazing.
 
@@ -303,7 +313,7 @@ Thank you so much for being so welcome.
 
 It's a deep group. Loki runs his shit different than I run my shit. It's not Lucy Goosey laid back. He starts at six. You better have done the reading. There will be a quiz.
 
-### [[David Monteyne]] - Mind AI and Consciousness
+### David Monteyne - Mind AI and Consciousness
 
 Hey folks. Loki and [other names] and some other folks spontaneously created a group called Mind and Consciousness and AI. And we've met together a few times and it's still emergent what's really happening. But the gist is we have about 20 people coming together. There are readings and a topic, and it's usually about understanding something about mind and consciousness.
 
@@ -327,11 +337,11 @@ Thank you, David. I really appreciate it.
 
 ### **Kris:** Okay. Where are we at? We're close. Hackathon, I think. Next. Yeah, but there's BC AI and my little thing. Oh yes, of course. Hit it. Let's see what's next. It's you, isn't it? It is. All right. I'm stoked. Mr. Pixel Winner is a very close collaborator of mine.
 
-[[Kevin Friel]] here. We've done all sorts of creative stuff together, but he just graduated from a 12 week AI filmmaking program for Hollywood type people. And right after that, the whole world of tools changed. Google dropped VO3, all sorts of stuff came up and Kevin's like I gotta learn that shit too.
+Kevin Friel here. We've done all sorts of creative stuff together, but he just graduated from a 12 week AI filmmaking program for Hollywood type people. And right after that, the whole world of tools changed. Google dropped VO3, all sorts of stuff came up and Kevin's like I gotta learn that shit too.
 
 So I ain't gonna talk for him too much, but I'll tell you, if you listen to his couple minutes, you get a two minute trailer as hot as they get straight out of the brand new brains of the baby AIs.
 
-### [[Kevin Friel]] - Mr. Pixel Wizard
+### Kevin Friel - Mr. Pixel Wizard
 
 Yes. Howdy everyone. How's it going? My name's Kevin. I'm also known as the Pixel Wizard. So I've been in film and television for just, wow, this year is 25 years. I have incredible cream for my face if you're asking about how old I am, not just my face.
 
@@ -391,7 +401,7 @@ And he really liked, like everyone just hang out in a circle, and also it's far,
 
 Riv is here somewhere. Alright, I'm just broken today. Yeah. Riv, I told you months ago to help but not push it. You're doing fine. You pushed it. I did indeed. You've been relieved of duty. Next month you're officially an observer. Thank you.
 
-### [[Matthew Schwartzman]] & Riv - Surrey AI
+### Matthew Schwartzman & Riv - Surrey AI
 
 **Matthew:** Yeah. So yeah, so the Surrey AI events, just like Kris said is a little too far. The first story I ever told was I was changing a clutch in my car and then realized I'm running late to this. And it was an hour drive away. So we started Surrey AI events with Riv. We love the vibes, but transitioning to fit more people, more eyes, it does lose some things, but it does gain a lot more.
 
@@ -425,15 +435,15 @@ Sev won the data storytelling hackathon that we're about to tell you about here.
 
 ### Sponsor Acknowledgments
 
-In the back. Is the cooler? You'd like to refresh your beverage? We're gonna thank our sponsors. [[Dimitri Schwartzman]] can't be here tonight. He's Matthew's father. He's Eliza's father, I don't see here, but he's a real estate agent who's tinkering with AI, big supporter of ours.
+In the back. Is the cooler? You'd like to refresh your beverage? We're gonna thank our sponsors. Dimitri Schwartzman can't be here tonight. He's Matthew's father. He's Eliza's father, I don't see here, but he's a real estate agent who's tinkering with AI, big supporter of ours.
 
-Also, I wanna say thank Segev Law firm. [[Ron Segev]] and [[Ron Segev]] are two lawyers with the specialization in the AI and crypto space. They give us money every month to keep the lights on. And then we got Sons of Vancouver, a distillery in North Van who gives us six bottles of vodka every month that we turn into a bunch of cosmos for you guys.
+Also, I wanna say thank Segev Law firm. Ron Segev and Ron Segev are two lawyers with the specialization in the AI and crypto space. They give us money every month to keep the lights on. And then we got Sons of Vancouver, a distillery in North Van who gives us six bottles of vodka every month that we turn into a bunch of cosmos for you guys.
 
-We've got [[Kevin Friel]], who, bro, I give him like 5% of what he's worth legitimately and thank you bro. Thank you for showing up. Thanks for being stoked. I had so much fun with [project] yesterday, making video blogs and stuff. That's awesome. I can't wait to see what we filmed at the Orpheum yesterday and we're both so excited.
+We've got Kevin Friel, who, bro, I give him like 5% of what he's worth legitimately and thank you bro. Thank you for showing up. Thanks for being stoked. I had so much fun with [project] yesterday, making video blogs and stuff. That's awesome. I can't wait to see what we filmed at the Orpheum yesterday and we're both so excited.
 
 We made some hot shit. Michelle Diamond can't be here, but she's one of the best photographers I know. Happy to have her as a sponsor. Victor. Victor, we did a podcast with you yesterday. I can't wait to share it with the world. This guy does documentary community spotlights with many of you.
 
-We've released about 10 of them and we have two in the can. VPO's about to drop soon. Philippe Pasquay from the School of Interactive Arts and Technology. His document about to drop soon. I appreciate you. Then [[Mark Busse]] can just flash back one quick set. [[Mark Busse]], Meta Creation Lab, and the one at the bottom is my company.
+We've released about 10 of them and we have two in the can. VPO's about to drop soon. Philippe Pasquay from the School of Interactive Arts and Technology. His document about to drop soon. I appreciate you. Then Mark Busse can just flash back one quick set. Mark Busse, Meta Creation Lab, and the one at the bottom is my company.
 
 I teach AI courses and stuff for creative professionals and other folks.
 
@@ -443,7 +453,7 @@ I teach AI courses and stuff for creative professionals and other folks.
 
 ### **Kris:** Okay, moving right along. Okay, so we set Web Summit Startups. Now just keep going until you get to Sev's face. Has anyone seen Julia or Dale from Rival Tech? Okay. Yeah. Come on up. Sure this is the last of our announcements until we get into the two talks that we're gonna have.
 
-Kush who's gonna talk about how AI works, and [[Carol Anne Hilton]] is gonna talk about her Indi Genomics AI platform for uncovering unaccounted for indigenous economic activity in Canada.
+Kush who's gonna talk about how AI works, and Carol Anne Hilton is gonna talk about her Indi Genomics AI platform for uncovering unaccounted for indigenous economic activity in Canada.
 
 So we got our first hackathon out the door, Sev won, and we got our second one in the works. Tell us what's up, Julia?
 
@@ -683,19 +693,19 @@ What [you hear] too? I'm sorry that you feel crunched for time, and I hope to bu
 ---
 
 ## Closing Keynote: Indi Genomics AI Platform
-**Speaker:** [[Carol Ann Hilton]]
+**Speaker:** Carol Ann Hilton
 
 ### **Kris:** Okay. So this is the final keynote here that we're about to enter into is about 15 minutes. We need a drink, grab one. You need a bathroom, grab one. But I encourage you to open your heart, open your mind, take a deep breath, and things are gonna change a little bit here.
 
-[[Carol Ann Hilton]] is up next from the Indi Genomics Institute, and the Global Center of Indi Genomics. It's a place that I am happy to get to spend my time working sometimes and collaborate with her. But truly she inspired me in lots of ways and I'm very happy that she gets to come tonight.
+Carol Ann Hilton is up next from the Indi Genomics Institute, and the Global Center of Indi Genomics. It's a place that I am happy to get to spend my time working sometimes and collaborate with her. But truly she inspired me in lots of ways and I'm very happy that she gets to come tonight.
 
 Carolann's taught me a lot about ceremony and ritual and doing that first as a way of bringing people together. And so when Gabriel tonight was talking and sharing his song and stuff, I felt like that's a lot of the things that you brought into my world is the ability to understand what that means better and as a white settler ally and start to better understand how I can bring that into this and really make it a center of what we do around here.
 
 And Carolann and I have been on AI journey the last year and a half together. She has developed some amazing tools. She has brought her whole team along with her on the journey and they are an indigenous technology, AI first organization. And I'm excited to invite you up tonight to share what is ever on your mind with us, Carolann.
 
-### [[Carol Ann Hilton]] - Indi Genomics Institute
+### Carol Ann Hilton - Indi Genomics Institute
 
-Is this on? Hello there. We're good evening everyone. [[Carol Ann Hilton]], hey. I am Nuu-cha-nulth from the west coast of Hesquiaht Nation. Happy to be here. I tend my regards to the twin sisters, the mountain peaks that tell us of this land or the place of how we behave as humans. The teachings that are deeply embedded in the landscape of this place and the place that brings the message across the ancient languages, which is the original language model, is indigenous languages.
+Is this on? Hello there. We're good evening everyone. Carol Ann Hilton, hey. I am Nuu-cha-nulth from the west coast of Hesquiaht Nation. Happy to be here. I tend my regards to the twin sisters, the mountain peaks that tell us of this land or the place of how we behave as humans. The teachings that are deeply embedded in the landscape of this place and the place that brings the message across the ancient languages, which is the original language model, is indigenous languages.
 
 To be able to look at this place and to realize the vibration of the quality of consciousness, of the care, of how we show up as human beings, that is Indi Genomics. It's about economy as ceremony. It's about economy as how we move through the world. It's about how we as human beings learn to interact of our presence, of our leadership, and of impact across time.
 
@@ -731,7 +741,7 @@ Mindset matters in everything that we do. My leadership within this movement is 
 
 **Carolann:** All right, one last question. Does anyone have a burning question they need to ask Carolann? I'm gonna hit a little more. Where are you going anyway? You go to the Frontier Collective thing. Somewhere. Good.
 
-Come on. Why don't you [call next] [[Carol Ann Hilton]]. Thank you very much. Woo.
+Come on. Why don't you [call next] Carol Ann Hilton. Thank you very much. Woo.
 
 ---
 

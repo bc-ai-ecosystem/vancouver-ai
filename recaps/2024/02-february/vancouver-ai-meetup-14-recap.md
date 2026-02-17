@@ -1,3 +1,13 @@
+---
+title: "Vancouver AI Community Meetup #14 - Recap"
+date: 2024-02-01
+meetup_number: 14
+type: recap
+venue: "MacMillan Space Centre, Vancouver"
+speakers: ["Dimitri Schwartzman", "Kris Kr\u00fcg", "Loki Jorgenson", "Matthew Schwartzman", "Michael Tippett"]
+attendance: 200
+tags: ["meetup", "recap", "vancouver-ai"]
+---
 # Vancouver AI Community Meetup #14 - Recap
 **Date:** February 2024  
 **Location:** MacMillan Space Centre, Vancouver  
@@ -30,7 +40,7 @@ The 14th Vancouver AI Community meetup marked a pivotal moment in the community'
 - **Historical context:** 60th anniversary of modern neuroscience providing framework for current AI ethics
 
 ### 🎬 **AI Filmmaking Innovation**
-- **[[Michael Tippett]] "Mr. Canada"** political satire series demonstrating sophisticated AI video production
+- **Michael Tippett "Mr. Canada"** political satire series demonstrating sophisticated AI video production
 - **Iterative development:** Software development methodologies applied to creative content production
 - **Cultural commentary:** Canadian identity and political literacy through AI-generated entertainment
 
@@ -55,7 +65,7 @@ The 14th Vancouver AI Community meetup marked a pivotal moment in the community'
 
 **Community Integration:** Poetry serving as philosophical framework for technical AI discussions throughout evening.
 
-### [[Michael Tippett]] "Mr. Canada" AI Film Series
+### Michael Tippett "Mr. Canada" AI Film Series
 
 **Project Vision:** Creating Canadian mythology through AI-generated political entertainment to address national identity and civic engagement.
 
@@ -81,7 +91,7 @@ The 14th Vancouver AI Community meetup marked a pivotal moment in the community'
 
 ### Subgroup Formation Explosion
 
-**Surrey AI Community Meetup (Riv & [[Matthew Schwartzman]]):**
+**Surrey AI Community Meetup (Riv & Matthew Schwartzman):**
 - **Launch Date:** March 11th, 2024
 - **Location:** Legion Number 8, South Surrey
 - **Format:** Circle discussion enabling universal participation vs. large venue stage format
@@ -94,7 +104,7 @@ The 14th Vancouver AI Community meetup marked a pivotal moment in the community'
 - **Social Impact:** Portion of ticket sales funding Downtown East Side Women's Center ($150 = 1 month clean bathroom access)
 - **Expansion:** Dinner series planned for female entrepreneurs in Whistler/Squamish region
 
-**Mind AI & Consciousness ([[Loki Jorgenson]]):**
+**Mind AI & Consciousness (Loki Jorgenson):**
 - **Focus:** Deep philosophical inquiry into consciousness theories and AI sentience
 - **Structure:** Small intensive group with pre-readings, 2-hour sessions every couple months
 - **Academic Integration:** Exploring Integrated Information Theory, Global Workspace Theory, Orchestrated Objective Reduction
@@ -105,7 +115,7 @@ The 14th Vancouver AI Community meetup marked a pivotal moment in the community'
 **BC + AI Institute Proposal:** $30 million proposal in hands of multiple government organizations.
 
 **Coalition Building:**
-- **Kris & [[Loki Jorgenson]] (Circle Innovation):** Primary coordinators
+- **Kris & Loki Jorgenson (Circle Innovation):** Primary coordinators
 - **Anthony (AI Mastery Series):** Ecosystem analysis and strategic planning
 - **Consortium Approach:** Multiple universities, nonprofits, and industry partners
 
@@ -268,7 +278,7 @@ The 14th Vancouver AI Community meetup marked a pivotal moment in the community'
 ### Provincial AI Institute Campaign
 
 **Strategic Coalition:**
-- **Kris & [[Loki Jorgenson]]:** Primary coordination and government relationship management
+- **Kris & Loki Jorgenson:** Primary coordination and government relationship management
 - **Anthony:** Technical ecosystem analysis and strategic recommendations  
 - **Catherine Warren:** International credibility and government consulting experience
 - **Academic Partners:** UBC Emerging Media Lab, SFU, Northeastern University
@@ -527,7 +537,7 @@ The 14th Vancouver AI Community meetup marked a pivotal moment in the community'
 
 **SEGEV Law Firm:** IP/crypto specialization lawyers providing monthly financial support.
 
-**[[Dimitri Schwartzman]]:** Real estate industry sponsorship with family participation.
+**Dimitri Schwartzman:** Real estate industry sponsorship with family participation.
 
 **Anonymous Benefactors:** $1,000+ donations and equipment contributions from community members.
 
@@ -574,9 +584,9 @@ The 14th Vancouver AI Community meetup marked a pivotal moment in the community'
 
 **Sev:** "Solving the problem of scarcity of empathy in the world."
 
-**[[Michael Tippett]]:** "AI filmmaking is a lot like software development... iterative."
+**Michael Tippett:** "AI filmmaking is a lot like software development... iterative."
 
-**[[Kris Krüg]]:** "If you're not out there planting your flag in the ground... you're missing the boat. You got to find your little space and fucking own it."
+**Kris Krüg:** "If you're not out there planting your flag in the ground... you're missing the boat. You got to find your little space and fucking own it."
 
 ---
 

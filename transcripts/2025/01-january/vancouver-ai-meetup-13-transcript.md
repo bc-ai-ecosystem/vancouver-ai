@@ -1,3 +1,13 @@
+---
+title: "Vancouver AI Community Meetup #13 - Verbatim Transcript"
+date: 2025-01-01
+meetup_number: 13
+type: transcript
+venue: "McMillan Space Centre (Planetarium), Vancouver"
+speakers: ["Brittney Smaila", "Dimitri Schwartzman", "Jeff Clark", "Loki Jorgenson", "Lorraine Lowe", "Matthew Schwartzman", "Michael Unger", "Mirjana Prpa", "Nicole Donnelly", "Philippe Pasquier"]
+attendance: 80
+tags: ["meetup", "transcript", "vancouver-ai"]
+---
 # Vancouver AI Community Meetup #13 - Verbatim Transcript
 **Date:** January 2025 
 **Location:** McMillan Space Centre (Planetarium), Vancouver  
@@ -15,7 +25,7 @@ One of the guys that I got talking near the front tonight also teaches a martial
 
 Has anyone seen Gabriel George here tonight? 
 
-We're close though.  We're close, we're close.  What's up, [[Jeff Clark]]? 
+We're close though.  We're close, we're close.  What's up, Jeff Clark? 
 
 Gabriel George, please report for duty. Gabriel George. 
 
@@ -31,7 +41,7 @@ It was like 80 of us, um, just getting together to talk about AI and had a visio
 
 Um, as I mentioned, uh, I got one person who I want to get out of here real quick. And, um, so we do this community announcements thing here at the beginning and I've talked to a bunch of people here tonight. And I've invited them to come up and talk for a minute or two. And I might single out some other people as well along the way.
 
-Um, this is a chance for people who are doing interesting things when it comes to AI, emerging technology, innovation, community here in Vancouver, to just tell you what the heck is going on out there. Um, so first up we got [[Loki Jorgenson]]. Yo, Loki, this is, uh, he's teaching a Krabby Bon Bon class across, across, down, uh, in less than an hour.
+Um, this is a chance for people who are doing interesting things when it comes to AI, emerging technology, innovation, community here in Vancouver, to just tell you what the heck is going on out there. Um, so first up we got Loki Jorgenson. Yo, Loki, this is, uh, he's teaching a Krabby Bon Bon class across, across, down, uh, in less than an hour.
 
 Um,  I'll just let you do it. And we're not going to wait for Gabriel. He's not here. Would you do a tiny little acknowledgement right now? My buddy Gabriel George is tied up in traffic. Ah, that's unfortunate. I won't get to see him. Um, so I'd like certainly to acknowledge everyone who is here and acknowledge the lands which we are here to play, learn, talk, speak.
 
@@ -59,7 +69,7 @@ There's big federal buckets of money available. There's people that are forming 
 
 Tang's been a voice in that, um, whole thing. The AI and BC folks, um, BC Tech, uh, circle innovation, meta creation lab, UBC's, emerging media lab, all sorts of folks involved.  And, um, yeah. Thanks, Loki, for bringing the good word, for not being a gatekeeper man, and just like, uh, sharing the info, letting people know what's going on, and just inviting people into that whole consortium.
 
-I really appreciate you, dude.  Okay. Yeah.  Yeah.  Like, you know, keep your ear to the ground. Big announcement soon. Um, yeah.  Alright, community announcements. [[Brittney Smaila]], who you guys probably know helps organize this thing, she also is going to be doing some poetry later. She works at COGS, uh, the School of Cognitive Systems at UBC.
+I really appreciate you, dude.  Okay. Yeah.  Yeah.  Like, you know, keep your ear to the ground. Big announcement soon. Um, yeah.  Alright, community announcements. Brittney Smaila, who you guys probably know helps organize this thing, she also is going to be doing some poetry later. She works at COGS, uh, the School of Cognitive Systems at UBC.
 
 And, um, Brittany, you're not in here, are you? I am. Oh, great.  Um, uh, Brittany just started a new class at UBC. And knowing that the students are going to be all hip to AI and using AI, she's kind of hacking the classroom in terms of challenging them with their relationship to AI. And I just wanted to give her like a minute to talk about your little experiment you're running in your classroom. 
 
@@ -71,7 +81,7 @@ And with those research articles, The historic assignment has been to summarize 
 
 Uh, they have to do some prompt engineering, and they get marked on that, and then they also get marked on their evaluation of that summary.  Uh, a critique, a critical evaluation, uh, telling me what the AI did well, and what it did poorly.  Uh, and, so, I was very worried. It took me, like, a week to read the first ones, because I was like, was this assignment too easy, too hard, did it miss the mark? 
 
-It worked. It did what I wanted it to. Uh, and They don't seem to hate it.  Thanks, Kris Krüg. I appreciate you sharing that. Um, [[Brittney Smaila]]. A lot of you guys know I pontificate about AI changing the future of education and that, you know, classrooms, deans, teachers, schools need to figure out this tech and instead of criminalizing our children by busting them with, you know, essay, you know, bots that can determine AI written essays, they need to figure out ways to work with students who live in this era of modern tools to re evaluate how education is delivered, how teaching is done, and That whole thing.
+It worked. It did what I wanted it to. Uh, and They don't seem to hate it.  Thanks, Kris Krüg. I appreciate you sharing that. Um, Brittney Smaila. A lot of you guys know I pontificate about AI changing the future of education and that, you know, classrooms, deans, teachers, schools need to figure out this tech and instead of criminalizing our children by busting them with, you know, essay, you know, bots that can determine AI written essays, they need to figure out ways to work with students who live in this era of modern tools to re evaluate how education is delivered, how teaching is done, and That whole thing.
 
 And so, this is one of the first people that I've seen in our community that's really kind of starting to mess with the model. And so, I appreciate you bringing back your reports from the street.  Andrew Reid is up next. Um, Andrew's an old homie. Um, you may know his father. His father runs a big, uh, research and data agency.
 
@@ -125,7 +135,7 @@ How fast do you want?
 
 Once, once that pipeline is fully generated, the hope and dream is that I go home and put, like, the proper camera originals into it, hit render, and it's up within, like, you know, 20 minutes or half an hour after the event is done, so, yeah.  I jokingly call Kevin the only guy I can trust, and what I mean by that is when he's humming and hawing about it being 20 or 30 minutes, he can take that to the bank.
 
-Yeah,  that's for real. Okay, thanks Kevin.  You're amazing.  Um,  [[Matthew Schwartzman]].  This is going to be a kid who comes up here a couple times. I'm going to say a lot of nice things about him. But, um, first, I wanted to say, he's speaking on behalf of two people tonight. Um,  these guys came to me a little while ago.
+Yeah,  that's for real. Okay, thanks Kevin.  You're amazing.  Um,  Matthew Schwartzman.  This is going to be a kid who comes up here a couple times. I'm going to say a lot of nice things about him. But, um, first, I wanted to say, he's speaking on behalf of two people tonight. Um,  these guys came to me a little while ago.
 
 Came to me and Kevin. They're like, yo, we really love what you're doing, but fucking Vancouver's a really far way to go. Could we start a Surrey AI community meetup?  Like a spinoff, sister, dealio, and we're like, yeah man. And they were like, and we're starting it next Tuesday. And I'm like, whoa, whoa, whoa, guys, come on. 
 
@@ -137,7 +147,7 @@ So, we came up with a solution to have an AI event in Surrey. So, that's what we
 
 So, these events are gonna happen. Second Tuesday of every single month, starting March, not February, but okay, okay, okay. So, we'll probably start March, um, that's I think the 11th, from 6 to 9 at the Legion No. 9 in, in Surrey. So, yeah, if, feel free to come up, talk to me about it, I'd love to share some more details, we're gonna have it up on Luma, Kris Krüg is gonna talk about it, and, yeah, excited to see a lot of you guys there.
 
-Yeah, [[Matthew Schwartzman]], Surrey AI Community Meetups.  Um, hang out with me here for a second though, you know. Um, so, Matthew runs a podcast called Teen To Life, uh, podcast, and that's how I got to know him. I heard from this guy called [[Dimitri Schwartzman]], like, Almost a year ago now, it was like my son Matthew's gonna be getting in touch, he runs this podcast, um, he just wants to talk to you.
+Yeah, Matthew Schwartzman, Surrey AI Community Meetups.  Um, hang out with me here for a second though, you know. Um, so, Matthew runs a podcast called Teen To Life, uh, podcast, and that's how I got to know him. I heard from this guy called Dimitri Schwartzman, like, Almost a year ago now, it was like my son Matthew's gonna be getting in touch, he runs this podcast, um, he just wants to talk to you.
 
 And I was like, great, I'll talk to him. It took a little while for you to get through my kind of force field of busyness or whatever, but I was so stoked when I did. I, um, really am excited about my relationship with Matthew. We got to know each other a lot over the last six months. I went on his podcast, Kevin went on his podcast, a whole bunch of people did.
 
@@ -155,11 +165,11 @@ to you.  Um, that's Wanda.  She blew my mind long before she just said that, but
 
 Um, the Space Center, I first want to say thank you, because by forming a 15 month partnership with me, they've allowed me to sell real sponsorships. I don't want to go chase my tail selling a 300 or 500 sponsorship on a one off basis once a month to different people. And in order to not do that, you have to have a contract on the place that you're dwelling in.
 
-And so [[Lorraine Lowe]] and the Space Center have partnered with us to give us the runway that we need to bring on some key partners.  So the first one I want to introduce is Marius. And Marius, you can come on up.  Marius and Damika from Segev Law Firm. Come on up. So, guys, um, this ain't gonna happen necessarily every month, but I want you to know what's going on here.
+And so Lorraine Lowe and the Space Center have partnered with us to give us the runway that we need to bring on some key partners.  So the first one I want to introduce is Marius. And Marius, you can come on up.  Marius and Damika from Segev Law Firm. Come on up. So, guys, um, this ain't gonna happen necessarily every month, but I want you to know what's going on here.
 
-I want you to know about the money in the spirit of, like, authenticity and transparency. So, Marius works at a firm called Segev. Segev's got about 45 lawyers. You can correct me on the little details I get wrong. Um, but I know [[Ron Segev]]. And [[Ron Segev]], uh, his band played my 30th birthday party on the rooftop of 1 Alexander in, in, in Gastown.
+I want you to know about the money in the spirit of, like, authenticity and transparency. So, Marius works at a firm called Segev. Segev's got about 45 lawyers. You can correct me on the little details I get wrong. Um, but I know Ron Segev. And Ron Segev, uh, his band played my 30th birthday party on the rooftop of 1 Alexander in, in, in Gastown.
 
-Um, he's a bro and an old homie. I started an online magazine in 1998 that [[Ron Segev]] wrote for. Um, and, uh, Ron and his brother Elon went on to form Segev LLP. They've got a whole bunch of lawyers working for them now. They work in the kind of crypto, online gaming, web 3, AI type space or whatever. So, I'm going to give a minute to say something.
+Um, he's a bro and an old homie. I started an online magazine in 1998 that Ron Segev wrote for. Um, and, uh, Ron and his brother Elon went on to form Segev LLP. They've got a whole bunch of lawyers working for them now. They work in the kind of crypto, online gaming, web 3, AI type space or whatever. So, I'm going to give a minute to say something.
 
 I doubt it'll be much of a sales pitch. All I want to say is, we've got like a legit legal practice backing our work now. They can help you with IP, they can help you with incorporation, questions about that, because they've been involved with interesting cases along the way. There was an AI loot box thing that I read about on their blog and stuff.
 
@@ -175,7 +185,7 @@ Um, actually, to be even more transparent, I pitched him on a high number, and h
 
 So, anyway, that's, that's the nature of our relationship, and welcome.  Um,  is James Lester here?  James Lester runs Sons of Vancouver. Um, they're a distillery on the North Shore. They've given us like 10 bottles of vodka for our cocktails for a year now. And they, they send really interesting people to be a part of this community.
 
-I give them free tickets every month in exchange for those bottles of vodka. And they, um, they send very interesting people to our meetups and workshops. So thanks Alvy for being a part of this community and stuff like that. Um, Meta Creation Lab, SFU, [[Philippe Pasquier]].  Um, Mariana, who you're gonna meet tonight, speaking, introduced me to Philippe last February.
+I give them free tickets every month in exchange for those bottles of vodka. And they, um, they send very interesting people to our meetups and workshops. So thanks Alvy for being a part of this community and stuff like that. Um, Meta Creation Lab, SFU, Philippe Pasquier.  Um, Mariana, who you're gonna meet tonight, speaking, introduced me to Philippe last February.
 
 Philippe's become my number one supporter in this whole thing. I just really can't thank him enough. This month, he gave us two 55 inch LG screens for our out there demo stations. Last, uh, three months ago, he gave us a 10, 000 sound system. Um,  thanks, Philippe, for believing in this and supporting it, man. Um, we're, we're, he supports Lionel, who's a, now, a research.
 
@@ -183,11 +193,11 @@ person in his lab. We're doing Canada Arts Council grants together. He's just, I
 
 I told you you were going to be shadowing me. You didn't know that it meant like hanging out on stage while I talked for an hour. I could be in your shot. No, bro. No way, bro. Um, so, also, don't go nowhere.  Don't go nowhere.  Corey, Corey's not here. Corey runs a distributor company called Goodness. They've started giving us, um, pallets of water, pallets of mocktails, stuff like that.
 
-He's a connection through [[Lorraine Lowe]]. Lorraine, from the Space Center here, has been bringing all the best things she has and introducing us to her people, and so Corey's a recent sponsor. I wanted to thank him as well.  Sons of Vancouver, Meta Creation, Goodness, Segiv. That's the only one left.  Um So, I wanted to give Matthew a minute to introduce our next sponsor, we have another month a munch cast sponsor that, um, I'm just gonna let Matthew do it. 
+He's a connection through Lorraine Lowe. Lorraine, from the Space Center here, has been bringing all the best things she has and introducing us to her people, and so Corey's a recent sponsor. I wanted to thank him as well.  Sons of Vancouver, Meta Creation, Goodness, Segiv. That's the only one left.  Um So, I wanted to give Matthew a minute to introduce our next sponsor, we have another month a munch cast sponsor that, um, I'm just gonna let Matthew do it. 
 
 Awesome, okay. So, this sponsor, very important sponsor. My first sponsor that I helped bring on, very difficult to get, very busy all the time. I have, I'm, I have close connections with him though. Um,  one of the reasons being,  Maybe because he's my dad? 
 
-But yeah, so, my father, [[Dimitri Schwartzman]]. Um, I 
+But yeah, so, my father, Dimitri Schwartzman. Um, I 
 
 think resemblance is kind of there.  Um, but yeah, real estate agent, best real estate agent. I'm a bit biased, maybe, maybe not, I don't know, up to you. Um, but yeah, so, my, my sponsor. 
 
@@ -203,7 +213,7 @@ Money has a strong gravitational pull. It makes stuff happen. It represents pote
 
 So, welcome to the money in the room. This is the environment you're finding yourself in, and we really, really appreciate your support. We couldn't do it without you. Um, seriously. I can't pay everyone 250 a month forever, right? So I appreciate you being here. Thank you very much. Okay, speaking of those everybody's, actually now is a good time to be like, Itamar, Kevin, if you've had anything to do with organizing or planning this event, if you're a volunteer or anybody involved, come on up for a quick sec. 
 
-If you can, Kevin. Brittany, that's you. Come on, guys. You know who you are. [[Jeff Clark]] has been here. Roz.  Lawrence, of course. Guys, don't make me call you all by name. I can't see everybody. Kush, if you want to come, you're a part of this whole thing too.  I just wanted to say thanks to everybody who makes this happen, you know, like it's a whole team,  um,  because we're all doing it kind of like off the side of our desk and the goodness of our heart.
+If you can, Kevin. Brittany, that's you. Come on, guys. You know who you are. Jeff Clark has been here. Roz.  Lawrence, of course. Guys, don't make me call you all by name. I can't see everybody. Kush, if you want to come, you're a part of this whole thing too.  I just wanted to say thanks to everybody who makes this happen, you know, like it's a whole team,  um,  because we're all doing it kind of like off the side of our desk and the goodness of our heart.
 
 We're just,  no one's making no money. We're just into this cause we believe in it. And then low key guys like Loki are out there advocating for all of us trying to big tens of millions of dollars in from provincials and federal governments, the types of things we're doing. Um, I just appreciate you guys, step in the light, let the picture get taken, yeah, yeah, yeah.
 
@@ -341,7 +351,7 @@ Just, you know.  Be respectful. Um, Nicole, are you still here? Great. Um, I'm r
 
 You know, this is kind of the thing I'm interested in too. Education, adoption, training around AI. Um, I've been inspired by what you're up to. She's traveling the world all the time. She's got a very unique message and um, Um,  we've got a bonafide perspective here now and like a community and now I'm ready to like take our community and rub it against other communities like the Seattle community and the, and the Calgary community and stuff like that and like let's see what's going on.
 
-Let's form some partnerships and some alliances. So, welcome from Seattle, [[Nicole Donnelly]]. Okay. 
+Let's form some partnerships and some alliances. So, welcome from Seattle, Nicole Donnelly. Okay. 
 
 Well, thank you. Thanks for having me. I'll show  you a little something. This happened five days ago. 
 
@@ -415,7 +425,7 @@ I feel like it's taken me nine months to even really kind of  get to the next le
 
 And I have to acknowledge, I remember first or second meetup, I have to acknowledge you got bagged. But not you personally, you as an audience got bagged. Um, so, also have to acknowledge  besides Canadians, Americans, There is a Serbian here. Annoying Eastern European  Eastern European humor. This is not a moment for stand up.
 
-So, I'm gonna switch to personas, synthetic personas, and the research I'm doing at Northeastern. So, thank you, Kris Krüg, for the introduction. My name is [[Mirjana Prpa]]. I'm a professor at Northeastern University in Vancouver. It's Northeastern, not Western, even though we are in Northwest. We get it all the time.
+So, I'm gonna switch to personas, synthetic personas, and the research I'm doing at Northeastern. So, thank you, Kris Krüg, for the introduction. My name is Mirjana Prpa. I'm a professor at Northeastern University in Vancouver. It's Northeastern, not Western, even though we are in Northwest. We get it all the time.
 
 Um, and my research is on topics that relate to virtual reality and large language models.  How I got into VR, it's been a long time. And I got into VR because I really didn't like what I experienced in VR, and I felt we can make this better, and I feel this drive to make things better is something that keeps me going as a researcher, as an educator, as someone who's working with young talent that are super promising, um, and we focus our efforts right now on this idea that social virtual reality, you know, these Virtual reality platforms where everyone joins wearing headsets and everyone interacts and it's very complicated and complex and sometimes hostile and most of the time fun,  started being populated with these  agents.
 
@@ -529,7 +539,7 @@ Thank you, man.  Belief, did you have something you really need to say? Yeah. Ok
 
 Thanks guys for coming to this thing. Uh, I really enjoy it. It's so much fun. Uh, I try to bring you like the people I find the most interesting who are doing the most interesting stuff, who are like peers and colleagues and thinkers and going deep and so I think I just like  Consider you guys all part of that group, and I'm very happy that you're here  To wrap up tonight.
 
-We have [[Brittney Smaila]] who came out earlier and talked a little bit about cogs and how she's getting Students to use AI in her class  Yeah, she's done several readings. She's also a poet wordsmith deep thinker and  And I'm really excited that you're here tonight. Uh, I get to do the dress rehearsals where she, uh, reads them the night before and I get to, and then this is, you've done it again.
+We have Brittney Smaila who came out earlier and talked a little bit about cogs and how she's getting Students to use AI in her class  Yeah, she's done several readings. She's also a poet wordsmith deep thinker and  And I'm really excited that you're here tonight. Uh, I get to do the dress rehearsals where she, uh, reads them the night before and I get to, and then this is, you've done it again.
 
 Um, thank you so much for contributing your gifts and, um, Brittany Smiley. 
 
@@ -567,7 +577,7 @@ Thank you.  Um, I showed you guys some of the most interesting things I've seen 
 
 Also, I have one more parental type of thing I gotta say is like,  when we first got this place and did the contract that I told you was so important to me, uh, they said we couldn't drink in here.  And now they let us drink in here because we're respectful. We're cool.  So, could you guys just like, clean up after your neighbor and yourself and just like, like leave this place sweet? 
 
-And like, if somebody's asked you at some point to go upstairs at 930 or whatever, 945, like just do it or help out. Just do what you can, because these people are awesome.  This is, yeah.  Lucy, if you're here, Lorraine, if you're here, we really appreciate you. We appreciate your team, [[Michael Unger]], all the Space Center folks.
+And like, if somebody's asked you at some point to go upstairs at 930 or whatever, 945, like just do it or help out. Just do what you can, because these people are awesome.  This is, yeah.  Lucy, if you're here, Lorraine, if you're here, we really appreciate you. We appreciate your team, Michael Unger, all the Space Center folks.
 
 You guys are awesome. So, um, yeah, look after each other. Thanks for coming. Hey, uh, one more thing, a couple more things. We have a film screening here a week from tonight, The Thinking Game. There's a community like ours out of San Francisco called the AI Salon. We're doing a collaboration with them here.
 

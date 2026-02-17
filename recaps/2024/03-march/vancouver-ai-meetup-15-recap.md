@@ -1,3 +1,13 @@
+---
+title: "Vancouver AI Community Meetup #15 - Recap"
+date: 2023-12-07
+meetup_number: 15
+type: recap
+venue: "MacMillan Space Centre, Vancouver"
+speakers: ["Kris Kr\u00fcg", "Loki Jorgenson", "Matthew Schwartzman", "Michael Tippett"]
+attendance: 200
+tags: ["meetup", "recap", "vancouver-ai"]
+---
 # Vancouver AI Community Meetup #15 - Recap
 **Date:** March 2024  
 **Location:** MacMillan Space Centre, Vancouver  
@@ -20,7 +30,7 @@ The 15th Vancouver AI Community meetup marked a significant evolution toward cre
 - **Cross-disciplinary Innovation:** Musicians learning C++ through AI assistance to bridge audio and visual programming
 
 ### 🏛️ **Mind AI & Consciousness Group Launch**
-- **[[Loki Jorgenson]]** announced formation of intensive philosophical discussion group
+- **Loki Jorgenson** announced formation of intensive philosophical discussion group
 - **Focus:** Exploring consciousness through AI lens, integrating 2000+ years of philosophical inquiry with cutting-edge technology
 - **Structure:** Small group, pre-readings required, meeting every couple months for 2-hour deep discussions
 
@@ -50,7 +60,7 @@ The 15th Vancouver AI Community meetup marked a significant evolution toward cre
 
 **Significance:** First live AI-assisted musical performance in Vancouver AI community, demonstrating real-time human-AI creative collaboration.
 
-### [[Michael Tippett]] "Mr. Canada" AI Film Series
+### Michael Tippett "Mr. Canada" AI Film Series
 
 **Project Vision:** Educational entertainment addressing Canadian political literacy through AI-generated content.
 
@@ -158,7 +168,7 @@ The 15th Vancouver AI Community meetup marked a significant evolution toward cre
 
 ### Subgroup Ecosystem Expansion
 
-**Surrey AI (Riv & [[Matthew Schwartzman]]):**
+**Surrey AI (Riv & Matthew Schwartzman):**
 - **Format:** 13-14 person circle discussions enabling universal participation
 - **Schedule:** Every second Tuesday (modified for scheduling conflicts)
 - **Growth:** First event successful, second planned with expanded attendance
@@ -522,7 +532,7 @@ The 15th Vancouver AI Community meetup marked a significant evolution toward cre
 
 **Ian Wally:** "AI is basically a child that we're training. We're training it how to live in this world where alignment is basically like raising a child."
 
-**[[Kris Krüg]]:** "If I get a bunch of smart, curious, generous, open-hearted people in a room on the regular... things that are more amazing than any of us can conceive of will come."
+**Kris Krüg:** "If I get a bunch of smart, curious, generous, open-hearted people in a room on the regular... things that are more amazing than any of us can conceive of will come."
 
 **Cam Kill:** "Surrendering is part of that process... as soon as I said I surrender to it, it changed the vibration and everything I ever needed came to me."
 

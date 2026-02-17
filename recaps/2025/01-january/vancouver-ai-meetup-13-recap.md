@@ -1,3 +1,13 @@
+---
+title: "Vancouver AI Community Meetup #13 - Recap"
+date: 2024-03-11
+meetup_number: 13
+type: recap
+venue: "MacMillan Space Centre, Vancouver"
+speakers: ["Dimitri Schwartzman", "Jeff Clark", "Kevin Friel", "Kris Kr\u00fcg", "Loki Jorgenson", "Matthew Schwartzman", "Nicole Donnelly", "Ron Segev"]
+attendance: 200
+tags: ["meetup", "recap", "vancouver-ai"]
+---
 # Vancouver AI Community Meetup #13 - Recap
 **Date:** January 2024  
 **Location:** MacMillan Space Centre, Vancouver  
@@ -25,7 +35,7 @@ The 13th Vancouver AI Community meetup marked a pivotal one-year anniversary cel
 - **Solution Provided:** CodeCarbon integration for precise energy monitoring
 
 ### 💰 **Corporate Partnership Evolution**
-- **Formal Sponsorship Launch:** Segev Law Firm, [[Dimitri Schwartzman]] (real estate), Sons of Vancouver (distillery)
+- **Formal Sponsorship Launch:** Segev Law Firm, Dimitri Schwartzman (real estate), Sons of Vancouver (distillery)
 - **Andrew Reid Partnership:** $3,000 data storytelling competition launching
 - **Transparent Financial Model:** $5,000 monthly budget breakdown shared publicly
 
@@ -54,12 +64,12 @@ The 13th Vancouver AI Community meetup marked a pivotal one-year anniversary cel
 
 **Segev Law Firm (Marius Adomnik):**
 - **Background:** 45-lawyer firm specializing in crypto, AI, gaming, Web3
-- **Personal Connection:** [[Ron Segev]] 20+ year relationship with Kris (band played his 30th birthday, wrote for his 1998 online magazine)
+- **Personal Connection:** Ron Segev 20+ year relationship with Kris (band played his 30th birthday, wrote for his 1998 online magazine)
 - **Services:** Full-service legal support from incorporation to IPO
 - **Commitment:** Initially 6 months, extended to year with potential for higher-level partnership
 
-**[[Dimitri Schwartzman]] (Real Estate):**
-- **Family Integration:** [[Matthew Schwartzman]] (18-year-old son) serving as sponsorships/partnerships manager
+**Dimitri Schwartzman (Real Estate):**
+- **Family Integration:** Matthew Schwartzman (18-year-old son) serving as sponsorships/partnerships manager
 - **Industry Challenge:** "A lot of people in this business are afraid to try something different, something new"
 - **Community Role:** Testing ground for real estate AI applications
 
@@ -71,11 +81,11 @@ The 13th Vancouver AI Community meetup marked a pivotal one-year anniversary cel
 ### Volunteer Team Recognition
 
 **Core Team Acknowledgment:**
-- **[[Kevin Friel]]:** Technical systems and video production
+- **Kevin Friel:** Technical systems and video production
 - **Brittany Mila:** Event organization and academic integration  
-- **[[Matthew Schwartzman]]:** Sponsorships and partnerships (18-year-old managing corporate relationships)
+- **Matthew Schwartzman:** Sponsorships and partnerships (18-year-old managing corporate relationships)
 - **Itamar:** Key volunteer coordinator
-- **Multiple Contributors:** [[Jeff Clark]], Roz, Lawrence, and others
+- **Multiple Contributors:** Jeff Clark, Roz, Lawrence, and others
 
 **Philosophy:** "We're all doing it kind of like off the side of our desk and the goodness of our heart... no one's making money. We're just into this cause we believe in it."
 
@@ -141,7 +151,7 @@ The 13th Vancouver AI Community meetup marked a pivotal one-year anniversary cel
 
 **Industry Gap:** Big cloud providers only provide "ballpark estimations" despite hardware manufacturers providing "milliwatt hour" precision.
 
-### [[Kevin Friel]]'s Automated Video Production System
+### Kevin Friel's Automated Video Production System
 
 **Project Goal:** Reducing 4-week video editing backlog to 20-30 minutes post-event.
 
@@ -282,7 +292,7 @@ The 13th Vancouver AI Community meetup marked a pivotal one-year anniversary cel
 
 ## Professional Development & Training
 
-### [[Nicole Donnelly]] AI Adoption Philosophy
+### Nicole Donnelly AI Adoption Philosophy
 
 **Background:** Professional snowboarder → AI adoption specialist with global training reach.
 
@@ -338,8 +348,8 @@ The 13th Vancouver AI Community meetup marked a pivotal one-year anniversary cel
 ### BC + AI Center Consortium Development
 
 **Coalition Leadership:**
-- **[[Loki Jorgenson]] (Circle Innovation):** Government relations and SME AI adoption
-- **[[Kris Krüg]]:** Creative industries focus and community organizing
+- **Loki Jorgenson (Circle Innovation):** Government relations and SME AI adoption
+- **Kris Krüg:** Creative industries focus and community organizing
 - **Multiple Universities:** UBC Emerging Media Lab, SFU Metacreation Lab, Northeastern Vancouver
 
 **Funding Target:** Federal "tens of millions of dollars" from Justin Trudeau AI investment commitments.
@@ -540,9 +550,9 @@ The 13th Vancouver AI Community meetup marked a pivotal one-year anniversary cel
 
 ## Memorable Quotes
 
-**[[Kris Krüg]]:** "We are the people that self selected and come out and I appreciate you responding to the call."
+**Kris Krüg:** "We are the people that self selected and come out and I appreciate you responding to the call."
 
-**[[Nicole Donnelly]]:** "My big mission in life is bringing joy to a billion people... so that you can snowboard more, work less, get more of your brain back."
+**Nicole Donnelly:** "My big mission in life is bringing joy to a billion people... so that you can snowboard more, work less, get more of your brain back."
 
 **Brittany Mila:** "Be a nuisance to power for as long as you can."
 
@@ -550,7 +560,7 @@ The 13th Vancouver AI Community meetup marked a pivotal one-year anniversary cel
 
 **Lionel Ringenbach:** "We're kind of flying blind... if those big companies don't disclose the numbers, how could we actually know?"
 
-**[[Loki Jorgenson]]:** "There is a need for us to come together... to bring all of our talents and capabilities and resources, pool them in order to do something special."
+**Loki Jorgenson:** "There is a need for us to come together... to bring all of our talents and capabilities and resources, pool them in order to do something special."
 
 ---
 

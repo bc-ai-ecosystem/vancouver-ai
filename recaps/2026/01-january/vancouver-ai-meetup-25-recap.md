@@ -1,3 +1,12 @@
+---
+title: "Vancouver AI Meetup #25 — January 28, 2026 Recap"
+date: 2026-01-28
+meetup_number: 25
+type: recap
+venue: "H.R. MacMillan Space Centre, Vancouver, BC"
+attendance: 250
+tags: ["meetup", "recap", "vancouver-ai"]
+---
 # Vancouver AI Meetup #25 — January 28, 2026 Recap
 
 **Event:** Vancouver AI Meetup #25

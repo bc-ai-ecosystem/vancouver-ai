@@ -1,10 +1,18 @@
+---
+title: "Vancouver AI Community Special Event - "The Thinking Game" Film Screening & Panel"
+date: 2024-10-01
+type: transcript
+venue: "MacMillan Space Centre, Vancouver, BC"
+speakers: ["Kris Kr\u00fcg", "Michael Fergusson"]
+tags: ["meetup", "transcript", "vancouver-ai"]
+---
 # Vancouver AI Community Special Event - "The Thinking Game" Film Screening & Panel
 ## Joint Event with Vancouver AI Salon
 
 **Date:** October 2024
 **Location:** MacMillan Space Centre, Vancouver, BC
 **Event Type:** Film Screening + Panel Discussion
-**Hosts:** Mikhail (Vancouver AI Salon) & [[Kris Krüg]] (Vancouver AI Community)
+**Hosts:** Mikhail (Vancouver AI Salon) & Kris Krüg (Vancouver AI Community)
 **Film:** "The Thinking Game" (DeepMind documentary)
 
 ---
@@ -205,7 +213,7 @@ Yeah.  I mean, I think we just have to look after each other. And maybe this is 
 
 And like I hadn't heard back from her after a week and I was like, yo mom, do you like the poem I generated for you with AI? And she started crying. And she was like, what kind of world do I even live in now where I don't even know, I love that thing. That wasn't you?  I don't even know the sound of my own son's voice or his face, like what the fuck is even going on with anything right now, you know, and so how do we, like at that level of disorientation, how do you, I mean, I mean, my mom's only 65 years old, it's just that, you know, between telemarketers and different things, she had no, no clue for a week until I told her and then she just had this moment of like, so I think it's a really good question actually, like where this is coming from is like, Some people say that if we don't make like, um, if we don't make them speak in robot voices so that we know that they're actually AIs or whatever, that we're, that we're essentially undermining trust in all institutions and one another.
 
-In fact, One more point before I pass the mic to [[Michael Fergusson]] here. Um, I was talking in my class today about, um, Notebook LLM, the cool podcast making thing. And everyone's like, well, why doesn't it have, uh, Eleven Labs plug in? Why doesn't it have all these voice, uh, note plug ins? And I'm like, I actually think because they don't want to devastate society.
+In fact, One more point before I pass the mic to Michael Fergusson here. Um, I was talking in my class today about, um, Notebook LLM, the cool podcast making thing. And everyone's like, well, why doesn't it have, uh, Eleven Labs plug in? Why doesn't it have all these voice, uh, note plug ins? And I'm like, I actually think because they don't want to devastate society.
 
 Like, if you could just, uh, put my voice and your voice into Notebook LLM and have whatever knowledge come out, it be virtually us, and you could do that for anybody in the whole, how would you even know that anything was true ever again?  Yeah, I mean, maybe we just need to move into, you know, how we had a lot of viruses on PCs through ages, and then antivirus software sort of started fixing it all.
 
@@ -348,4 +356,4 @@ Thanks, guys, for participating. Thanks, Juan.  Michelle, thank you, sir. Thanks
 - P(doom) assessments: Suzanne ~0.001%, Jason <5%
 
 **Community Collaboration:**
-Joint event between Vancouver AI Salon (Mikhail) and Vancouver AI Community ([[Kris Krüg]]), demonstrating cross-pollination between Vancouver AI organizations.
+Joint event between Vancouver AI Salon (Mikhail) and Vancouver AI Community (Kris Krüg), demonstrating cross-pollination between Vancouver AI organizations.
